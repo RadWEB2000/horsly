@@ -16,6 +16,11 @@
       "ts": "2023-05-31T11:59:12.755Z",
       "type": "config",
       "summary": "configure next/image allowed remote domains"
+    },
+    {
+      "ts": "2023-05-31T14:57:51.495Z",
+      "type": "fix",
+      "summary": "resolve 404 for dynamically generated sitemaps"
     }
   ]
 }
