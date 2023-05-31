@@ -6,6 +6,11 @@
       "ts": "2023-05-31T06:05:19.637Z",
       "type": "content",
       "summary": "add region-specific content for Małopolska stables"
+    },
+    {
+      "ts": "2023-05-31T08:12:25.913Z",
+      "type": "fix",
+      "summary": "fix duplicate meta description on category pages"
     }
   ]
 }
