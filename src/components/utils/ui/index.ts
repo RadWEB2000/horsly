@@ -1,0 +1,1 @@
+export {default as ProductsRow} from "@/ui/ProductsRow"

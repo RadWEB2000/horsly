@@ -1,0 +1,5 @@
+export {default as AvaibleColors} from "@/views/product-view/AvaibleColors"
+export {default as AvaibleSizes} from "@/views/product-view/AvaibleSizes"
+export {default as Description} from "@/views/product-view/Description"
+export {default as Hero} from "@/views/product-view/Hero"
+export {default as Specifications} from "@/views/product-view/Specifications"

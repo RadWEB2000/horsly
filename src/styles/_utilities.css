@@ -1,0 +1,138 @@
+
+
+  /* ALL */
+  
+  @utility all-reset {
+    all:unset;
+  }
+
+  /* CONTENT VISIBILITY */
+
+  @utility content-visible {
+    content-visibility: visible;
+  }
+
+  @utility content-invisible {
+    content-visibility: hidden;
+  }
+
+  /* FONT VARIANT NUMERIC */
+  
+  @utility font-numeric {
+    font-variant-numeric: normal;
+  }
+
+  @utility font-numeric-ordinal {
+    font-variant-numeric: ordinal;
+  }
+
+  @utility font-numeric-slash {
+    font-variant-numeric: slashed-zero;
+  }
+
+  @utility font-numeric-tabular {
+    font-variant-numeric: tabular-nums;
+  }
+
+  @utility font-numeric-old {
+    font-variant-numeric: oldstyle-nums;
+  }
+
+  @utility font-numeric-line {
+    font-variant-numeric: lining-nums;
+  }
+
+  @utility font-numeric-proportional {
+    font-variant-numeric: proportional-nums;
+  }
+
+  @utility font-numeric-fract {
+    font-variant-numeric: diagonal-fractions;
+  }
+  @utility hyphenate {
+    hyphens: auto;
+  }
+  @utility caps {
+    font-variant-caps: all-small-caps;
+  }
+  @utility no-scrollbar {
+    scrollbar-width: none;
+    &::-webkit-scrollbar {
+      display: none;
+    }
+  }
+  @utility clickable {
+    cursor: pointer;
+    touch-action: manipulation;
+  }
+
+  /* IMAGE RENDERIGN */
+
+  @utility img-render {
+      image-rendering: auto;
+  }
+
+  @utility img-render-smooth {
+      image-rendering: smooth;
+  }
+
+  @utility img-render-edge {
+      image-rendering: crisp-edges;
+      image-rendering: -moz-crisp-edges;
+  }
+
+  @utility img-render-pixel {
+      image-rendering: pixelated;
+  }
+
+
+  /* SCROLL DRIVING ANIMATIONS */
+
+  @utility scroll-timeline-page {
+    scroll-timeline: scroll();
+  }
+
+  @utility scroll-timeline-x {
+    scroll-timeline: scroll(x);
+  }
+
+  @utility view-timeline-block {
+    view-timeline: view(block);
+  }
+
+  @utility animation-timeline-scroll {
+    animation-timeline: scroll();
+  }
+
+@utility transition-default {
+  transition-property: all;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+  transition-duration: 300ms;
+}
+
+@utility transition-smooth {
+  transition-property: all;
+  transition-timing-function: cubic-bezier(0.2, 0.9, 0.4, 1.1);
+  transition-duration: 400ms;
+}
+
+
+@utility sticky-top {
+  position: sticky;
+  top: 0;
+}
+
+@utility sticky-top-offset {
+  position: sticky;
+  top: var(--sticky-offset, 5rem);
+}
+
+
+@utility debug {
+  outline: 3px dashed red;
+}
+
+@utility debug-grid {
+  background-image: linear-gradient(to right, rgba(255,0,0,0.1) 1px, transparent 1px);
+  background-size: 20px 20px;
+}

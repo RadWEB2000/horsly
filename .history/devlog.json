@@ -1,0 +1,11 @@
+{
+  "project": "horse-app",
+  "description": "Development log — auto-generated, do not edit manually",
+  "entries": [
+    {
+      "ts": "2023-05-31T06:05:19.637Z",
+      "type": "content",
+      "summary": "add region-specific content for Małopolska stables"
+    }
+  ]
+}

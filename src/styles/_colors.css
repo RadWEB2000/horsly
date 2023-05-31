@@ -1,0 +1,44 @@
+:root {
+    --brand-espresso: #2c2119;
+  --brand-coffee: #3a2a1f;
+  --brand-walnut: #4b3628;
+
+  /* Premium Accent */
+  --brand-caramel: #a78658;
+  --brand-gold: #b89a6a;
+
+  /* Neutral System */
+  --brand-stone: #7a6b5f;
+  --brand-bone: #e7ddd0;
+  --brand-parchment: #f7f4ef;
+  --brand-porcelain: #fffcf8;
+
+  /* Nature */
+  --brand-olive: #667255;
+  --brand-olive-muted: #90A64E;
+}
+
+@theme inline {
+
+  /* Brand Core */
+  --color-brand-espresso: #2c2119;
+  --color-brand-coffee: #3a2a1f;
+  --color-brand-walnut: #4b3628;
+
+  /* Premium Accent */
+  --color-brand-caramel: #a78658;
+  --color-brand-gold: #b89a6a;
+
+  /* Neutral System */
+  --color-brand-stone: #7a6b5f;
+  --color-brand-bone: #e7ddd0;
+  --color-brand-parchment: #f7f4ef;
+  --color-brand-porcelain: #fffcf8;
+
+  /* Nature */
+  --color-brand-olive: #667255;
+  --color-brand-olive-muted: #90A64E;
+
+
+
+}

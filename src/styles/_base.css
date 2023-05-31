@@ -1,0 +1,16 @@
+html {
+  scroll-timeline-name: --page-scroll;
+  scroll-timeline-axis: block;
+  scrollbar-width: stable;
+}
+
+
+body {
+    background-color: var(--color-background);
+    color:var(--color-foreground);
+    font-family: var(--font-body);
+}
+
+h1, h2, h3 {
+    font-family: var(--font-heading);
+}

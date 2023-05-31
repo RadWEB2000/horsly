@@ -1,0 +1,1 @@
+export {default as Hero} from "@/views/post-view/Hero"

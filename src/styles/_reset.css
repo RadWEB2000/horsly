@@ -1,0 +1,21 @@
+@layer base {
+ a {
+    color:inherit;
+    cursor: pointer;
+    text-decoration: none;
+ }
+
+ button {
+    background: none;
+    border:none;
+    cursor: pointer;
+    font-family: inherit;
+    outline:none;
+ }
+
+input {
+    background:transparent;
+    border:none;
+    outline:none;
+}
+}

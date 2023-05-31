@@ -1,0 +1,14 @@
+.prose mark {
+    background-color: var(--color-brand-bone) !important;
+}
+
+.prose a {
+    color:var(--color-brand-caramel);
+}
+
+.prose a:hover, 
+.prose a:focus, 
+.prose a:focus-visible, 
+.prose a:focus-within{
+    color:var(--color-brand-gold);
+}
