@@ -26,6 +26,11 @@
       "ts": "2023-06-01T16:06:32.468Z",
       "type": "refactor",
       "summary": "extract date helpers to lib/date module"
+    },
+    {
+      "ts": "2023-06-02T07:07:31.821Z",
+      "type": "fix",
+      "summary": "fix z-index overlap in mobile navigation menu"
     }
   ]
 }
