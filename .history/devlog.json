@@ -31,6 +31,11 @@
       "ts": "2023-06-02T07:07:31.821Z",
       "type": "fix",
       "summary": "fix z-index overlap in mobile navigation menu"
+    },
+    {
+      "ts": "2023-06-02T10:38:25.758Z",
+      "type": "feat",
+      "summary": "add interactive arena diagram component"
     }
   ]
 }
