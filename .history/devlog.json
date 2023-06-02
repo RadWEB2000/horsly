@@ -36,6 +36,11 @@
       "ts": "2023-06-02T10:38:25.758Z",
       "type": "feat",
       "summary": "add interactive arena diagram component"
+    },
+    {
+      "ts": "2023-06-02T14:11:15.149Z",
+      "type": "fix",
+      "summary": "correct filter state reset on route change"
     }
   ]
 }
