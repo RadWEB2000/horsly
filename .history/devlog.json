@@ -51,6 +51,11 @@
       "ts": "2023-06-06T11:06:52.519Z",
       "type": "refactor",
       "summary": "migrate to TypeScript strict mode across src/"
+    },
+    {
+      "ts": "2023-06-06T15:44:32.323Z",
+      "type": "feat",
+      "summary": "add breadcrumb schema markup to all pages"
     }
   ]
 }
