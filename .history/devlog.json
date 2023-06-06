@@ -46,6 +46,11 @@
       "ts": "2023-06-06T08:00:16.915Z",
       "type": "feat",
       "summary": "implement product listing with category filters"
+    },
+    {
+      "ts": "2023-06-06T11:06:52.519Z",
+      "type": "refactor",
+      "summary": "migrate to TypeScript strict mode across src/"
     }
   ]
 }
