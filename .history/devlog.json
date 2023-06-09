@@ -76,6 +76,11 @@
       "ts": "2023-06-09T06:34:31.568Z",
       "type": "feat",
       "summary": "implement email subscription with double opt-in"
+    },
+    {
+      "ts": "2023-06-09T07:33:00.096Z",
+      "type": "fix",
+      "summary": "correct date formatting in event calendar"
     }
   ]
 }
