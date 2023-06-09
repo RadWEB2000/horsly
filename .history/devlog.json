@@ -71,6 +71,11 @@
       "ts": "2023-06-08T11:39:54.503Z",
       "type": "refactor",
       "summary": "extract date helpers to lib/date module"
+    },
+    {
+      "ts": "2023-06-09T06:34:31.568Z",
+      "type": "feat",
+      "summary": "implement email subscription with double opt-in"
     }
   ]
 }
