@@ -96,6 +96,11 @@
       "ts": "2023-06-12T08:56:53.854Z",
       "type": "feat",
       "summary": "add social sharing component with OG metadata"
+    },
+    {
+      "ts": "2023-06-12T13:45:56.174Z",
+      "type": "feat",
+      "summary": "add print-friendly styles for horse passports"
     }
   ]
 }
