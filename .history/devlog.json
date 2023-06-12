@@ -101,6 +101,11 @@
       "ts": "2023-06-12T13:45:56.174Z",
       "type": "feat",
       "summary": "add print-friendly styles for horse passports"
+    },
+    {
+      "ts": "2023-06-12T16:14:43.347Z",
+      "type": "feat",
+      "summary": "implement search engine preview component"
     }
   ]
 }
