@@ -86,6 +86,11 @@
       "ts": "2023-06-09T15:32:04.246Z",
       "type": "fix",
       "summary": "fix memory leak in WebSocket auction connection"
+    },
+    {
+      "ts": "2023-06-12T07:51:00.393Z",
+      "type": "fix",
+      "summary": "fix z-index overlap in mobile navigation menu"
     }
   ]
 }
