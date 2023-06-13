@@ -111,6 +111,11 @@
       "ts": "2023-06-13T12:13:14.849Z",
       "type": "feat",
       "summary": "implement paginated blog archive with ISR"
+    },
+    {
+      "ts": "2023-06-13T15:23:59.707Z",
+      "type": "config",
+      "summary": "configure bundle analyzer for production builds"
     }
   ]
 }
