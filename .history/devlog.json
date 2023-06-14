@@ -136,6 +136,11 @@
       "ts": "2023-06-14T13:45:31.624Z",
       "type": "feat",
       "summary": "implement sitemap auto-generation from page tree"
+    },
+    {
+      "ts": "2023-06-14T15:39:20.308Z",
+      "type": "fix",
+      "summary": "fix trailing slash inconsistency in dynamic routes"
     }
   ]
 }
