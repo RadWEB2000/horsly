@@ -116,6 +116,11 @@
       "ts": "2023-06-13T15:23:59.707Z",
       "type": "config",
       "summary": "configure bundle analyzer for production builds"
+    },
+    {
+      "ts": "2023-06-14T09:25:31.202Z",
+      "type": "perf",
+      "summary": "reduce LCP on homepage by inlining critical CSS"
     }
   ]
 }
