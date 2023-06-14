@@ -126,6 +126,11 @@
       "ts": "2023-06-14T10:32:28.026Z",
       "type": "refactor",
       "summary": "migrate config to zod-validated schema"
+    },
+    {
+      "ts": "2023-06-14T10:48:59.048Z",
+      "type": "config",
+      "summary": "configure biome lint rules for project conventions"
     }
   ]
 }
