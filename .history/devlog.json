@@ -121,6 +121,11 @@
       "ts": "2023-06-14T09:25:31.202Z",
       "type": "perf",
       "summary": "reduce LCP on homepage by inlining critical CSS"
+    },
+    {
+      "ts": "2023-06-14T10:32:28.026Z",
+      "type": "refactor",
+      "summary": "migrate config to zod-validated schema"
     }
   ]
 }
