@@ -131,6 +131,11 @@
       "ts": "2023-06-14T10:48:59.048Z",
       "type": "config",
       "summary": "configure biome lint rules for project conventions"
+    },
+    {
+      "ts": "2023-06-14T13:45:31.624Z",
+      "type": "feat",
+      "summary": "implement sitemap auto-generation from page tree"
     }
   ]
 }
