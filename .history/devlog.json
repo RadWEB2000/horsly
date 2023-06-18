@@ -151,6 +151,11 @@
       "ts": "2023-06-18T07:13:27.996Z",
       "type": "feat",
       "summary": "implement comparison tool for horse breeds"
+    },
+    {
+      "ts": "2023-06-18T07:25:06.768Z",
+      "type": "fix",
+      "summary": "correct currency formatting for non-PLN locales"
     }
   ]
 }
