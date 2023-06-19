@@ -156,6 +156,11 @@
       "ts": "2023-06-18T07:25:06.768Z",
       "type": "fix",
       "summary": "correct currency formatting for non-PLN locales"
+    },
+    {
+      "ts": "2023-06-19T08:32:17.867Z",
+      "type": "fix",
+      "summary": "fix duplicate meta description on category pages"
     }
   ]
 }
