@@ -161,6 +161,11 @@
       "ts": "2023-06-19T08:32:17.867Z",
       "type": "fix",
       "summary": "fix duplicate meta description on category pages"
+    },
+    {
+      "ts": "2023-06-19T09:13:06.204Z",
+      "type": "fix",
+      "summary": "fix missing alt attributes on gallery images"
     }
   ]
 }
