@@ -166,6 +166,11 @@
       "ts": "2023-06-19T09:13:06.204Z",
       "type": "fix",
       "summary": "fix missing alt attributes on gallery images"
+    },
+    {
+      "ts": "2023-06-19T13:22:53.814Z",
+      "type": "fix",
+      "summary": "fix race condition in geolocation map component"
     }
   ]
 }
