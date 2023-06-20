@@ -176,6 +176,11 @@
       "ts": "2023-06-20T08:42:47.272Z",
       "type": "refactor",
       "summary": "refactor sitemap generator to use async generator"
+    },
+    {
+      "ts": "2023-06-20T10:55:06.774Z",
+      "type": "feat",
+      "summary": "implement search engine preview component"
     }
   ]
 }
