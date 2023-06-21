@@ -181,6 +181,11 @@
       "ts": "2023-06-20T10:55:06.774Z",
       "type": "feat",
       "summary": "implement search engine preview component"
+    },
+    {
+      "ts": "2023-06-21T06:13:48.328Z",
+      "type": "refactor",
+      "summary": "consolidate structured data generators into factory"
     }
   ]
 }
