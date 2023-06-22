@@ -196,6 +196,11 @@
       "ts": "2023-06-22T13:09:47.121Z",
       "type": "content",
       "summary": "update newsletter signup copy and CTA"
+    },
+    {
+      "ts": "2023-06-22T15:32:56.765Z",
+      "type": "config",
+      "summary": "configure Vercel edge network caching rules"
     }
   ]
 }
