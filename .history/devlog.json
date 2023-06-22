@@ -186,6 +186,11 @@
       "ts": "2023-06-21T06:13:48.328Z",
       "type": "refactor",
       "summary": "consolidate structured data generators into factory"
+    },
+    {
+      "ts": "2023-06-22T12:53:49.297Z",
+      "type": "config",
+      "summary": "add Sentry source map upload to build pipeline"
     }
   ]
 }
