@@ -206,6 +206,11 @@
       "ts": "2023-06-23T07:36:37.465Z",
       "type": "fix",
       "summary": "resolve infinite redirect in canonical middleware"
+    },
+    {
+      "ts": "2023-06-23T10:21:23.444Z",
+      "type": "fix",
+      "summary": "fix duplicate meta description on category pages"
     }
   ]
 }
