@@ -221,6 +221,11 @@
       "ts": "2023-06-25T07:30:36.973Z",
       "type": "feat",
       "summary": "implement auction listing with bidding metadata"
+    },
+    {
+      "ts": "2023-06-25T10:35:05.064Z",
+      "type": "refactor",
+      "summary": "split monolithic ListingCard into composable parts"
     }
   ]
 }
