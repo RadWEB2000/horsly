@@ -231,6 +231,11 @@
       "ts": "2023-06-25T12:19:34.285Z",
       "type": "feat",
       "summary": "add Open Graph image generation for listings"
+    },
+    {
+      "ts": "2023-06-26T06:27:08.181Z",
+      "type": "docs",
+      "summary": "add contributing guide for content editors"
     }
   ]
 }
