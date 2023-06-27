@@ -241,6 +241,11 @@
       "ts": "2023-06-27T07:41:01.686Z",
       "type": "feat",
       "summary": "implement comparison tool for horse breeds"
+    },
+    {
+      "ts": "2023-06-27T11:13:55.814Z",
+      "type": "content",
+      "summary": "add case study content for homepage hero section"
     }
   ]
 }
