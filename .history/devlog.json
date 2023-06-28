@@ -256,6 +256,11 @@
       "ts": "2023-06-28T12:31:13.911Z",
       "type": "fix",
       "summary": "resolve CSP violation for third-party map tiles"
+    },
+    {
+      "ts": "2023-06-28T15:14:40.804Z",
+      "type": "feat",
+      "summary": "implement search engine preview component"
     }
   ]
 }
