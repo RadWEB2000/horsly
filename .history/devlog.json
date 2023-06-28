@@ -246,6 +246,11 @@
       "ts": "2023-06-27T11:13:55.814Z",
       "type": "content",
       "summary": "add case study content for homepage hero section"
+    },
+    {
+      "ts": "2023-06-28T08:05:22.454Z",
+      "type": "fix",
+      "summary": "correct sitemap lastmod date format to ISO 8601"
     }
   ]
 }
