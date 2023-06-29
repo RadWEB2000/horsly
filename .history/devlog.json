@@ -261,6 +261,11 @@
       "ts": "2023-06-28T15:14:40.804Z",
       "type": "feat",
       "summary": "implement search engine preview component"
+    },
+    {
+      "ts": "2023-06-29T07:24:34.924Z",
+      "type": "refactor",
+      "summary": "replace magic strings with typed enum constants"
     }
   ]
 }
