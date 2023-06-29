@@ -281,6 +281,11 @@
       "ts": "2023-06-29T09:40:21.505Z",
       "type": "docs",
       "summary": "document sitemap generation and regeneration process"
+    },
+    {
+      "ts": "2023-06-29T11:36:40.155Z",
+      "type": "refactor",
+      "summary": "consolidate API error handling into interceptor"
     }
   ]
 }
