@@ -286,6 +286,11 @@
       "ts": "2023-06-29T11:36:40.155Z",
       "type": "refactor",
       "summary": "consolidate API error handling into interceptor"
+    },
+    {
+      "ts": "2023-06-29T13:02:56.371Z",
+      "type": "feat",
+      "summary": "implement custom 404 with SEO-friendly copy"
     }
   ]
 }
