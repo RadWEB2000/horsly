@@ -291,6 +291,11 @@
       "ts": "2023-06-29T13:02:56.371Z",
       "type": "feat",
       "summary": "implement custom 404 with SEO-friendly copy"
+    },
+    {
+      "ts": "2023-06-30T13:46:49.615Z",
+      "type": "feat",
+      "summary": "implement lazy loading for stable gallery images"
     }
   ]
 }
