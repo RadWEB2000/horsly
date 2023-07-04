@@ -301,6 +301,11 @@
       "ts": "2023-07-03T12:00:33.005Z",
       "type": "config",
       "summary": "add Content-Security-Policy to middleware"
+    },
+    {
+      "ts": "2023-07-04T06:56:24.376Z",
+      "type": "refactor",
+      "summary": "migrate meta tag logic to useSeoMeta hook"
     }
   ]
 }
