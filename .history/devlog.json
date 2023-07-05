@@ -316,6 +316,11 @@
       "ts": "2023-07-05T13:44:18.417Z",
       "type": "feat",
       "summary": "implement dynamic robots.txt generation"
+    },
+    {
+      "ts": "2023-07-05T15:27:48.017Z",
+      "type": "feat",
+      "summary": "add FAQ schema markup generator"
     }
   ]
 }
