@@ -321,6 +321,11 @@
       "ts": "2023-07-05T15:27:48.017Z",
       "type": "feat",
       "summary": "add FAQ schema markup generator"
+    },
+    {
+      "ts": "2023-07-05T16:29:32.171Z",
+      "type": "perf",
+      "summary": "optimize critical rendering path for product pages"
     }
   ]
 }
