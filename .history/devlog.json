@@ -341,6 +341,11 @@
       "ts": "2023-07-07T15:02:01.812Z",
       "type": "refactor",
       "summary": "extract SEO utilities to shared lib/seo module"
+    },
+    {
+      "ts": "2023-07-10T15:05:37.334Z",
+      "type": "perf",
+      "summary": "implement static generation for blog archive pages"
     }
   ]
 }
