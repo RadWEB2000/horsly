@@ -346,6 +346,11 @@
       "ts": "2023-07-10T15:05:37.334Z",
       "type": "perf",
       "summary": "implement static generation for blog archive pages"
+    },
+    {
+      "ts": "2023-07-11T07:04:33.759Z",
+      "type": "content",
+      "summary": "update homepage meta description and H1 copy"
     }
   ]
 }
