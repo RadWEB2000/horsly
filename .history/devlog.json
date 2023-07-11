@@ -351,6 +351,11 @@
       "ts": "2023-07-11T07:04:33.759Z",
       "type": "content",
       "summary": "update homepage meta description and H1 copy"
+    },
+    {
+      "ts": "2023-07-11T13:44:44.211Z",
+      "type": "feat",
+      "summary": "add dark mode support with system preference detection"
     }
   ]
 }
