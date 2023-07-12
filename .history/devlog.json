@@ -356,6 +356,11 @@
       "ts": "2023-07-11T13:44:44.211Z",
       "type": "feat",
       "summary": "add dark mode support with system preference detection"
+    },
+    {
+      "ts": "2023-07-12T06:12:12.458Z",
+      "type": "refactor",
+      "summary": "consolidate Open Graph defaults into config object"
     }
   ]
 }
