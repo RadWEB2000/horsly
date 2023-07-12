@@ -361,6 +361,11 @@
       "ts": "2023-07-12T06:12:12.458Z",
       "type": "refactor",
       "summary": "consolidate Open Graph defaults into config object"
+    },
+    {
+      "ts": "2023-07-12T09:32:04.947Z",
+      "type": "feat",
+      "summary": "add FAQ schema markup generator"
     }
   ]
 }
