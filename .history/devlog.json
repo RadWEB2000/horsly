@@ -366,6 +366,11 @@
       "ts": "2023-07-12T09:32:04.947Z",
       "type": "feat",
       "summary": "add FAQ schema markup generator"
+    },
+    {
+      "ts": "2023-07-13T07:37:46.253Z",
+      "type": "feat",
+      "summary": "implement sitemap auto-generation from page tree"
     }
   ]
 }
