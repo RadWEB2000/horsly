@@ -401,6 +401,11 @@
       "ts": "2023-07-18T11:11:55.868Z",
       "type": "refactor",
       "summary": "refactor filter logic to use URL search params"
+    },
+    {
+      "ts": "2023-07-18T14:09:45.300Z",
+      "type": "refactor",
+      "summary": "refactor sitemap generator to use async generator"
     }
   ]
 }
