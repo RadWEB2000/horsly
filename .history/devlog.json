@@ -391,6 +391,11 @@
       "ts": "2023-07-17T12:35:15.931Z",
       "type": "feat",
       "summary": "implement stable locator map with geolocation"
+    },
+    {
+      "ts": "2023-07-18T09:05:09.988Z",
+      "type": "refactor",
+      "summary": "consolidate Open Graph defaults into config object"
     }
   ]
 }
