@@ -396,6 +396,11 @@
       "ts": "2023-07-18T09:05:09.988Z",
       "type": "refactor",
       "summary": "consolidate Open Graph defaults into config object"
+    },
+    {
+      "ts": "2023-07-18T11:11:55.868Z",
+      "type": "refactor",
+      "summary": "refactor filter logic to use URL search params"
     }
   ]
 }
