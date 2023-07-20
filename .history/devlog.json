@@ -421,6 +421,11 @@
       "ts": "2023-07-20T11:27:03.419Z",
       "type": "fix",
       "summary": "fix memory leak in WebSocket auction connection"
+    },
+    {
+      "ts": "2023-07-20T13:30:10.872Z",
+      "type": "content",
+      "summary": "update pricing page SEO copy"
     }
   ]
 }
