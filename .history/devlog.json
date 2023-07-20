@@ -431,6 +431,11 @@
       "ts": "2023-07-20T14:55:52.353Z",
       "type": "refactor",
       "summary": "consolidate API error handling into interceptor"
+    },
+    {
+      "ts": "2023-07-20T16:01:51.619Z",
+      "type": "feat",
+      "summary": "add news feed with article schema"
     }
   ]
 }
