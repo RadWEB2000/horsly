@@ -411,6 +411,11 @@
       "ts": "2023-07-20T07:26:16.993Z",
       "type": "config",
       "summary": "update sitemap generation configuration"
+    },
+    {
+      "ts": "2023-07-20T09:10:57.105Z",
+      "type": "config",
+      "summary": "add environment variable schema validation"
     }
   ]
 }
