@@ -406,6 +406,11 @@
       "ts": "2023-07-18T14:09:45.300Z",
       "type": "refactor",
       "summary": "refactor sitemap generator to use async generator"
+    },
+    {
+      "ts": "2023-07-20T07:26:16.993Z",
+      "type": "config",
+      "summary": "update sitemap generation configuration"
     }
   ]
 }
