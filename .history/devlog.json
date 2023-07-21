@@ -461,6 +461,11 @@
       "ts": "2023-07-21T12:59:21.175Z",
       "type": "fix",
       "summary": "fix broken image URLs in social preview cards"
+    },
+    {
+      "ts": "2023-07-21T13:31:38.413Z",
+      "type": "fix",
+      "summary": "correct currency formatting for non-PLN locales"
     }
   ]
 }
