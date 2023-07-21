@@ -436,6 +436,11 @@
       "ts": "2023-07-20T16:01:51.619Z",
       "type": "feat",
       "summary": "add news feed with article schema"
+    },
+    {
+      "ts": "2023-07-21T06:22:49.971Z",
+      "type": "fix",
+      "summary": "resolve 404 for dynamically generated sitemaps"
     }
   ]
 }
