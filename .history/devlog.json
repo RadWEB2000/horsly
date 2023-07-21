@@ -456,6 +456,11 @@
       "ts": "2023-07-21T10:49:22.084Z",
       "type": "config",
       "summary": "add Content-Security-Policy to middleware"
+    },
+    {
+      "ts": "2023-07-21T12:59:21.175Z",
+      "type": "fix",
+      "summary": "fix broken image URLs in social preview cards"
     }
   ]
 }
