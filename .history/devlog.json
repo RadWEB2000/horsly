@@ -441,6 +441,11 @@
       "ts": "2023-07-21T06:22:49.971Z",
       "type": "fix",
       "summary": "resolve 404 for dynamically generated sitemaps"
+    },
+    {
+      "ts": "2023-07-21T06:43:56.067Z",
+      "type": "fix",
+      "summary": "fix missing alt attributes on gallery images"
     }
   ]
 }
