@@ -466,6 +466,11 @@
       "ts": "2023-07-21T13:31:38.413Z",
       "type": "fix",
       "summary": "correct currency formatting for non-PLN locales"
+    },
+    {
+      "ts": "2023-07-24T08:16:13.664Z",
+      "type": "refactor",
+      "summary": "replace class components with function components"
     }
   ]
 }
