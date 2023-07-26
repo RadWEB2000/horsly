@@ -476,6 +476,11 @@
       "ts": "2023-07-25T10:04:37.785Z",
       "type": "content",
       "summary": "add testimonials section with review schema"
+    },
+    {
+      "ts": "2023-07-26T06:42:22.604Z",
+      "type": "fix",
+      "summary": "resolve CSP violation for third-party map tiles"
     }
   ]
 }
