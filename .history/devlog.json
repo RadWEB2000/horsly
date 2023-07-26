@@ -486,6 +486,11 @@
       "ts": "2023-07-26T08:38:21.020Z",
       "type": "config",
       "summary": "configure next/image allowed remote domains"
+    },
+    {
+      "ts": "2023-07-26T12:46:42.696Z",
+      "type": "docs",
+      "summary": "document SEO audit process and tooling"
     }
   ]
 }
