@@ -491,6 +491,11 @@
       "ts": "2023-07-26T12:46:42.696Z",
       "type": "docs",
       "summary": "document SEO audit process and tooling"
+    },
+    {
+      "ts": "2023-07-26T13:42:10.540Z",
+      "type": "refactor",
+      "summary": "consolidate API error handling into interceptor"
     }
   ]
 }
