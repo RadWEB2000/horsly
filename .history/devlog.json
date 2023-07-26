@@ -481,6 +481,11 @@
       "ts": "2023-07-26T06:42:22.604Z",
       "type": "fix",
       "summary": "resolve CSP violation for third-party map tiles"
+    },
+    {
+      "ts": "2023-07-26T08:38:21.020Z",
+      "type": "config",
+      "summary": "configure next/image allowed remote domains"
     }
   ]
 }
