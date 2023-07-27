@@ -511,6 +511,11 @@
       "ts": "2023-07-27T11:39:48.434Z",
       "type": "content",
       "summary": "update competition category naming conventions"
+    },
+    {
+      "ts": "2023-07-27T12:01:42.388Z",
+      "type": "config",
+      "summary": "update next.config.ts for pl/en/de i18n routing"
     }
   ]
 }
