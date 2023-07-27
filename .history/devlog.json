@@ -506,6 +506,11 @@
       "ts": "2023-07-27T10:58:23.353Z",
       "type": "feat",
       "summary": "add Core Web Vitals dashboard integration"
+    },
+    {
+      "ts": "2023-07-27T11:39:48.434Z",
+      "type": "content",
+      "summary": "update competition category naming conventions"
     }
   ]
 }
