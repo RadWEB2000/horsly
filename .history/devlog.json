@@ -536,6 +536,11 @@
       "ts": "2023-07-28T12:27:27.016Z",
       "type": "refactor",
       "summary": "extract shared map utilities to lib/geo"
+    },
+    {
+      "ts": "2023-07-28T14:53:50.113Z",
+      "type": "docs",
+      "summary": "add inline JSDoc for useSeoMeta hook"
     }
   ]
 }
