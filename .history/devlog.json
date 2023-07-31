@@ -541,6 +541,11 @@
       "ts": "2023-07-28T14:53:50.113Z",
       "type": "docs",
       "summary": "add inline JSDoc for useSeoMeta hook"
+    },
+    {
+      "ts": "2023-07-31T13:37:13.565Z",
+      "type": "feat",
+      "summary": "add horse breed detail pages with structured data"
     }
   ]
 }
