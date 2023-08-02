@@ -546,6 +546,11 @@
       "ts": "2023-07-31T13:37:13.565Z",
       "type": "feat",
       "summary": "add horse breed detail pages with structured data"
+    },
+    {
+      "ts": "2023-08-02T15:13:08.858Z",
+      "type": "fix",
+      "summary": "fix broken image URLs in social preview cards"
     }
   ]
 }
