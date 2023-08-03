@@ -566,6 +566,11 @@
       "ts": "2023-08-03T08:49:09.953Z",
       "type": "content",
       "summary": "revise landing page title tags for better CTR"
+    },
+    {
+      "ts": "2023-08-03T09:36:39.166Z",
+      "type": "perf",
+      "summary": "implement static generation for blog archive pages"
     }
   ]
 }
