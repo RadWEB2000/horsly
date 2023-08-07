@@ -576,6 +576,11 @@
       "ts": "2023-08-03T11:10:53.807Z",
       "type": "fix",
       "summary": "fix broken image URLs in social preview cards"
+    },
+    {
+      "ts": "2023-08-07T06:26:52.070Z",
+      "type": "perf",
+      "summary": "implement service worker for offline map tiles"
     }
   ]
 }
