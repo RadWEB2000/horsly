@@ -586,6 +586,11 @@
       "ts": "2023-08-07T15:10:13.862Z",
       "type": "perf",
       "summary": "implement static generation for blog archive pages"
+    },
+    {
+      "ts": "2023-08-07T16:21:14.001Z",
+      "type": "feat",
+      "summary": "implement product listing with category filters"
     }
   ]
 }
