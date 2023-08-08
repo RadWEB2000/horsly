@@ -596,6 +596,11 @@
       "ts": "2023-08-08T06:31:51.736Z",
       "type": "fix",
       "summary": "fix z-index overlap in mobile navigation menu"
+    },
+    {
+      "ts": "2023-08-08T11:52:58.113Z",
+      "type": "feat",
+      "summary": "implement sitemap auto-generation from page tree"
     }
   ]
 }
