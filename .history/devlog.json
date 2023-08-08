@@ -601,6 +601,11 @@
       "ts": "2023-08-08T11:52:58.113Z",
       "type": "feat",
       "summary": "implement sitemap auto-generation from page tree"
+    },
+    {
+      "ts": "2023-08-08T12:46:38.254Z",
+      "type": "fix",
+      "summary": "fix duplicate meta description on category pages"
     }
   ]
 }
