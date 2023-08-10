@@ -616,6 +616,11 @@
       "ts": "2023-08-09T08:16:31.814Z",
       "type": "feat",
       "summary": "add Open Graph image generation for listings"
+    },
+    {
+      "ts": "2023-08-10T08:16:39.772Z",
+      "type": "feat",
+      "summary": "implement product listing with category filters"
     }
   ]
 }
