@@ -621,6 +621,11 @@
       "ts": "2023-08-10T08:16:39.772Z",
       "type": "feat",
       "summary": "implement product listing with category filters"
+    },
+    {
+      "ts": "2023-08-11T12:56:59.938Z",
+      "type": "docs",
+      "summary": "document map component configuration options"
     }
   ]
 }
