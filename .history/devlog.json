@@ -626,6 +626,11 @@
       "ts": "2023-08-11T12:56:59.938Z",
       "type": "docs",
       "summary": "document map component configuration options"
+    },
+    {
+      "ts": "2023-08-12T13:32:35.676Z",
+      "type": "perf",
+      "summary": "implement ISR with 24h revalidation for breed pages"
     }
   ]
 }
