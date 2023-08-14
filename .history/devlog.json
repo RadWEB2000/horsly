@@ -631,6 +631,11 @@
       "ts": "2023-08-12T13:32:35.676Z",
       "type": "perf",
       "summary": "implement ISR with 24h revalidation for breed pages"
+    },
+    {
+      "ts": "2023-08-14T09:05:02.402Z",
+      "type": "content",
+      "summary": "update author bio metadata for trainers"
     }
   ]
 }
