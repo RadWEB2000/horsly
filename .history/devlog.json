@@ -636,6 +636,11 @@
       "ts": "2023-08-14T09:05:02.402Z",
       "type": "content",
       "summary": "update author bio metadata for trainers"
+    },
+    {
+      "ts": "2023-08-14T14:26:09.976Z",
+      "type": "config",
+      "summary": "update next.config.ts for pl/en/de i18n routing"
     }
   ]
 }
