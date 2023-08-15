@@ -646,6 +646,11 @@
       "ts": "2023-08-15T07:02:11.676Z",
       "type": "config",
       "summary": "add environment variable schema validation"
+    },
+    {
+      "ts": "2023-08-15T08:14:58.719Z",
+      "type": "feat",
+      "summary": "add horse breed detail pages with structured data"
     }
   ]
 }
