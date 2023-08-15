@@ -641,6 +641,11 @@
       "ts": "2023-08-14T14:26:09.976Z",
       "type": "config",
       "summary": "update next.config.ts for pl/en/de i18n routing"
+    },
+    {
+      "ts": "2023-08-15T07:02:11.676Z",
+      "type": "config",
+      "summary": "add environment variable schema validation"
     }
   ]
 }
