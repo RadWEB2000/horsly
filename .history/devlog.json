@@ -671,6 +671,11 @@
       "ts": "2023-08-16T11:06:16.013Z",
       "type": "config",
       "summary": "configure biome lint rules for project conventions"
+    },
+    {
+      "ts": "2023-08-16T12:39:21.495Z",
+      "type": "config",
+      "summary": "add Content-Security-Policy to middleware"
     }
   ]
 }
