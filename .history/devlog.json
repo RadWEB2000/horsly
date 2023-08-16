@@ -666,6 +666,11 @@
       "ts": "2023-08-15T14:21:41.373Z",
       "type": "content",
       "summary": "update homepage meta description and H1 copy"
+    },
+    {
+      "ts": "2023-08-16T11:06:16.013Z",
+      "type": "config",
+      "summary": "configure biome lint rules for project conventions"
     }
   ]
 }
