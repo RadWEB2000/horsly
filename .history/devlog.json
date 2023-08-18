@@ -676,6 +676,11 @@
       "ts": "2023-08-16T12:39:21.495Z",
       "type": "config",
       "summary": "add Content-Security-Policy to middleware"
+    },
+    {
+      "ts": "2023-08-18T09:20:42.949Z",
+      "type": "fix",
+      "summary": "fix Open Graph image dimensions for Twitter cards"
     }
   ]
 }
