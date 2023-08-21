@@ -696,6 +696,11 @@
       "ts": "2023-08-21T12:41:37.959Z",
       "type": "perf",
       "summary": "implement ISR with 24h revalidation for breed pages"
+    },
+    {
+      "ts": "2023-08-21T13:47:20.638Z",
+      "type": "feat",
+      "summary": "add event calendar for equestrian competitions"
     }
   ]
 }
