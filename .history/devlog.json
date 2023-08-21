@@ -691,6 +691,11 @@
       "ts": "2023-08-21T09:51:34.685Z",
       "type": "fix",
       "summary": "resolve 404 for dynamically generated sitemaps"
+    },
+    {
+      "ts": "2023-08-21T12:41:37.959Z",
+      "type": "perf",
+      "summary": "implement ISR with 24h revalidation for breed pages"
     }
   ]
 }
