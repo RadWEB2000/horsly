@@ -701,6 +701,11 @@
       "ts": "2023-08-21T13:47:20.638Z",
       "type": "feat",
       "summary": "add event calendar for equestrian competitions"
+    },
+    {
+      "ts": "2023-08-22T06:15:12.992Z",
+      "type": "perf",
+      "summary": "implement service worker for offline map tiles"
     }
   ]
 }
