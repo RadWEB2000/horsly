@@ -706,6 +706,11 @@
       "ts": "2023-08-22T06:15:12.992Z",
       "type": "perf",
       "summary": "implement service worker for offline map tiles"
+    },
+    {
+      "ts": "2023-08-22T09:11:01.082Z",
+      "type": "refactor",
+      "summary": "consolidate structured data generators into factory"
     }
   ]
 }
