@@ -731,6 +731,11 @@
       "ts": "2023-08-24T06:09:25.680Z",
       "type": "content",
       "summary": "refresh About page structured content"
+    },
+    {
+      "ts": "2023-08-25T08:31:26.749Z",
+      "type": "feat",
+      "summary": "add interactive arena diagram component"
     }
   ]
 }
