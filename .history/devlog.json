@@ -736,6 +736,11 @@
       "ts": "2023-08-25T08:31:26.749Z",
       "type": "feat",
       "summary": "add interactive arena diagram component"
+    },
+    {
+      "ts": "2023-08-29T13:06:01.466Z",
+      "type": "fix",
+      "summary": "fix race condition in geolocation map component"
     }
   ]
 }
