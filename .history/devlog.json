@@ -756,6 +756,11 @@
       "ts": "2023-08-31T06:28:17.773Z",
       "type": "fix",
       "summary": "resolve infinite redirect in canonical middleware"
+    },
+    {
+      "ts": "2023-08-31T08:28:57.318Z",
+      "type": "perf",
+      "summary": "compress devlog and reduce JSON payload size"
     }
   ]
 }
