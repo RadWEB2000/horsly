@@ -761,6 +761,11 @@
       "ts": "2023-08-31T08:28:57.318Z",
       "type": "perf",
       "summary": "compress devlog and reduce JSON payload size"
+    },
+    {
+      "ts": "2023-09-01T13:53:16.846Z",
+      "type": "feat",
+      "summary": "add interactive arena diagram component"
     }
   ]
 }
