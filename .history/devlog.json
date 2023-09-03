@@ -766,6 +766,11 @@
       "ts": "2023-09-01T13:53:16.846Z",
       "type": "feat",
       "summary": "add interactive arena diagram component"
+    },
+    {
+      "ts": "2023-09-03T11:29:55.905Z",
+      "type": "feat",
+      "summary": "add video gallery for competition replays"
     }
   ]
 }
