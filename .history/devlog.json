@@ -771,6 +771,11 @@
       "ts": "2023-09-03T11:29:55.905Z",
       "type": "feat",
       "summary": "add video gallery for competition replays"
+    },
+    {
+      "ts": "2023-09-03T15:57:52.317Z",
+      "type": "feat",
+      "summary": "implement email subscription with double opt-in"
     }
   ]
 }
