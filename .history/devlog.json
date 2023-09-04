@@ -781,6 +781,11 @@
       "ts": "2023-09-04T12:32:34.384Z",
       "type": "refactor",
       "summary": "replace class components with function components"
+    },
+    {
+      "ts": "2023-09-04T16:19:52.575Z",
+      "type": "feat",
+      "summary": "add news feed with article schema"
     }
   ]
 }
