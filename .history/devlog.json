@@ -786,6 +786,11 @@
       "ts": "2023-09-04T16:19:52.575Z",
       "type": "feat",
       "summary": "add news feed with article schema"
+    },
+    {
+      "ts": "2023-09-05T06:24:57.035Z",
+      "type": "feat",
+      "summary": "add trainer profile pages with schema markup"
     }
   ]
 }
