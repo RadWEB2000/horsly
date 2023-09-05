@@ -801,6 +801,11 @@
       "ts": "2023-09-05T09:11:28.228Z",
       "type": "feat",
       "summary": "add Core Web Vitals dashboard integration"
+    },
+    {
+      "ts": "2023-09-05T09:57:20.668Z",
+      "type": "feat",
+      "summary": "add social sharing component with OG metadata"
     }
   ]
 }
