@@ -806,6 +806,11 @@
       "ts": "2023-09-05T09:57:20.668Z",
       "type": "feat",
       "summary": "add social sharing component with OG metadata"
+    },
+    {
+      "ts": "2023-09-07T10:44:28.164Z",
+      "type": "perf",
+      "summary": "optimize critical rendering path for product pages"
     }
   ]
 }
