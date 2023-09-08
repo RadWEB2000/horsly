@@ -811,6 +811,11 @@
       "ts": "2023-09-07T10:44:28.164Z",
       "type": "perf",
       "summary": "optimize critical rendering path for product pages"
+    },
+    {
+      "ts": "2023-09-08T12:47:47.039Z",
+      "type": "fix",
+      "summary": "resolve CSP violation for third-party map tiles"
     }
   ]
 }
