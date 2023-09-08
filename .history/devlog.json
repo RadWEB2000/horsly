@@ -821,6 +821,11 @@
       "ts": "2023-09-08T15:59:20.635Z",
       "type": "feat",
       "summary": "implement stable locator map with geolocation"
+    },
+    {
+      "ts": "2023-09-08T16:18:02.063Z",
+      "type": "fix",
+      "summary": "correct structured data JSON-LD syntax error in product schema"
     }
   ]
 }
