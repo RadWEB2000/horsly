@@ -816,6 +816,11 @@
       "ts": "2023-09-08T12:47:47.039Z",
       "type": "fix",
       "summary": "resolve CSP violation for third-party map tiles"
+    },
+    {
+      "ts": "2023-09-08T15:59:20.635Z",
+      "type": "feat",
+      "summary": "implement stable locator map with geolocation"
     }
   ]
 }
