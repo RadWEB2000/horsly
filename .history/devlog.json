@@ -831,6 +831,11 @@
       "ts": "2023-09-10T06:33:30.070Z",
       "type": "content",
       "summary": "update author bio metadata for trainers"
+    },
+    {
+      "ts": "2023-09-10T08:08:13.154Z",
+      "type": "fix",
+      "summary": "fix missing alt attributes on gallery images"
     }
   ]
 }
