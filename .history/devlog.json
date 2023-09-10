@@ -826,6 +826,11 @@
       "ts": "2023-09-08T16:18:02.063Z",
       "type": "fix",
       "summary": "correct structured data JSON-LD syntax error in product schema"
+    },
+    {
+      "ts": "2023-09-10T06:33:30.070Z",
+      "type": "content",
+      "summary": "update author bio metadata for trainers"
     }
   ]
 }
