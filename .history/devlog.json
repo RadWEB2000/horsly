@@ -846,6 +846,11 @@
       "ts": "2023-09-11T14:27:09.790Z",
       "type": "feat",
       "summary": "implement advanced search with faceted filters"
+    },
+    {
+      "ts": "2023-09-11T16:02:01.489Z",
+      "type": "fix",
+      "summary": "correct filter state reset on route change"
     }
   ]
 }
