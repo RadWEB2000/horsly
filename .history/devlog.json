@@ -851,6 +851,11 @@
       "ts": "2023-09-11T16:02:01.489Z",
       "type": "fix",
       "summary": "correct filter state reset on route change"
+    },
+    {
+      "ts": "2023-09-12T09:15:58.690Z",
+      "type": "fix",
+      "summary": "correct sitemap lastmod date format to ISO 8601"
     }
   ]
 }
