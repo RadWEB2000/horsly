@@ -856,6 +856,11 @@
       "ts": "2023-09-12T09:15:58.690Z",
       "type": "fix",
       "summary": "correct sitemap lastmod date format to ISO 8601"
+    },
+    {
+      "ts": "2023-09-12T13:07:15.771Z",
+      "type": "fix",
+      "summary": "resolve CSP violation for third-party map tiles"
     }
   ]
 }
