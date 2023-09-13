@@ -876,6 +876,11 @@
       "ts": "2023-09-13T09:41:16.182Z",
       "type": "fix",
       "summary": "correct heading hierarchy on horse detail pages"
+    },
+    {
+      "ts": "2023-09-13T13:48:03.408Z",
+      "type": "fix",
+      "summary": "fix trailing slash inconsistency in dynamic routes"
     }
   ]
 }
