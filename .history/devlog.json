@@ -871,6 +871,11 @@
       "ts": "2023-09-13T09:36:09.595Z",
       "type": "fix",
       "summary": "fix race condition in geolocation map component"
+    },
+    {
+      "ts": "2023-09-13T09:41:16.182Z",
+      "type": "fix",
+      "summary": "correct heading hierarchy on horse detail pages"
     }
   ]
 }
