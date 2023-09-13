@@ -866,6 +866,11 @@
       "ts": "2023-09-13T08:01:35.528Z",
       "type": "feat",
       "summary": "implement paginated blog archive with ISR"
+    },
+    {
+      "ts": "2023-09-13T09:36:09.595Z",
+      "type": "fix",
+      "summary": "fix race condition in geolocation map component"
     }
   ]
 }
