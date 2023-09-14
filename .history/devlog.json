@@ -881,6 +881,11 @@
       "ts": "2023-09-13T13:48:03.408Z",
       "type": "fix",
       "summary": "fix trailing slash inconsistency in dynamic routes"
+    },
+    {
+      "ts": "2023-09-14T12:56:53.266Z",
+      "type": "feat",
+      "summary": "add video gallery for competition replays"
     }
   ]
 }
