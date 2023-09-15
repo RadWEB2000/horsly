@@ -886,6 +886,11 @@
       "ts": "2023-09-14T12:56:53.266Z",
       "type": "feat",
       "summary": "add video gallery for competition replays"
+    },
+    {
+      "ts": "2023-09-15T07:24:17.770Z",
+      "type": "perf",
+      "summary": "compress devlog and reduce JSON payload size"
     }
   ]
 }
