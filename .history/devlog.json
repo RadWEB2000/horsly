@@ -891,6 +891,11 @@
       "ts": "2023-09-15T07:24:17.770Z",
       "type": "perf",
       "summary": "compress devlog and reduce JSON payload size"
+    },
+    {
+      "ts": "2023-09-18T06:56:24.836Z",
+      "type": "feat",
+      "summary": "implement comparison tool for horse breeds"
     }
   ]
 }
