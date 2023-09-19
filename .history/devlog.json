@@ -901,6 +901,11 @@
       "ts": "2023-09-18T13:40:00.587Z",
       "type": "config",
       "summary": "update PostCSS config for custom breakpoints"
+    },
+    {
+      "ts": "2023-09-19T06:40:33.550Z",
+      "type": "fix",
+      "summary": "fix memory leak in WebSocket auction connection"
     }
   ]
 }
