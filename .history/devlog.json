@@ -906,6 +906,11 @@
       "ts": "2023-09-19T06:40:33.550Z",
       "type": "fix",
       "summary": "fix memory leak in WebSocket auction connection"
+    },
+    {
+      "ts": "2023-09-19T14:03:54.769Z",
+      "type": "feat",
+      "summary": "implement lazy loading for stable gallery images"
     }
   ]
 }
