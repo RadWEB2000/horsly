@@ -926,6 +926,11 @@
       "ts": "2023-09-20T10:30:21.735Z",
       "type": "feat",
       "summary": "add social sharing component with OG metadata"
+    },
+    {
+      "ts": "2023-09-20T10:56:46.350Z",
+      "type": "fix",
+      "summary": "fix z-index overlap in mobile navigation menu"
     }
   ]
 }
