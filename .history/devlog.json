@@ -921,6 +921,11 @@
       "ts": "2023-09-20T06:58:13.243Z",
       "type": "refactor",
       "summary": "migrate fetch calls to typed api client wrapper"
+    },
+    {
+      "ts": "2023-09-20T10:30:21.735Z",
+      "type": "feat",
+      "summary": "add social sharing component with OG metadata"
     }
   ]
 }
