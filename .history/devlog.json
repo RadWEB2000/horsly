@@ -911,6 +911,11 @@
       "ts": "2023-09-19T14:03:54.769Z",
       "type": "feat",
       "summary": "implement lazy loading for stable gallery images"
+    },
+    {
+      "ts": "2023-09-20T06:29:13.992Z",
+      "type": "feat",
+      "summary": "implement related listings recommendation block"
     }
   ]
 }
