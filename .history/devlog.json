@@ -936,6 +936,11 @@
       "ts": "2023-09-20T15:52:43.601Z",
       "type": "feat",
       "summary": "add trainer profile pages with schema markup"
+    },
+    {
+      "ts": "2023-09-21T06:37:32.007Z",
+      "type": "fix",
+      "summary": "fix broken pagination on search results page"
     }
   ]
 }
