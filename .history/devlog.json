@@ -961,6 +961,11 @@
       "ts": "2023-09-22T14:07:44.539Z",
       "type": "refactor",
       "summary": "split monolithic ListingCard into composable parts"
+    },
+    {
+      "ts": "2023-09-22T15:24:09.630Z",
+      "type": "feat",
+      "summary": "add horse breed detail pages with structured data"
     }
   ]
 }
