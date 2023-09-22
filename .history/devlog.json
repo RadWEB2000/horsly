@@ -956,6 +956,11 @@
       "ts": "2023-09-22T13:50:49.297Z",
       "type": "fix",
       "summary": "resolve hreflang alternate link self-referencing loop"
+    },
+    {
+      "ts": "2023-09-22T14:07:44.539Z",
+      "type": "refactor",
+      "summary": "split monolithic ListingCard into composable parts"
     }
   ]
 }
