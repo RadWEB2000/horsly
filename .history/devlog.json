@@ -966,6 +966,11 @@
       "ts": "2023-09-22T15:24:09.630Z",
       "type": "feat",
       "summary": "add horse breed detail pages with structured data"
+    },
+    {
+      "ts": "2023-09-23T12:54:02.063Z",
+      "type": "refactor",
+      "summary": "replace magic strings with typed enum constants"
     }
   ]
 }
