@@ -986,6 +986,11 @@
       "ts": "2023-09-25T13:00:43.176Z",
       "type": "refactor",
       "summary": "refactor horse schema to extend base Article type"
+    },
+    {
+      "ts": "2023-09-25T15:49:07.074Z",
+      "type": "fix",
+      "summary": "fix memory leak in WebSocket auction connection"
     }
   ]
 }
