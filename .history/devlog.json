@@ -981,6 +981,11 @@
       "ts": "2023-09-25T07:37:02.764Z",
       "type": "feat",
       "summary": "implement comparison tool for horse breeds"
+    },
+    {
+      "ts": "2023-09-25T13:00:43.176Z",
+      "type": "refactor",
+      "summary": "refactor horse schema to extend base Article type"
     }
   ]
 }
