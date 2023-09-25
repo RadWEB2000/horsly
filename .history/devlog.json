@@ -991,6 +991,11 @@
       "ts": "2023-09-25T15:49:07.074Z",
       "type": "fix",
       "summary": "fix memory leak in WebSocket auction connection"
+    },
+    {
+      "ts": "2023-09-25T16:23:00.042Z",
+      "type": "refactor",
+      "summary": "extract canonical URL logic to middleware"
     }
   ]
 }
