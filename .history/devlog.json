@@ -971,6 +971,11 @@
       "ts": "2023-09-23T12:54:02.063Z",
       "type": "refactor",
       "summary": "replace magic strings with typed enum constants"
+    },
+    {
+      "ts": "2023-09-25T06:00:02.636Z",
+      "type": "feat",
+      "summary": "implement lazy loading for stable gallery images"
     }
   ]
 }
