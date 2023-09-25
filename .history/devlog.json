@@ -976,6 +976,11 @@
       "ts": "2023-09-25T06:00:02.636Z",
       "type": "feat",
       "summary": "implement lazy loading for stable gallery images"
+    },
+    {
+      "ts": "2023-09-25T07:37:02.764Z",
+      "type": "feat",
+      "summary": "implement comparison tool for horse breeds"
     }
   ]
 }
