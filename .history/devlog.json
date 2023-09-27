@@ -996,6 +996,11 @@
       "ts": "2023-09-25T16:23:00.042Z",
       "type": "refactor",
       "summary": "extract canonical URL logic to middleware"
+    },
+    {
+      "ts": "2023-09-27T07:54:55.438Z",
+      "type": "fix",
+      "summary": "fix missing meta viewport on mobile templates"
     }
   ]
 }
