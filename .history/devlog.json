@@ -1016,6 +1016,11 @@
       "ts": "2023-09-28T12:41:32.213Z",
       "type": "content",
       "summary": "add FAQ content for main service pages"
+    },
+    {
+      "ts": "2023-09-29T06:19:11.511Z",
+      "type": "perf",
+      "summary": "optimize third-party map tile loading strategy"
     }
   ]
 }
