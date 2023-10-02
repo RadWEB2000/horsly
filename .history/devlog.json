@@ -1031,6 +1031,11 @@
       "ts": "2023-09-29T12:22:21.313Z",
       "type": "fix",
       "summary": "correct filter state reset on route change"
+    },
+    {
+      "ts": "2023-10-02T06:43:42.646Z",
+      "type": "feat",
+      "summary": "implement paginated blog archive with ISR"
     }
   ]
 }
