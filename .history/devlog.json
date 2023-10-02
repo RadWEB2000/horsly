@@ -1046,6 +1046,11 @@
       "ts": "2023-10-02T10:57:26.795Z",
       "type": "fix",
       "summary": "correct heading hierarchy on horse detail pages"
+    },
+    {
+      "ts": "2023-10-02T13:16:25.864Z",
+      "type": "content",
+      "summary": "add testimonials section with review schema"
     }
   ]
 }
