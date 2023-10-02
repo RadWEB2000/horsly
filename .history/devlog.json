@@ -1036,6 +1036,11 @@
       "ts": "2023-10-02T06:43:42.646Z",
       "type": "feat",
       "summary": "implement paginated blog archive with ISR"
+    },
+    {
+      "ts": "2023-10-02T08:50:18.184Z",
+      "type": "refactor",
+      "summary": "migrate config to zod-validated schema"
     }
   ]
 }
