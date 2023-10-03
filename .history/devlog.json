@@ -1056,6 +1056,11 @@
       "ts": "2023-10-02T15:04:25.378Z",
       "type": "config",
       "summary": "configure trailing slash behavior globally"
+    },
+    {
+      "ts": "2023-10-03T10:53:16.852Z",
+      "type": "feat",
+      "summary": "implement dynamic robots.txt generation"
     }
   ]
 }
