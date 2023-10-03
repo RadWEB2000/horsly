@@ -1061,6 +1061,11 @@
       "ts": "2023-10-03T10:53:16.852Z",
       "type": "feat",
       "summary": "implement dynamic robots.txt generation"
+    },
+    {
+      "ts": "2023-10-03T13:43:56.742Z",
+      "type": "refactor",
+      "summary": "migrate meta tag logic to useSeoMeta hook"
     }
   ]
 }
