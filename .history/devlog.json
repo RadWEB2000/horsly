@@ -1086,6 +1086,11 @@
       "ts": "2023-10-06T11:30:16.597Z",
       "type": "refactor",
       "summary": "extract shared map utilities to lib/geo"
+    },
+    {
+      "ts": "2023-10-06T12:47:16.772Z",
+      "type": "feat",
+      "summary": "add hreflang support for pl/en/de locales"
     }
   ]
 }
