@@ -1091,6 +1091,11 @@
       "ts": "2023-10-06T12:47:16.772Z",
       "type": "feat",
       "summary": "add hreflang support for pl/en/de locales"
+    },
+    {
+      "ts": "2023-10-08T08:48:59.135Z",
+      "type": "fix",
+      "summary": "fix broken image URLs in social preview cards"
     }
   ]
 }
