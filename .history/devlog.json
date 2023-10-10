@@ -1111,6 +1111,11 @@
       "ts": "2023-10-10T10:11:37.957Z",
       "type": "perf",
       "summary": "compress devlog and reduce JSON payload size"
+    },
+    {
+      "ts": "2023-10-10T14:30:07.437Z",
+      "type": "fix",
+      "summary": "fix missing alt attributes on gallery images"
     }
   ]
 }
