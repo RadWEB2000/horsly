@@ -1101,6 +1101,11 @@
       "ts": "2023-10-09T06:01:10.729Z",
       "type": "feat",
       "summary": "add Core Web Vitals dashboard integration"
+    },
+    {
+      "ts": "2023-10-10T07:32:19.598Z",
+      "type": "content",
+      "summary": "update product page keyword targeting"
     }
   ]
 }
