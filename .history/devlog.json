@@ -1146,6 +1146,11 @@
       "ts": "2023-10-13T09:20:27.775Z",
       "type": "refactor",
       "summary": "extract SEO utilities to shared lib/seo module"
+    },
+    {
+      "ts": "2023-10-13T12:22:51.131Z",
+      "type": "config",
+      "summary": "configure biome lint rules for project conventions"
     }
   ]
 }
