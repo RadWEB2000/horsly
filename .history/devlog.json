@@ -1141,6 +1141,11 @@
       "ts": "2023-10-13T09:00:17.857Z",
       "type": "docs",
       "summary": "add contributing guide for content editors"
+    },
+    {
+      "ts": "2023-10-13T09:20:27.775Z",
+      "type": "refactor",
+      "summary": "extract SEO utilities to shared lib/seo module"
     }
   ]
 }
