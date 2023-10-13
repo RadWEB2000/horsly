@@ -1151,6 +1151,11 @@
       "ts": "2023-10-13T12:22:51.131Z",
       "type": "config",
       "summary": "configure biome lint rules for project conventions"
+    },
+    {
+      "ts": "2023-10-13T13:09:13.621Z",
+      "type": "perf",
+      "summary": "implement route prefetching for navigation links"
     }
   ]
 }
