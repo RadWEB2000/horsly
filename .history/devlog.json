@@ -1161,6 +1161,11 @@
       "ts": "2023-10-13T14:14:53.616Z",
       "type": "fix",
       "summary": "resolve hydration mismatch in auction countdown"
+    },
+    {
+      "ts": "2023-10-13T15:58:22.752Z",
+      "type": "perf",
+      "summary": "implement static generation for blog archive pages"
     }
   ]
 }
