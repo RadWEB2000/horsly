@@ -1136,6 +1136,11 @@
       "ts": "2023-10-12T14:25:32.402Z",
       "type": "content",
       "summary": "add case study content for homepage hero section"
+    },
+    {
+      "ts": "2023-10-13T09:00:17.857Z",
+      "type": "docs",
+      "summary": "add contributing guide for content editors"
     }
   ]
 }
