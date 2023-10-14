@@ -1166,6 +1166,11 @@
       "ts": "2023-10-13T15:58:22.752Z",
       "type": "perf",
       "summary": "implement static generation for blog archive pages"
+    },
+    {
+      "ts": "2023-10-14T15:22:33.601Z",
+      "type": "fix",
+      "summary": "fix duplicate meta description on category pages"
     }
   ]
 }
