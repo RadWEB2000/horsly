@@ -1171,6 +1171,11 @@
       "ts": "2023-10-14T15:22:33.601Z",
       "type": "fix",
       "summary": "fix duplicate meta description on category pages"
+    },
+    {
+      "ts": "2023-10-15T11:24:39.650Z",
+      "type": "config",
+      "summary": "configure next/image allowed remote domains"
     }
   ]
 }
