@@ -1181,6 +1181,11 @@
       "ts": "2023-10-16T14:23:36.557Z",
       "type": "refactor",
       "summary": "consolidate structured data generators into factory"
+    },
+    {
+      "ts": "2023-10-17T06:08:02.304Z",
+      "type": "fix",
+      "summary": "fix missing meta viewport on mobile templates"
     }
   ]
 }
