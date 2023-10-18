@@ -1196,6 +1196,11 @@
       "ts": "2023-10-17T14:42:47.575Z",
       "type": "feat",
       "summary": "add hreflang support for pl/en/de locales"
+    },
+    {
+      "ts": "2023-10-18T06:06:20.417Z",
+      "type": "fix",
+      "summary": "correct filter state reset on route change"
     }
   ]
 }
