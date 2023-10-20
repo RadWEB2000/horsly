@@ -1211,6 +1211,11 @@
       "ts": "2023-10-20T09:17:10.179Z",
       "type": "feat",
       "summary": "implement JSON-LD product schema for shop items"
+    },
+    {
+      "ts": "2023-10-20T12:55:44.330Z",
+      "type": "refactor",
+      "summary": "migrate to TypeScript strict mode across src/"
     }
   ]
 }
