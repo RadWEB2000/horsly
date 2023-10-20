@@ -1206,6 +1206,11 @@
       "ts": "2023-10-20T06:38:52.298Z",
       "type": "config",
       "summary": "configure bundle analyzer for production builds"
+    },
+    {
+      "ts": "2023-10-20T09:17:10.179Z",
+      "type": "feat",
+      "summary": "implement JSON-LD product schema for shop items"
     }
   ]
 }
