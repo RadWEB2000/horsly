@@ -1201,6 +1201,11 @@
       "ts": "2023-10-18T06:06:20.417Z",
       "type": "fix",
       "summary": "correct filter state reset on route change"
+    },
+    {
+      "ts": "2023-10-20T06:38:52.298Z",
+      "type": "config",
+      "summary": "configure bundle analyzer for production builds"
     }
   ]
 }
