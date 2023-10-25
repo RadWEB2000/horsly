@@ -1241,6 +1241,11 @@
       "ts": "2023-10-24T11:29:25.961Z",
       "type": "config",
       "summary": "update sitemap generation configuration"
+    },
+    {
+      "ts": "2023-10-25T08:46:46.024Z",
+      "type": "refactor",
+      "summary": "replace class components with function components"
     }
   ]
 }
