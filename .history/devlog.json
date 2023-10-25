@@ -1246,6 +1246,11 @@
       "ts": "2023-10-25T08:46:46.024Z",
       "type": "refactor",
       "summary": "replace class components with function components"
+    },
+    {
+      "ts": "2023-10-25T10:30:08.709Z",
+      "type": "docs",
+      "summary": "document sitemap generation and regeneration process"
     }
   ]
 }
