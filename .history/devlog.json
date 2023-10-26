@@ -1251,6 +1251,11 @@
       "ts": "2023-10-25T10:30:08.709Z",
       "type": "docs",
       "summary": "document sitemap generation and regeneration process"
+    },
+    {
+      "ts": "2023-10-26T15:24:33.524Z",
+      "type": "content",
+      "summary": "update homepage meta description and H1 copy"
     }
   ]
 }
