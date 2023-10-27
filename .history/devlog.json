@@ -1256,6 +1256,11 @@
       "ts": "2023-10-26T15:24:33.524Z",
       "type": "content",
       "summary": "update homepage meta description and H1 copy"
+    },
+    {
+      "ts": "2023-10-27T08:07:57.356Z",
+      "type": "fix",
+      "summary": "fix missing meta viewport on mobile templates"
     }
   ]
 }
