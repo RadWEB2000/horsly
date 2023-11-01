@@ -1311,6 +1311,11 @@
       "ts": "2023-11-01T08:34:39.891Z",
       "type": "content",
       "summary": "refresh footer links and contact information"
+    },
+    {
+      "ts": "2023-11-01T09:47:50.000Z",
+      "type": "fix",
+      "summary": "resolve infinite redirect in canonical middleware"
     }
   ]
 }
