@@ -1316,6 +1316,11 @@
       "ts": "2023-11-01T09:47:50.000Z",
       "type": "fix",
       "summary": "resolve infinite redirect in canonical middleware"
+    },
+    {
+      "ts": "2023-11-01T12:55:04.700Z",
+      "type": "content",
+      "summary": "update homepage meta description and H1 copy"
     }
   ]
 }
