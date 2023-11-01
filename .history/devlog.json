@@ -1321,6 +1321,11 @@
       "ts": "2023-11-01T12:55:04.700Z",
       "type": "content",
       "summary": "update homepage meta description and H1 copy"
+    },
+    {
+      "ts": "2023-11-01T14:00:39.718Z",
+      "type": "feat",
+      "summary": "add Open Graph image generation for listings"
     }
   ]
 }
