@@ -1326,6 +1326,11 @@
       "ts": "2023-11-01T14:00:39.718Z",
       "type": "feat",
       "summary": "add Open Graph image generation for listings"
+    },
+    {
+      "ts": "2023-11-02T13:08:31.330Z",
+      "type": "perf",
+      "summary": "implement static generation for blog archive pages"
     }
   ]
 }
