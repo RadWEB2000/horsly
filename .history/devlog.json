@@ -1341,6 +1341,11 @@
       "ts": "2023-11-04T09:10:53.967Z",
       "type": "content",
       "summary": "refresh About page structured content"
+    },
+    {
+      "ts": "2023-11-04T11:42:38.782Z",
+      "type": "refactor",
+      "summary": "replace class components with function components"
     }
   ]
 }
