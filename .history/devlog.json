@@ -1331,6 +1331,11 @@
       "ts": "2023-11-02T13:08:31.330Z",
       "type": "perf",
       "summary": "implement static generation for blog archive pages"
+    },
+    {
+      "ts": "2023-11-04T08:38:29.579Z",
+      "type": "config",
+      "summary": "update next.config.ts for pl/en/de i18n routing"
     }
   ]
 }
