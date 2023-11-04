@@ -1336,6 +1336,11 @@
       "ts": "2023-11-04T08:38:29.579Z",
       "type": "config",
       "summary": "update next.config.ts for pl/en/de i18n routing"
+    },
+    {
+      "ts": "2023-11-04T09:10:53.967Z",
+      "type": "content",
+      "summary": "refresh About page structured content"
     }
   ]
 }
