@@ -1351,6 +1351,11 @@
       "ts": "2023-11-04T13:16:46.748Z",
       "type": "content",
       "summary": "refresh footer links and contact information"
+    },
+    {
+      "ts": "2023-11-04T15:18:01.095Z",
+      "type": "fix",
+      "summary": "correct structured data JSON-LD syntax error in product schema"
     }
   ]
 }
