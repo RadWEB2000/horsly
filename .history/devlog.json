@@ -1356,6 +1356,11 @@
       "ts": "2023-11-04T15:18:01.095Z",
       "type": "fix",
       "summary": "correct structured data JSON-LD syntax error in product schema"
+    },
+    {
+      "ts": "2023-11-06T07:19:06.484Z",
+      "type": "feat",
+      "summary": "implement email subscription with double opt-in"
     }
   ]
 }
