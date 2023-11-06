@@ -1361,6 +1361,11 @@
       "ts": "2023-11-06T07:19:06.484Z",
       "type": "feat",
       "summary": "implement email subscription with double opt-in"
+    },
+    {
+      "ts": "2023-11-06T08:02:21.652Z",
+      "type": "config",
+      "summary": "configure Vercel edge network caching rules"
     }
   ]
 }
