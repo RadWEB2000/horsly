@@ -1366,6 +1366,11 @@
       "ts": "2023-11-06T08:02:21.652Z",
       "type": "config",
       "summary": "configure Vercel edge network caching rules"
+    },
+    {
+      "ts": "2023-11-06T17:25:01.564Z",
+      "type": "feat",
+      "summary": "implement lazy loading for stable gallery images"
     }
   ]
 }
