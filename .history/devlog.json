@@ -1371,6 +1371,11 @@
       "ts": "2023-11-06T17:25:01.564Z",
       "type": "feat",
       "summary": "implement lazy loading for stable gallery images"
+    },
+    {
+      "ts": "2023-11-07T15:17:58.077Z",
+      "type": "docs",
+      "summary": "document sitemap generation and regeneration process"
     }
   ]
 }
