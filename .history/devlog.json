@@ -1401,6 +1401,11 @@
       "ts": "2023-11-09T14:14:22.478Z",
       "type": "content",
       "summary": "refresh horse breed category descriptions"
+    },
+    {
+      "ts": "2023-11-09T15:11:09.956Z",
+      "type": "fix",
+      "summary": "fix trailing slash inconsistency in dynamic routes"
     }
   ]
 }
