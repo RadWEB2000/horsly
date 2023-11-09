@@ -1406,6 +1406,11 @@
       "ts": "2023-11-09T15:11:09.956Z",
       "type": "fix",
       "summary": "fix trailing slash inconsistency in dynamic routes"
+    },
+    {
+      "ts": "2023-11-09T15:58:33.821Z",
+      "type": "docs",
+      "summary": "document canonical URL strategy in AGENTS.md"
     }
   ]
 }
