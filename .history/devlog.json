@@ -1416,6 +1416,11 @@
       "ts": "2023-11-11T08:21:17.109Z",
       "type": "refactor",
       "summary": "replace magic strings with typed enum constants"
+    },
+    {
+      "ts": "2023-11-11T12:59:14.616Z",
+      "type": "refactor",
+      "summary": "consolidate theme tokens into design system config"
     }
   ]
 }
