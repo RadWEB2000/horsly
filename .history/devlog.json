@@ -1421,6 +1421,11 @@
       "ts": "2023-11-11T12:59:14.616Z",
       "type": "refactor",
       "summary": "consolidate theme tokens into design system config"
+    },
+    {
+      "ts": "2023-11-14T13:41:28.558Z",
+      "type": "refactor",
+      "summary": "replace class components with function components"
     }
   ]
 }
