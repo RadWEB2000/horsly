@@ -1431,6 +1431,11 @@
       "ts": "2023-11-15T12:31:44.796Z",
       "type": "content",
       "summary": "update product page keyword targeting"
+    },
+    {
+      "ts": "2023-11-15T12:55:04.256Z",
+      "type": "fix",
+      "summary": "fix missing alt attributes on gallery images"
     }
   ]
 }
