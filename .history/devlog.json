@@ -1436,6 +1436,11 @@
       "ts": "2023-11-15T12:55:04.256Z",
       "type": "fix",
       "summary": "fix missing alt attributes on gallery images"
+    },
+    {
+      "ts": "2023-11-16T15:05:47.145Z",
+      "type": "feat",
+      "summary": "implement stable locator map with geolocation"
     }
   ]
 }
