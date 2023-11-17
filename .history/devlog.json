@@ -1446,6 +1446,11 @@
       "ts": "2023-11-17T07:01:13.320Z",
       "type": "refactor",
       "summary": "consolidate API error handling into interceptor"
+    },
+    {
+      "ts": "2023-11-17T13:54:49.201Z",
+      "type": "feat",
+      "summary": "implement dynamic robots.txt generation"
     }
   ]
 }
