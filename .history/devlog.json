@@ -1466,6 +1466,11 @@
       "ts": "2023-11-20T16:19:44.392Z",
       "type": "fix",
       "summary": "correct structured data JSON-LD syntax error in product schema"
+    },
+    {
+      "ts": "2023-11-21T10:37:17.564Z",
+      "type": "feat",
+      "summary": "add hreflang support for pl/en/de locales"
     }
   ]
 }
