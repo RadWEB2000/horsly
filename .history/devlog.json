@@ -1471,6 +1471,11 @@
       "ts": "2023-11-21T10:37:17.564Z",
       "type": "feat",
       "summary": "add hreflang support for pl/en/de locales"
+    },
+    {
+      "ts": "2023-11-21T12:35:18.144Z",
+      "type": "fix",
+      "summary": "fix missing alt attributes on gallery images"
     }
   ]
 }
