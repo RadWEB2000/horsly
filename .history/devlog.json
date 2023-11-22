@@ -1481,6 +1481,11 @@
       "ts": "2023-11-22T08:16:41.196Z",
       "type": "content",
       "summary": "revise stable listing description template"
+    },
+    {
+      "ts": "2023-11-22T16:19:19.209Z",
+      "type": "refactor",
+      "summary": "migrate to TypeScript strict mode across src/"
     }
   ]
 }
