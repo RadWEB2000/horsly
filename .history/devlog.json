@@ -1476,6 +1476,11 @@
       "ts": "2023-11-21T12:35:18.144Z",
       "type": "fix",
       "summary": "fix missing alt attributes on gallery images"
+    },
+    {
+      "ts": "2023-11-22T08:16:41.196Z",
+      "type": "content",
+      "summary": "revise stable listing description template"
     }
   ]
 }
