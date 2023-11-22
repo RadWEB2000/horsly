@@ -1486,6 +1486,11 @@
       "ts": "2023-11-22T16:19:19.209Z",
       "type": "refactor",
       "summary": "migrate to TypeScript strict mode across src/"
+    },
+    {
+      "ts": "2023-11-22T16:24:20.104Z",
+      "type": "feat",
+      "summary": "add video gallery for competition replays"
     }
   ]
 }
