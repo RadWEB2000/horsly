@@ -1491,6 +1491,11 @@
       "ts": "2023-11-22T16:24:20.104Z",
       "type": "feat",
       "summary": "add video gallery for competition replays"
+    },
+    {
+      "ts": "2023-11-23T17:00:19.135Z",
+      "type": "refactor",
+      "summary": "refactor filter logic to use URL search params"
     }
   ]
 }
