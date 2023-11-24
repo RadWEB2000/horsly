@@ -1496,6 +1496,11 @@
       "ts": "2023-11-23T17:00:19.135Z",
       "type": "refactor",
       "summary": "refactor filter logic to use URL search params"
+    },
+    {
+      "ts": "2023-11-24T08:00:29.760Z",
+      "type": "fix",
+      "summary": "resolve 404 for dynamically generated sitemaps"
     }
   ]
 }
