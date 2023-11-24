@@ -1511,6 +1511,11 @@
       "ts": "2023-11-24T11:52:01.585Z",
       "type": "perf",
       "summary": "optimize third-party map tile loading strategy"
+    },
+    {
+      "ts": "2023-11-24T15:15:23.558Z",
+      "type": "docs",
+      "summary": "add contributing guide for content editors"
     }
   ]
 }
