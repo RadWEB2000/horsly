@@ -1516,6 +1516,11 @@
       "ts": "2023-11-24T15:15:23.558Z",
       "type": "docs",
       "summary": "add contributing guide for content editors"
+    },
+    {
+      "ts": "2023-11-24T15:25:04.053Z",
+      "type": "fix",
+      "summary": "resolve 404 for dynamically generated sitemaps"
     }
   ]
 }
