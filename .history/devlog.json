@@ -1536,6 +1536,11 @@
       "ts": "2023-11-27T10:08:53.012Z",
       "type": "content",
       "summary": "add FAQ content for main service pages"
+    },
+    {
+      "ts": "2023-11-27T13:46:03.109Z",
+      "type": "fix",
+      "summary": "correct structured data JSON-LD syntax error in product schema"
     }
   ]
 }
