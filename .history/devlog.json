@@ -1531,6 +1531,11 @@
       "ts": "2023-11-27T09:32:32.163Z",
       "type": "config",
       "summary": "add environment variable schema validation"
+    },
+    {
+      "ts": "2023-11-27T10:08:53.012Z",
+      "type": "content",
+      "summary": "add FAQ content for main service pages"
     }
   ]
 }
