@@ -1521,6 +1521,11 @@
       "ts": "2023-11-24T15:25:04.053Z",
       "type": "fix",
       "summary": "resolve 404 for dynamically generated sitemaps"
+    },
+    {
+      "ts": "2023-11-27T09:17:29.589Z",
+      "type": "docs",
+      "summary": "document structured data schema conventions"
     }
   ]
 }
