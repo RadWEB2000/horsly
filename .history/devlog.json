@@ -1526,6 +1526,11 @@
       "ts": "2023-11-27T09:17:29.589Z",
       "type": "docs",
       "summary": "document structured data schema conventions"
+    },
+    {
+      "ts": "2023-11-27T09:32:32.163Z",
+      "type": "config",
+      "summary": "add environment variable schema validation"
     }
   ]
 }
