@@ -1546,6 +1546,11 @@
       "ts": "2023-11-29T14:37:34.557Z",
       "type": "content",
       "summary": "add testimonials section with review schema"
+    },
+    {
+      "ts": "2023-11-30T09:33:27.987Z",
+      "type": "refactor",
+      "summary": "refactor horse schema to extend base Article type"
     }
   ]
 }
