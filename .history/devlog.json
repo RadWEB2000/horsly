@@ -1551,6 +1551,11 @@
       "ts": "2023-11-30T09:33:27.987Z",
       "type": "refactor",
       "summary": "refactor horse schema to extend base Article type"
+    },
+    {
+      "ts": "2023-11-30T09:43:49.275Z",
+      "type": "config",
+      "summary": "configure trailing slash behavior globally"
     }
   ]
 }
