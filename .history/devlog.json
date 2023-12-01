@@ -1576,6 +1576,11 @@
       "ts": "2023-12-01T12:42:20.204Z",
       "type": "feat",
       "summary": "implement horse pedigree viewer component"
+    },
+    {
+      "ts": "2023-12-01T13:56:12.430Z",
+      "type": "refactor",
+      "summary": "consolidate theme tokens into design system config"
     }
   ]
 }
