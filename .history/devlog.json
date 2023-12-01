@@ -1571,6 +1571,11 @@
       "ts": "2023-12-01T11:51:04.515Z",
       "type": "perf",
       "summary": "implement static generation for blog archive pages"
+    },
+    {
+      "ts": "2023-12-01T12:42:20.204Z",
+      "type": "feat",
+      "summary": "implement horse pedigree viewer component"
     }
   ]
 }
