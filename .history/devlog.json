@@ -1556,6 +1556,11 @@
       "ts": "2023-11-30T09:43:49.275Z",
       "type": "config",
       "summary": "configure trailing slash behavior globally"
+    },
+    {
+      "ts": "2023-12-01T09:03:10.069Z",
+      "type": "refactor",
+      "summary": "migrate meta tag logic to useSeoMeta hook"
     }
   ]
 }
