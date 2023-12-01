@@ -1581,6 +1581,11 @@
       "ts": "2023-12-01T13:56:12.430Z",
       "type": "refactor",
       "summary": "consolidate theme tokens into design system config"
+    },
+    {
+      "ts": "2023-12-01T15:05:33.793Z",
+      "type": "fix",
+      "summary": "correct currency formatting for non-PLN locales"
     }
   ]
 }
