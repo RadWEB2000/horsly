@@ -1601,6 +1601,11 @@
       "ts": "2023-12-04T07:48:45.697Z",
       "type": "feat",
       "summary": "add social sharing component with OG metadata"
+    },
+    {
+      "ts": "2023-12-04T08:27:32.688Z",
+      "type": "fix",
+      "summary": "fix duplicate meta description on category pages"
     }
   ]
 }
