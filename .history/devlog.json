@@ -1596,6 +1596,11 @@
       "ts": "2023-12-02T10:44:15.825Z",
       "type": "config",
       "summary": "add Content-Security-Policy to middleware"
+    },
+    {
+      "ts": "2023-12-04T07:48:45.697Z",
+      "type": "feat",
+      "summary": "add social sharing component with OG metadata"
     }
   ]
 }
