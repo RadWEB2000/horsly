@@ -1621,6 +1621,11 @@
       "ts": "2023-12-05T09:18:53.560Z",
       "type": "fix",
       "summary": "correct structured data JSON-LD syntax error in product schema"
+    },
+    {
+      "ts": "2023-12-05T12:19:36.619Z",
+      "type": "refactor",
+      "summary": "split monolithic ListingCard into composable parts"
     }
   ]
 }
