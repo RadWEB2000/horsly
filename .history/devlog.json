@@ -1611,6 +1611,11 @@
       "ts": "2023-12-05T08:54:20.883Z",
       "type": "fix",
       "summary": "correct filter state reset on route change"
+    },
+    {
+      "ts": "2023-12-05T09:08:11.544Z",
+      "type": "feat",
+      "summary": "implement product listing with category filters"
     }
   ]
 }
