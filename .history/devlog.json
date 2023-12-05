@@ -1631,6 +1631,11 @@
       "ts": "2023-12-05T15:41:45.390Z",
       "type": "feat",
       "summary": "add Open Graph image generation for listings"
+    },
+    {
+      "ts": "2023-12-05T16:52:05.077Z",
+      "type": "refactor",
+      "summary": "migrate meta tag logic to useSeoMeta hook"
     }
   ]
 }
