@@ -1616,6 +1616,11 @@
       "ts": "2023-12-05T09:08:11.544Z",
       "type": "feat",
       "summary": "implement product listing with category filters"
+    },
+    {
+      "ts": "2023-12-05T09:18:53.560Z",
+      "type": "fix",
+      "summary": "correct structured data JSON-LD syntax error in product schema"
     }
   ]
 }
