@@ -1626,6 +1626,11 @@
       "ts": "2023-12-05T12:19:36.619Z",
       "type": "refactor",
       "summary": "split monolithic ListingCard into composable parts"
+    },
+    {
+      "ts": "2023-12-05T15:41:45.390Z",
+      "type": "feat",
+      "summary": "add Open Graph image generation for listings"
     }
   ]
 }
