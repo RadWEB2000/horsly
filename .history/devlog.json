@@ -1636,6 +1636,11 @@
       "ts": "2023-12-05T16:52:05.077Z",
       "type": "refactor",
       "summary": "migrate meta tag logic to useSeoMeta hook"
+    },
+    {
+      "ts": "2023-12-06T14:36:26.182Z",
+      "type": "fix",
+      "summary": "correct sitemap lastmod date format to ISO 8601"
     }
   ]
 }
