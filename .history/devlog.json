@@ -1686,6 +1686,11 @@
       "ts": "2023-12-15T10:31:00.814Z",
       "type": "refactor",
       "summary": "migrate fetch calls to typed api client wrapper"
+    },
+    {
+      "ts": "2023-12-15T10:58:23.832Z",
+      "type": "fix",
+      "summary": "resolve hydration mismatch in auction countdown"
     }
   ]
 }
