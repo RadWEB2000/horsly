@@ -1676,6 +1676,11 @@
       "ts": "2023-12-14T16:03:58.523Z",
       "type": "feat",
       "summary": "add dark mode support with system preference detection"
+    },
+    {
+      "ts": "2023-12-15T08:05:59.223Z",
+      "type": "fix",
+      "summary": "resolve infinite redirect in canonical middleware"
     }
   ]
 }
