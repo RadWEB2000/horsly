@@ -1691,6 +1691,11 @@
       "ts": "2023-12-15T10:58:23.832Z",
       "type": "fix",
       "summary": "resolve hydration mismatch in auction countdown"
+    },
+    {
+      "ts": "2023-12-15T16:56:46.353Z",
+      "type": "config",
+      "summary": "add environment variable schema validation"
     }
   ]
 }
