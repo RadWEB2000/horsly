@@ -1701,6 +1701,11 @@
       "ts": "2023-12-17T07:19:27.878Z",
       "type": "feat",
       "summary": "implement comparison tool for horse breeds"
+    },
+    {
+      "ts": "2023-12-17T09:53:50.829Z",
+      "type": "feat",
+      "summary": "implement sitemap auto-generation from page tree"
     }
   ]
 }
