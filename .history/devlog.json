@@ -1731,6 +1731,11 @@
       "ts": "2023-12-18T15:05:44.735Z",
       "type": "refactor",
       "summary": "consolidate Open Graph defaults into config object"
+    },
+    {
+      "ts": "2023-12-18T16:09:13.806Z",
+      "type": "docs",
+      "summary": "document SEO audit process and tooling"
     }
   ]
 }
