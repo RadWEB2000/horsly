@@ -1726,6 +1726,11 @@
       "ts": "2023-12-18T13:59:32.446Z",
       "type": "feat",
       "summary": "implement JSON-LD product schema for shop items"
+    },
+    {
+      "ts": "2023-12-18T15:05:44.735Z",
+      "type": "refactor",
+      "summary": "consolidate Open Graph defaults into config object"
     }
   ]
 }
