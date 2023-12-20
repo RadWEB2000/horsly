@@ -1756,6 +1756,11 @@
       "ts": "2023-12-20T12:19:47.999Z",
       "type": "feat",
       "summary": "implement JSON-LD product schema for shop items"
+    },
+    {
+      "ts": "2023-12-20T13:45:29.453Z",
+      "type": "feat",
+      "summary": "add FAQ schema markup generator"
     }
   ]
 }
