@@ -1751,6 +1751,11 @@
       "ts": "2023-12-20T11:08:31.772Z",
       "type": "content",
       "summary": "add testimonials section with review schema"
+    },
+    {
+      "ts": "2023-12-20T12:19:47.999Z",
+      "type": "feat",
+      "summary": "implement JSON-LD product schema for shop items"
     }
   ]
 }
