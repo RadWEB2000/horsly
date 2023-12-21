@@ -1786,6 +1786,11 @@
       "ts": "2023-12-21T16:13:21.523Z",
       "type": "content",
       "summary": "add region-specific content for Małopolska stables"
+    },
+    {
+      "ts": "2023-12-21T16:19:11.751Z",
+      "type": "content",
+      "summary": "refresh horse breed category descriptions"
     }
   ]
 }
