@@ -1771,6 +1771,11 @@
       "ts": "2023-12-21T08:28:25.594Z",
       "type": "fix",
       "summary": "correct currency formatting for non-PLN locales"
+    },
+    {
+      "ts": "2023-12-21T09:03:39.426Z",
+      "type": "feat",
+      "summary": "add Open Graph image generation for listings"
     }
   ]
 }
