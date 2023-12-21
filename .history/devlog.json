@@ -1781,6 +1781,11 @@
       "ts": "2023-12-21T11:59:39.364Z",
       "type": "fix",
       "summary": "correct sitemap lastmod date format to ISO 8601"
+    },
+    {
+      "ts": "2023-12-21T16:13:21.523Z",
+      "type": "content",
+      "summary": "add region-specific content for Małopolska stables"
     }
   ]
 }
