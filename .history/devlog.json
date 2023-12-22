@@ -1796,6 +1796,11 @@
       "ts": "2023-12-22T07:00:56.331Z",
       "type": "fix",
       "summary": "correct date formatting in event calendar"
+    },
+    {
+      "ts": "2023-12-22T07:23:37.651Z",
+      "type": "refactor",
+      "summary": "extract canonical URL logic to middleware"
     }
   ]
 }
