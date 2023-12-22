@@ -1791,6 +1791,11 @@
       "ts": "2023-12-21T16:19:11.751Z",
       "type": "content",
       "summary": "refresh horse breed category descriptions"
+    },
+    {
+      "ts": "2023-12-22T07:00:56.331Z",
+      "type": "fix",
+      "summary": "correct date formatting in event calendar"
     }
   ]
 }
