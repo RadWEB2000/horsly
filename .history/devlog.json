@@ -1801,6 +1801,11 @@
       "ts": "2023-12-22T07:23:37.651Z",
       "type": "refactor",
       "summary": "extract canonical URL logic to middleware"
+    },
+    {
+      "ts": "2023-12-25T07:11:55.189Z",
+      "type": "content",
+      "summary": "update homepage meta description and H1 copy"
     }
   ]
 }
