@@ -1811,6 +1811,11 @@
       "ts": "2023-12-25T14:11:41.470Z",
       "type": "feat",
       "summary": "implement email subscription with double opt-in"
+    },
+    {
+      "ts": "2023-12-25T16:07:44.012Z",
+      "type": "fix",
+      "summary": "fix sitemap URL encoding for Polish characters"
     }
   ]
 }
