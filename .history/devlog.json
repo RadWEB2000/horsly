@@ -1816,6 +1816,11 @@
       "ts": "2023-12-25T16:07:44.012Z",
       "type": "fix",
       "summary": "fix sitemap URL encoding for Polish characters"
+    },
+    {
+      "ts": "2023-12-26T08:30:54.567Z",
+      "type": "refactor",
+      "summary": "refactor filter logic to use URL search params"
     }
   ]
 }
