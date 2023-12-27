@@ -1836,6 +1836,11 @@
       "ts": "2023-12-27T08:39:09.004Z",
       "type": "config",
       "summary": "configure next/image allowed remote domains"
+    },
+    {
+      "ts": "2023-12-27T14:36:36.890Z",
+      "type": "feat",
+      "summary": "add Open Graph image generation for listings"
     }
   ]
 }
