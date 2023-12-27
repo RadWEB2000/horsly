@@ -1826,6 +1826,11 @@
       "ts": "2023-12-27T07:16:30.634Z",
       "type": "refactor",
       "summary": "refactor filter logic to use URL search params"
+    },
+    {
+      "ts": "2023-12-27T08:00:43.297Z",
+      "type": "fix",
+      "summary": "fix memory leak in WebSocket auction connection"
     }
   ]
 }
