@@ -1831,6 +1831,11 @@
       "ts": "2023-12-27T08:00:43.297Z",
       "type": "fix",
       "summary": "fix memory leak in WebSocket auction connection"
+    },
+    {
+      "ts": "2023-12-27T08:39:09.004Z",
+      "type": "config",
+      "summary": "configure next/image allowed remote domains"
     }
   ]
 }
