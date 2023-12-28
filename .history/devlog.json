@@ -1841,6 +1841,11 @@
       "ts": "2023-12-27T14:36:36.890Z",
       "type": "feat",
       "summary": "add Open Graph image generation for listings"
+    },
+    {
+      "ts": "2023-12-28T14:14:28.072Z",
+      "type": "feat",
+      "summary": "implement JSON-LD product schema for shop items"
     }
   ]
 }
