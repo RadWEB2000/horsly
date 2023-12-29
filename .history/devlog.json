@@ -1846,6 +1846,11 @@
       "ts": "2023-12-28T14:14:28.072Z",
       "type": "feat",
       "summary": "implement JSON-LD product schema for shop items"
+    },
+    {
+      "ts": "2023-12-29T08:17:36.860Z",
+      "type": "fix",
+      "summary": "resolve infinite redirect in canonical middleware"
     }
   ]
 }
