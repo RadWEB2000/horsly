@@ -1851,6 +1851,11 @@
       "ts": "2023-12-29T08:17:36.860Z",
       "type": "fix",
       "summary": "resolve infinite redirect in canonical middleware"
+    },
+    {
+      "ts": "2023-12-29T09:21:59.924Z",
+      "type": "fix",
+      "summary": "correct heading hierarchy on horse detail pages"
     }
   ]
 }
