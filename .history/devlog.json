@@ -1861,6 +1861,11 @@
       "ts": "2024-01-02T11:14:46.466Z",
       "type": "config",
       "summary": "update TypeScript path aliases in tsconfig"
+    },
+    {
+      "ts": "2024-01-02T14:38:21.137Z",
+      "type": "fix",
+      "summary": "fix missing alt attributes on gallery images"
     }
   ]
 }
