@@ -1866,6 +1866,11 @@
       "ts": "2024-01-02T14:38:21.137Z",
       "type": "fix",
       "summary": "fix missing alt attributes on gallery images"
+    },
+    {
+      "ts": "2024-01-03T11:45:11.391Z",
+      "type": "feat",
+      "summary": "implement lazy loading for stable gallery images"
     }
   ]
 }
