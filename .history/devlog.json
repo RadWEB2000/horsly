@@ -1871,6 +1871,11 @@
       "ts": "2024-01-03T11:45:11.391Z",
       "type": "feat",
       "summary": "implement lazy loading for stable gallery images"
+    },
+    {
+      "ts": "2024-01-03T13:37:48.917Z",
+      "type": "fix",
+      "summary": "correct currency formatting for non-PLN locales"
     }
   ]
 }
