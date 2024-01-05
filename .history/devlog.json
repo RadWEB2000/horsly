@@ -1896,6 +1896,11 @@
       "ts": "2024-01-05T08:24:59.292Z",
       "type": "content",
       "summary": "update competition category naming conventions"
+    },
+    {
+      "ts": "2024-01-05T17:16:35.939Z",
+      "type": "fix",
+      "summary": "correct currency formatting for non-PLN locales"
     }
   ]
 }
