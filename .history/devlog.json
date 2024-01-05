@@ -1901,6 +1901,11 @@
       "ts": "2024-01-05T17:16:35.939Z",
       "type": "fix",
       "summary": "correct currency formatting for non-PLN locales"
+    },
+    {
+      "ts": "2024-01-05T17:28:06.932Z",
+      "type": "feat",
+      "summary": "implement search engine preview component"
     }
   ]
 }
