@@ -1891,6 +1891,11 @@
       "ts": "2024-01-04T11:19:36.878Z",
       "type": "refactor",
       "summary": "split monolithic ListingCard into composable parts"
+    },
+    {
+      "ts": "2024-01-05T08:24:59.292Z",
+      "type": "content",
+      "summary": "update competition category naming conventions"
     }
   ]
 }
