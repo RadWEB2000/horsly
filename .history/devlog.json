@@ -1916,6 +1916,11 @@
       "ts": "2024-01-08T08:15:43.054Z",
       "type": "content",
       "summary": "refresh horse breed category descriptions"
+    },
+    {
+      "ts": "2024-01-08T11:42:25.109Z",
+      "type": "docs",
+      "summary": "add README section for local development setup"
     }
   ]
 }
