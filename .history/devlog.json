@@ -1906,6 +1906,11 @@
       "ts": "2024-01-05T17:28:06.932Z",
       "type": "feat",
       "summary": "implement search engine preview component"
+    },
+    {
+      "ts": "2024-01-08T07:44:29.796Z",
+      "type": "feat",
+      "summary": "implement advanced search with faceted filters"
     }
   ]
 }
