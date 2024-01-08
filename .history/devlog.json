@@ -1921,6 +1921,11 @@
       "ts": "2024-01-08T11:42:25.109Z",
       "type": "docs",
       "summary": "add README section for local development setup"
+    },
+    {
+      "ts": "2024-01-08T13:24:18.051Z",
+      "type": "feat",
+      "summary": "implement custom 404 with SEO-friendly copy"
     }
   ]
 }
