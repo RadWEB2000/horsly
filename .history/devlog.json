@@ -1926,6 +1926,11 @@
       "ts": "2024-01-08T13:24:18.051Z",
       "type": "feat",
       "summary": "implement custom 404 with SEO-friendly copy"
+    },
+    {
+      "ts": "2024-01-08T17:12:25.311Z",
+      "type": "feat",
+      "summary": "implement sitemap auto-generation from page tree"
     }
   ]
 }
