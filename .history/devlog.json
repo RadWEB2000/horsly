@@ -1911,6 +1911,11 @@
       "ts": "2024-01-08T07:44:29.796Z",
       "type": "feat",
       "summary": "implement advanced search with faceted filters"
+    },
+    {
+      "ts": "2024-01-08T08:15:43.054Z",
+      "type": "content",
+      "summary": "refresh horse breed category descriptions"
     }
   ]
 }
