@@ -1936,6 +1936,11 @@
       "ts": "2024-01-09T07:21:22.098Z",
       "type": "feat",
       "summary": "implement custom 404 with SEO-friendly copy"
+    },
+    {
+      "ts": "2024-01-09T14:06:50.136Z",
+      "type": "refactor",
+      "summary": "migrate to TypeScript strict mode across src/"
     }
   ]
 }
