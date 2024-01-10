@@ -1946,6 +1946,11 @@
       "ts": "2024-01-09T14:24:08.244Z",
       "type": "feat",
       "summary": "add print-friendly styles for horse passports"
+    },
+    {
+      "ts": "2024-01-10T08:50:30.587Z",
+      "type": "fix",
+      "summary": "fix broken image URLs in social preview cards"
     }
   ]
 }
