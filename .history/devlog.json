@@ -1951,6 +1951,11 @@
       "ts": "2024-01-10T08:50:30.587Z",
       "type": "fix",
       "summary": "fix broken image URLs in social preview cards"
+    },
+    {
+      "ts": "2024-01-10T17:07:37.438Z",
+      "type": "feat",
+      "summary": "add Open Graph image generation for listings"
     }
   ]
 }
