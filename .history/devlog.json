@@ -1966,6 +1966,11 @@
       "ts": "2024-01-12T07:01:05.963Z",
       "type": "feat",
       "summary": "implement stable locator map with geolocation"
+    },
+    {
+      "ts": "2024-01-12T10:55:05.267Z",
+      "type": "fix",
+      "summary": "resolve canonical URL duplication on paginated pages"
     }
   ]
 }
