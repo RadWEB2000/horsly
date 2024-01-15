@@ -1971,6 +1971,11 @@
       "ts": "2024-01-12T10:55:05.267Z",
       "type": "fix",
       "summary": "resolve canonical URL duplication on paginated pages"
+    },
+    {
+      "ts": "2024-01-15T07:39:37.054Z",
+      "type": "config",
+      "summary": "update PostCSS config for custom breakpoints"
     }
   ]
 }
