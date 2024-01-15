@@ -1976,6 +1976,11 @@
       "ts": "2024-01-15T07:39:37.054Z",
       "type": "config",
       "summary": "update PostCSS config for custom breakpoints"
+    },
+    {
+      "ts": "2024-01-15T08:03:34.149Z",
+      "type": "refactor",
+      "summary": "migrate config to zod-validated schema"
     }
   ]
 }
