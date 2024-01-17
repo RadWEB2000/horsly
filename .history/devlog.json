@@ -1981,6 +1981,11 @@
       "ts": "2024-01-15T08:03:34.149Z",
       "type": "refactor",
       "summary": "migrate config to zod-validated schema"
+    },
+    {
+      "ts": "2024-01-17T10:57:11.831Z",
+      "type": "feat",
+      "summary": "add print-friendly styles for horse passports"
     }
   ]
 }
