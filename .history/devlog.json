@@ -1986,6 +1986,11 @@
       "ts": "2024-01-17T10:57:11.831Z",
       "type": "feat",
       "summary": "add print-friendly styles for horse passports"
+    },
+    {
+      "ts": "2024-01-18T12:23:50.159Z",
+      "type": "content",
+      "summary": "revise stable listing description template"
     }
   ]
 }
