@@ -1996,6 +1996,11 @@
       "ts": "2024-01-19T09:55:05.706Z",
       "type": "fix",
       "summary": "correct filter state reset on route change"
+    },
+    {
+      "ts": "2024-01-19T16:32:16.130Z",
+      "type": "fix",
+      "summary": "correct filter state reset on route change"
     }
   ]
 }
