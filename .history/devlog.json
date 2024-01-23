@@ -2011,6 +2011,11 @@
       "ts": "2024-01-23T12:44:03.200Z",
       "type": "refactor",
       "summary": "migrate config to zod-validated schema"
+    },
+    {
+      "ts": "2024-01-23T13:26:31.982Z",
+      "type": "fix",
+      "summary": "resolve canonical URL duplication on paginated pages"
     }
   ]
 }
