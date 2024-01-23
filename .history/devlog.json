@@ -2006,6 +2006,11 @@
       "ts": "2024-01-22T10:06:29.536Z",
       "type": "docs",
       "summary": "document SEO audit process and tooling"
+    },
+    {
+      "ts": "2024-01-23T12:44:03.200Z",
+      "type": "refactor",
+      "summary": "migrate config to zod-validated schema"
     }
   ]
 }
