@@ -2021,6 +2021,11 @@
       "ts": "2024-01-24T10:38:22.656Z",
       "type": "feat",
       "summary": "add event calendar for equestrian competitions"
+    },
+    {
+      "ts": "2024-01-24T10:47:11.395Z",
+      "type": "feat",
+      "summary": "implement sitemap auto-generation from page tree"
     }
   ]
 }
