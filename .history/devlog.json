@@ -2031,6 +2031,11 @@
       "ts": "2024-01-24T12:39:53.706Z",
       "type": "refactor",
       "summary": "migrate meta tag logic to useSeoMeta hook"
+    },
+    {
+      "ts": "2024-01-25T10:16:29.282Z",
+      "type": "feat",
+      "summary": "implement email subscription with double opt-in"
     }
   ]
 }
