@@ -2036,6 +2036,11 @@
       "ts": "2024-01-25T10:16:29.282Z",
       "type": "feat",
       "summary": "implement email subscription with double opt-in"
+    },
+    {
+      "ts": "2024-01-25T10:55:37.641Z",
+      "type": "fix",
+      "summary": "resolve 404 for dynamically generated sitemaps"
     }
   ]
 }
