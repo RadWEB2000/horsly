@@ -2051,6 +2051,11 @@
       "ts": "2024-01-26T09:53:14.890Z",
       "type": "fix",
       "summary": "fix duplicate meta description on category pages"
+    },
+    {
+      "ts": "2024-01-26T11:01:05.086Z",
+      "type": "feat",
+      "summary": "implement custom 404 with SEO-friendly copy"
     }
   ]
 }
