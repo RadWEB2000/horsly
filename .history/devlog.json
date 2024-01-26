@@ -2061,6 +2061,11 @@
       "ts": "2024-01-26T14:13:11.497Z",
       "type": "refactor",
       "summary": "extract SEO utilities to shared lib/seo module"
+    },
+    {
+      "ts": "2024-01-26T17:03:54.500Z",
+      "type": "content",
+      "summary": "update pricing page SEO copy"
     }
   ]
 }
