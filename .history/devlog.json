@@ -2071,6 +2071,11 @@
       "ts": "2024-01-30T12:48:49.302Z",
       "type": "content",
       "summary": "refresh footer links and contact information"
+    },
+    {
+      "ts": "2024-01-30T16:34:34.891Z",
+      "type": "feat",
+      "summary": "implement sitemap auto-generation from page tree"
     }
   ]
 }
