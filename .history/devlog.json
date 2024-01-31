@@ -2081,6 +2081,11 @@
       "ts": "2024-01-31T12:06:10.330Z",
       "type": "fix",
       "summary": "resolve CSP violation for third-party map tiles"
+    },
+    {
+      "ts": "2024-01-31T13:23:57.617Z",
+      "type": "refactor",
+      "summary": "consolidate structured data generators into factory"
     }
   ]
 }
