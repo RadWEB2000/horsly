@@ -2086,6 +2086,11 @@
       "ts": "2024-01-31T13:23:57.617Z",
       "type": "refactor",
       "summary": "consolidate structured data generators into factory"
+    },
+    {
+      "ts": "2024-02-01T14:15:37.821Z",
+      "type": "fix",
+      "summary": "correct sitemap lastmod date format to ISO 8601"
     }
   ]
 }
