@@ -2101,6 +2101,11 @@
       "ts": "2024-02-01T17:25:22.734Z",
       "type": "refactor",
       "summary": "refactor horse schema to extend base Article type"
+    },
+    {
+      "ts": "2024-02-02T08:11:26.444Z",
+      "type": "feat",
+      "summary": "add Open Graph image generation for listings"
     }
   ]
 }
