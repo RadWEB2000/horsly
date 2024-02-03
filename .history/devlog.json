@@ -2106,6 +2106,11 @@
       "ts": "2024-02-02T08:11:26.444Z",
       "type": "feat",
       "summary": "add Open Graph image generation for listings"
+    },
+    {
+      "ts": "2024-02-03T13:50:05.687Z",
+      "type": "docs",
+      "summary": "add deployment checklist to project wiki"
     }
   ]
 }
