@@ -2116,6 +2116,11 @@
       "ts": "2024-02-03T16:36:56.856Z",
       "type": "feat",
       "summary": "implement comparison tool for horse breeds"
+    },
+    {
+      "ts": "2024-02-05T15:12:21.540Z",
+      "type": "feat",
+      "summary": "add dark mode support with system preference detection"
     }
   ]
 }
