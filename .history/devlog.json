@@ -2121,6 +2121,11 @@
       "ts": "2024-02-05T15:12:21.540Z",
       "type": "feat",
       "summary": "add dark mode support with system preference detection"
+    },
+    {
+      "ts": "2024-02-06T09:45:41.845Z",
+      "type": "feat",
+      "summary": "add video gallery for competition replays"
     }
   ]
 }
