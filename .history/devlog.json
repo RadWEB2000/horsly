@@ -2126,6 +2126,11 @@
       "ts": "2024-02-06T09:45:41.845Z",
       "type": "feat",
       "summary": "add video gallery for competition replays"
+    },
+    {
+      "ts": "2024-02-06T15:53:09.774Z",
+      "type": "refactor",
+      "summary": "refactor sitemap generator to use async generator"
     }
   ]
 }
