@@ -2141,6 +2141,11 @@
       "ts": "2024-02-07T11:16:25.021Z",
       "type": "fix",
       "summary": "fix trailing slash inconsistency in dynamic routes"
+    },
+    {
+      "ts": "2024-02-07T15:13:46.529Z",
+      "type": "perf",
+      "summary": "implement service worker for offline map tiles"
     }
   ]
 }
