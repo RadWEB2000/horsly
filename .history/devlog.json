@@ -2151,6 +2151,11 @@
       "ts": "2024-02-08T10:55:14.494Z",
       "type": "content",
       "summary": "refresh footer links and contact information"
+    },
+    {
+      "ts": "2024-02-08T11:21:14.985Z",
+      "type": "config",
+      "summary": "add Sentry source map upload to build pipeline"
     }
   ]
 }
