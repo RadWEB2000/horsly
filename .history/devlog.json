@@ -2156,6 +2156,11 @@
       "ts": "2024-02-08T11:21:14.985Z",
       "type": "config",
       "summary": "add Sentry source map upload to build pipeline"
+    },
+    {
+      "ts": "2024-02-08T11:31:15.669Z",
+      "type": "fix",
+      "summary": "fix z-index overlap in mobile navigation menu"
     }
   ]
 }
