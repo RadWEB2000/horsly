@@ -2166,6 +2166,11 @@
       "ts": "2024-02-09T12:43:12.954Z",
       "type": "config",
       "summary": "configure Vercel edge network caching rules"
+    },
+    {
+      "ts": "2024-02-11T08:58:15.544Z",
+      "type": "perf",
+      "summary": "reduce LCP on homepage by inlining critical CSS"
     }
   ]
 }
