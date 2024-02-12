@@ -2176,6 +2176,11 @@
       "ts": "2024-02-12T09:23:17.939Z",
       "type": "feat",
       "summary": "add social sharing component with OG metadata"
+    },
+    {
+      "ts": "2024-02-12T10:46:28.230Z",
+      "type": "refactor",
+      "summary": "replace class components with function components"
     }
   ]
 }
