@@ -2171,6 +2171,11 @@
       "ts": "2024-02-11T08:58:15.544Z",
       "type": "perf",
       "summary": "reduce LCP on homepage by inlining critical CSS"
+    },
+    {
+      "ts": "2024-02-12T09:23:17.939Z",
+      "type": "feat",
+      "summary": "add social sharing component with OG metadata"
     }
   ]
 }
