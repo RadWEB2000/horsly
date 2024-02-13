@@ -2186,6 +2186,11 @@
       "ts": "2024-02-13T09:16:33.481Z",
       "type": "docs",
       "summary": "document map component configuration options"
+    },
+    {
+      "ts": "2024-02-13T11:22:19.965Z",
+      "type": "feat",
+      "summary": "add FAQ schema markup generator"
     }
   ]
 }
