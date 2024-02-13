@@ -2191,6 +2191,11 @@
       "ts": "2024-02-13T11:22:19.965Z",
       "type": "feat",
       "summary": "add FAQ schema markup generator"
+    },
+    {
+      "ts": "2024-02-13T15:39:49.434Z",
+      "type": "fix",
+      "summary": "resolve 404 for dynamically generated sitemaps"
     }
   ]
 }
