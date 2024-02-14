@@ -2196,6 +2196,11 @@
       "ts": "2024-02-13T15:39:49.434Z",
       "type": "fix",
       "summary": "resolve 404 for dynamically generated sitemaps"
+    },
+    {
+      "ts": "2024-02-14T11:22:03.643Z",
+      "type": "fix",
+      "summary": "fix broken image URLs in social preview cards"
     }
   ]
 }
