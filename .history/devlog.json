@@ -2206,6 +2206,11 @@
       "ts": "2024-02-14T14:09:19.692Z",
       "type": "fix",
       "summary": "fix broken pagination on search results page"
+    },
+    {
+      "ts": "2024-02-15T07:57:47.620Z",
+      "type": "fix",
+      "summary": "fix race condition in geolocation map component"
     }
   ]
 }
