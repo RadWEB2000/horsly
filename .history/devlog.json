@@ -2221,6 +2221,11 @@
       "ts": "2024-02-15T12:58:28.935Z",
       "type": "fix",
       "summary": "correct heading hierarchy on horse detail pages"
+    },
+    {
+      "ts": "2024-02-15T15:40:03.912Z",
+      "type": "refactor",
+      "summary": "refactor sitemap generator to use async generator"
     }
   ]
 }
