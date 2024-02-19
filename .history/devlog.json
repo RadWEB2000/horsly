@@ -2236,6 +2236,11 @@
       "ts": "2024-02-19T15:02:17.588Z",
       "type": "content",
       "summary": "update newsletter signup copy and CTA"
+    },
+    {
+      "ts": "2024-02-19T15:13:55.486Z",
+      "type": "feat",
+      "summary": "add Open Graph image generation for listings"
     }
   ]
 }
