@@ -2226,6 +2226,11 @@
       "ts": "2024-02-15T15:40:03.912Z",
       "type": "refactor",
       "summary": "refactor sitemap generator to use async generator"
+    },
+    {
+      "ts": "2024-02-19T07:30:44.118Z",
+      "type": "feat",
+      "summary": "add horse breed detail pages with structured data"
     }
   ]
 }
