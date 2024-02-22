@@ -2251,6 +2251,11 @@
       "ts": "2024-02-22T09:09:34.413Z",
       "type": "config",
       "summary": "configure bundle analyzer for production builds"
+    },
+    {
+      "ts": "2024-02-22T10:51:16.324Z",
+      "type": "refactor",
+      "summary": "extract shared map utilities to lib/geo"
     }
   ]
 }
