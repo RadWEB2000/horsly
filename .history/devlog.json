@@ -2256,6 +2256,11 @@
       "ts": "2024-02-22T10:51:16.324Z",
       "type": "refactor",
       "summary": "extract shared map utilities to lib/geo"
+    },
+    {
+      "ts": "2024-02-22T14:52:04.901Z",
+      "type": "fix",
+      "summary": "resolve 404 for dynamically generated sitemaps"
     }
   ]
 }
