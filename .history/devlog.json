@@ -2246,6 +2246,11 @@
       "ts": "2024-02-21T08:06:52.396Z",
       "type": "feat",
       "summary": "add breadcrumb schema markup to all pages"
+    },
+    {
+      "ts": "2024-02-22T09:09:34.413Z",
+      "type": "config",
+      "summary": "configure bundle analyzer for production builds"
     }
   ]
 }
