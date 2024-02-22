@@ -2261,6 +2261,11 @@
       "ts": "2024-02-22T14:52:04.901Z",
       "type": "fix",
       "summary": "resolve 404 for dynamically generated sitemaps"
+    },
+    {
+      "ts": "2024-02-22T16:09:55.625Z",
+      "type": "fix",
+      "summary": "correct heading hierarchy on horse detail pages"
     }
   ]
 }
