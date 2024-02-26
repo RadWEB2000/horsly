@@ -2276,6 +2276,11 @@
       "ts": "2024-02-26T13:58:32.063Z",
       "type": "content",
       "summary": "revise stable listing description template"
+    },
+    {
+      "ts": "2024-02-26T15:02:49.943Z",
+      "type": "feat",
+      "summary": "implement comparison tool for horse breeds"
     }
   ]
 }
