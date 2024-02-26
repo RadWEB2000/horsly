@@ -2266,6 +2266,11 @@
       "ts": "2024-02-22T16:09:55.625Z",
       "type": "fix",
       "summary": "correct heading hierarchy on horse detail pages"
+    },
+    {
+      "ts": "2024-02-26T07:05:25.001Z",
+      "type": "fix",
+      "summary": "fix memory leak in WebSocket auction connection"
     }
   ]
 }
