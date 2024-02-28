@@ -2296,6 +2296,11 @@
       "ts": "2024-02-28T09:20:36.315Z",
       "type": "fix",
       "summary": "resolve hreflang alternate link self-referencing loop"
+    },
+    {
+      "ts": "2024-02-28T09:22:49.862Z",
+      "type": "docs",
+      "summary": "add contributing guide for content editors"
     }
   ]
 }
