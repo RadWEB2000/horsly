@@ -2291,6 +2291,11 @@
       "ts": "2024-02-28T08:59:54.960Z",
       "type": "fix",
       "summary": "resolve 404 for dynamically generated sitemaps"
+    },
+    {
+      "ts": "2024-02-28T09:20:36.315Z",
+      "type": "fix",
+      "summary": "resolve hreflang alternate link self-referencing loop"
     }
   ]
 }
