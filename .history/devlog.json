@@ -2306,6 +2306,11 @@
       "ts": "2024-02-28T10:45:03.799Z",
       "type": "content",
       "summary": "update pricing page SEO copy"
+    },
+    {
+      "ts": "2024-02-29T11:37:51.060Z",
+      "type": "refactor",
+      "summary": "consolidate API error handling into interceptor"
     }
   ]
 }
