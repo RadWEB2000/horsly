@@ -2331,6 +2331,11 @@
       "ts": "2024-03-01T12:58:59.546Z",
       "type": "feat",
       "summary": "implement custom 404 with SEO-friendly copy"
+    },
+    {
+      "ts": "2024-03-01T13:46:38.983Z",
+      "type": "docs",
+      "summary": "document SEO audit process and tooling"
     }
   ]
 }
