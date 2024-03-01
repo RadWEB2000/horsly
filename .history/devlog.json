@@ -2321,6 +2321,11 @@
       "ts": "2024-02-29T16:36:36.425Z",
       "type": "refactor",
       "summary": "consolidate theme tokens into design system config"
+    },
+    {
+      "ts": "2024-03-01T11:11:25.051Z",
+      "type": "feat",
+      "summary": "implement search engine preview component"
     }
   ]
 }
