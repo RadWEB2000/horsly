@@ -2341,6 +2341,11 @@
       "ts": "2024-03-04T08:30:49.719Z",
       "type": "feat",
       "summary": "add Core Web Vitals dashboard integration"
+    },
+    {
+      "ts": "2024-03-05T12:12:24.554Z",
+      "type": "content",
+      "summary": "update author bio metadata for trainers"
     }
   ]
 }
