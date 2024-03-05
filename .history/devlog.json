@@ -2346,6 +2346,11 @@
       "ts": "2024-03-05T12:12:24.554Z",
       "type": "content",
       "summary": "update author bio metadata for trainers"
+    },
+    {
+      "ts": "2024-03-05T14:11:39.681Z",
+      "type": "feat",
+      "summary": "implement sitemap auto-generation from page tree"
     }
   ]
 }
