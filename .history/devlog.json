@@ -2356,6 +2356,11 @@
       "ts": "2024-03-06T10:17:51.775Z",
       "type": "fix",
       "summary": "correct sitemap lastmod date format to ISO 8601"
+    },
+    {
+      "ts": "2024-03-06T11:50:45.971Z",
+      "type": "fix",
+      "summary": "fix missing alt attributes on gallery images"
     }
   ]
 }
