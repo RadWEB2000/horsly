@@ -2361,6 +2361,11 @@
       "ts": "2024-03-06T11:50:45.971Z",
       "type": "fix",
       "summary": "fix missing alt attributes on gallery images"
+    },
+    {
+      "ts": "2024-03-06T15:49:34.885Z",
+      "type": "feat",
+      "summary": "add news feed with article schema"
     }
   ]
 }
