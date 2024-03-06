@@ -2371,6 +2371,11 @@
       "ts": "2024-03-06T15:51:38.496Z",
       "type": "fix",
       "summary": "fix missing alt attributes on gallery images"
+    },
+    {
+      "ts": "2024-03-06T16:51:31.458Z",
+      "type": "feat",
+      "summary": "add dark mode support with system preference detection"
     }
   ]
 }
