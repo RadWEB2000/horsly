@@ -2351,6 +2351,11 @@
       "ts": "2024-03-05T14:11:39.681Z",
       "type": "feat",
       "summary": "implement sitemap auto-generation from page tree"
+    },
+    {
+      "ts": "2024-03-06T10:17:51.775Z",
+      "type": "fix",
+      "summary": "correct sitemap lastmod date format to ISO 8601"
     }
   ]
 }
