@@ -2381,6 +2381,11 @@
       "ts": "2024-03-07T09:49:51.855Z",
       "type": "config",
       "summary": "update TypeScript path aliases in tsconfig"
+    },
+    {
+      "ts": "2024-03-07T10:21:28.574Z",
+      "type": "feat",
+      "summary": "add dark mode support with system preference detection"
     }
   ]
 }
