@@ -2386,6 +2386,11 @@
       "ts": "2024-03-07T10:21:28.574Z",
       "type": "feat",
       "summary": "add dark mode support with system preference detection"
+    },
+    {
+      "ts": "2024-03-07T14:36:16.920Z",
+      "type": "perf",
+      "summary": "optimize critical rendering path for product pages"
     }
   ]
 }
