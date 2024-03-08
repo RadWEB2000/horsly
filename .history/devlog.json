@@ -2406,6 +2406,11 @@
       "ts": "2024-03-08T13:25:47.287Z",
       "type": "fix",
       "summary": "fix broken image URLs in social preview cards"
+    },
+    {
+      "ts": "2024-03-08T16:51:05.876Z",
+      "type": "content",
+      "summary": "refresh footer links and contact information"
     }
   ]
 }
