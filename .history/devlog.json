@@ -2396,6 +2396,11 @@
       "ts": "2024-03-08T12:31:38.571Z",
       "type": "content",
       "summary": "update author bio metadata for trainers"
+    },
+    {
+      "ts": "2024-03-08T13:20:00.181Z",
+      "type": "refactor",
+      "summary": "migrate config to zod-validated schema"
     }
   ]
 }
