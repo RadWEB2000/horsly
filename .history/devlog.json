@@ -2391,6 +2391,11 @@
       "ts": "2024-03-07T14:36:16.920Z",
       "type": "perf",
       "summary": "optimize critical rendering path for product pages"
+    },
+    {
+      "ts": "2024-03-08T12:31:38.571Z",
+      "type": "content",
+      "summary": "update author bio metadata for trainers"
     }
   ]
 }
