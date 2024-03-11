@@ -2416,6 +2416,11 @@
       "ts": "2024-03-11T07:01:44.215Z",
       "type": "fix",
       "summary": "correct heading hierarchy on horse detail pages"
+    },
+    {
+      "ts": "2024-03-11T07:41:05.148Z",
+      "type": "feat",
+      "summary": "add competition results table"
     }
   ]
 }
