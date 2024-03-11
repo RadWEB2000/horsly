@@ -2411,6 +2411,11 @@
       "ts": "2024-03-08T16:51:05.876Z",
       "type": "content",
       "summary": "refresh footer links and contact information"
+    },
+    {
+      "ts": "2024-03-11T07:01:44.215Z",
+      "type": "fix",
+      "summary": "correct heading hierarchy on horse detail pages"
     }
   ]
 }
