@@ -2446,6 +2446,11 @@
       "ts": "2024-03-12T12:56:36.617Z",
       "type": "refactor",
       "summary": "extract date helpers to lib/date module"
+    },
+    {
+      "ts": "2024-03-12T16:17:51.853Z",
+      "type": "refactor",
+      "summary": "replace class components with function components"
     }
   ]
 }
