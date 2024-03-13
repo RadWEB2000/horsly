@@ -2451,6 +2451,11 @@
       "ts": "2024-03-12T16:17:51.853Z",
       "type": "refactor",
       "summary": "replace class components with function components"
+    },
+    {
+      "ts": "2024-03-13T14:45:12.421Z",
+      "type": "config",
+      "summary": "add environment variable schema validation"
     }
   ]
 }
