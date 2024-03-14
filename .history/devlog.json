@@ -2471,6 +2471,11 @@
       "ts": "2024-03-14T12:44:06.309Z",
       "type": "config",
       "summary": "configure trailing slash behavior globally"
+    },
+    {
+      "ts": "2024-03-14T12:57:21.068Z",
+      "type": "fix",
+      "summary": "fix z-index overlap in mobile navigation menu"
     }
   ]
 }
