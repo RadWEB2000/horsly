@@ -2476,6 +2476,11 @@
       "ts": "2024-03-14T12:57:21.068Z",
       "type": "fix",
       "summary": "fix z-index overlap in mobile navigation menu"
+    },
+    {
+      "ts": "2024-03-14T12:59:39.408Z",
+      "type": "perf",
+      "summary": "optimize font loading with preconnect and display swap"
     }
   ]
 }
