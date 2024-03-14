@@ -2456,6 +2456,11 @@
       "ts": "2024-03-13T14:45:12.421Z",
       "type": "config",
       "summary": "add environment variable schema validation"
+    },
+    {
+      "ts": "2024-03-14T08:44:21.810Z",
+      "type": "refactor",
+      "summary": "consolidate theme tokens into design system config"
     }
   ]
 }
