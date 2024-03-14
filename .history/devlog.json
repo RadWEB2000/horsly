@@ -2461,6 +2461,11 @@
       "ts": "2024-03-14T08:44:21.810Z",
       "type": "refactor",
       "summary": "consolidate theme tokens into design system config"
+    },
+    {
+      "ts": "2024-03-14T12:25:57.964Z",
+      "type": "perf",
+      "summary": "implement static generation for blog archive pages"
     }
   ]
 }
