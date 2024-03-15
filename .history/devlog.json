@@ -2491,6 +2491,11 @@
       "ts": "2024-03-15T15:56:45.700Z",
       "type": "refactor",
       "summary": "migrate fetch calls to typed api client wrapper"
+    },
+    {
+      "ts": "2024-03-15T16:27:44.746Z",
+      "type": "content",
+      "summary": "update product page keyword targeting"
     }
   ]
 }
