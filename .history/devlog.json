@@ -2486,6 +2486,11 @@
       "ts": "2024-03-15T12:00:55.406Z",
       "type": "docs",
       "summary": "document sitemap generation and regeneration process"
+    },
+    {
+      "ts": "2024-03-15T15:56:45.700Z",
+      "type": "refactor",
+      "summary": "migrate fetch calls to typed api client wrapper"
     }
   ]
 }
