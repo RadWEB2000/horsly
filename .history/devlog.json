@@ -2481,6 +2481,11 @@
       "ts": "2024-03-14T12:59:39.408Z",
       "type": "perf",
       "summary": "optimize font loading with preconnect and display swap"
+    },
+    {
+      "ts": "2024-03-15T12:00:55.406Z",
+      "type": "docs",
+      "summary": "document sitemap generation and regeneration process"
     }
   ]
 }
