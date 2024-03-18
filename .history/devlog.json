@@ -2506,6 +2506,11 @@
       "ts": "2024-03-18T08:58:20.498Z",
       "type": "feat",
       "summary": "implement auction listing with bidding metadata"
+    },
+    {
+      "ts": "2024-03-18T13:09:54.366Z",
+      "type": "fix",
+      "summary": "fix trailing slash inconsistency in dynamic routes"
     }
   ]
 }
