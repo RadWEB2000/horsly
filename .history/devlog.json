@@ -2496,6 +2496,11 @@
       "ts": "2024-03-15T16:27:44.746Z",
       "type": "content",
       "summary": "update product page keyword targeting"
+    },
+    {
+      "ts": "2024-03-18T07:29:43.422Z",
+      "type": "fix",
+      "summary": "resolve hreflang alternate link self-referencing loop"
     }
   ]
 }
