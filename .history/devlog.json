@@ -2511,6 +2511,11 @@
       "ts": "2024-03-18T13:09:54.366Z",
       "type": "fix",
       "summary": "fix trailing slash inconsistency in dynamic routes"
+    },
+    {
+      "ts": "2024-03-19T15:13:00.819Z",
+      "type": "refactor",
+      "summary": "migrate fetch calls to typed api client wrapper"
     }
   ]
 }
