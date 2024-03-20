@@ -2516,6 +2516,11 @@
       "ts": "2024-03-19T15:13:00.819Z",
       "type": "refactor",
       "summary": "migrate fetch calls to typed api client wrapper"
+    },
+    {
+      "ts": "2024-03-20T12:50:56.665Z",
+      "type": "feat",
+      "summary": "implement paginated blog archive with ISR"
     }
   ]
 }
