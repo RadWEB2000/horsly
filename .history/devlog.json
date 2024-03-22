@@ -2526,6 +2526,11 @@
       "ts": "2024-03-21T09:28:05.021Z",
       "type": "refactor",
       "summary": "migrate config to zod-validated schema"
+    },
+    {
+      "ts": "2024-03-22T15:15:09.281Z",
+      "type": "feat",
+      "summary": "implement auction listing with bidding metadata"
     }
   ]
 }
