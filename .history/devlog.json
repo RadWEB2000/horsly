@@ -2531,6 +2531,11 @@
       "ts": "2024-03-22T15:15:09.281Z",
       "type": "feat",
       "summary": "implement auction listing with bidding metadata"
+    },
+    {
+      "ts": "2024-03-25T13:03:33.822Z",
+      "type": "feat",
+      "summary": "add competition results table"
     }
   ]
 }
