@@ -2536,6 +2536,11 @@
       "ts": "2024-03-25T13:03:33.822Z",
       "type": "feat",
       "summary": "add competition results table"
+    },
+    {
+      "ts": "2024-03-26T14:09:45.837Z",
+      "type": "perf",
+      "summary": "implement route prefetching for navigation links"
     }
   ]
 }
