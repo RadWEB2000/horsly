@@ -2541,6 +2541,11 @@
       "ts": "2024-03-26T14:09:45.837Z",
       "type": "perf",
       "summary": "implement route prefetching for navigation links"
+    },
+    {
+      "ts": "2024-03-27T08:14:43.630Z",
+      "type": "feat",
+      "summary": "implement lazy loading for stable gallery images"
     }
   ]
 }
