@@ -2551,6 +2551,11 @@
       "ts": "2024-03-27T11:24:11.286Z",
       "type": "refactor",
       "summary": "refactor horse schema to extend base Article type"
+    },
+    {
+      "ts": "2024-03-28T09:43:10.622Z",
+      "type": "config",
+      "summary": "add Sentry source map upload to build pipeline"
     }
   ]
 }
