@@ -2561,6 +2561,11 @@
       "ts": "2024-03-29T07:12:09.758Z",
       "type": "fix",
       "summary": "resolve hydration mismatch in auction countdown"
+    },
+    {
+      "ts": "2024-03-29T13:33:10.525Z",
+      "type": "feat",
+      "summary": "implement sitemap auto-generation from page tree"
     }
   ]
 }
