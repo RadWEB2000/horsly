@@ -2576,6 +2576,11 @@
       "ts": "2024-03-29T15:10:48.013Z",
       "type": "feat",
       "summary": "implement email subscription with double opt-in"
+    },
+    {
+      "ts": "2024-04-01T11:54:01.284Z",
+      "type": "feat",
+      "summary": "implement custom 404 with SEO-friendly copy"
     }
   ]
 }
