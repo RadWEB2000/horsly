@@ -2601,6 +2601,11 @@
       "ts": "2024-04-02T14:33:19.609Z",
       "type": "fix",
       "summary": "correct date formatting in event calendar"
+    },
+    {
+      "ts": "2024-04-02T16:04:16.212Z",
+      "type": "content",
+      "summary": "update newsletter signup copy and CTA"
     }
   ]
 }
