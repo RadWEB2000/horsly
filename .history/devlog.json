@@ -2596,6 +2596,11 @@
       "ts": "2024-04-02T14:02:13.031Z",
       "type": "fix",
       "summary": "fix memory leak in WebSocket auction connection"
+    },
+    {
+      "ts": "2024-04-02T14:33:19.609Z",
+      "type": "fix",
+      "summary": "correct date formatting in event calendar"
     }
   ]
 }
