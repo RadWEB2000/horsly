@@ -2581,6 +2581,11 @@
       "ts": "2024-04-01T11:54:01.284Z",
       "type": "feat",
       "summary": "implement custom 404 with SEO-friendly copy"
+    },
+    {
+      "ts": "2024-04-02T10:31:40.414Z",
+      "type": "fix",
+      "summary": "correct heading hierarchy on horse detail pages"
     }
   ]
 }
