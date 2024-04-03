@@ -2611,6 +2611,11 @@
       "ts": "2024-04-03T08:03:50.797Z",
       "type": "refactor",
       "summary": "migrate meta tag logic to useSeoMeta hook"
+    },
+    {
+      "ts": "2024-04-03T11:28:33.472Z",
+      "type": "config",
+      "summary": "configure biome lint rules for project conventions"
     }
   ]
 }
