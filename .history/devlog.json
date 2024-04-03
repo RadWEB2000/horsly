@@ -2606,6 +2606,11 @@
       "ts": "2024-04-02T16:04:16.212Z",
       "type": "content",
       "summary": "update newsletter signup copy and CTA"
+    },
+    {
+      "ts": "2024-04-03T08:03:50.797Z",
+      "type": "refactor",
+      "summary": "migrate meta tag logic to useSeoMeta hook"
     }
   ]
 }
