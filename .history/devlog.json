@@ -2616,6 +2616,11 @@
       "ts": "2024-04-03T11:28:33.472Z",
       "type": "config",
       "summary": "configure biome lint rules for project conventions"
+    },
+    {
+      "ts": "2024-04-04T06:33:10.338Z",
+      "type": "refactor",
+      "summary": "refactor sitemap generator to use async generator"
     }
   ]
 }
