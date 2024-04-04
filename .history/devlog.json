@@ -2621,6 +2621,11 @@
       "ts": "2024-04-04T06:33:10.338Z",
       "type": "refactor",
       "summary": "refactor sitemap generator to use async generator"
+    },
+    {
+      "ts": "2024-04-04T09:47:16.331Z",
+      "type": "perf",
+      "summary": "compress devlog and reduce JSON payload size"
     }
   ]
 }
