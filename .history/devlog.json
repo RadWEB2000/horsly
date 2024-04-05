@@ -2646,6 +2646,11 @@
       "ts": "2024-04-05T11:03:10.154Z",
       "type": "fix",
       "summary": "correct date formatting in event calendar"
+    },
+    {
+      "ts": "2024-04-05T13:20:01.015Z",
+      "type": "content",
+      "summary": "add region-specific content for Małopolska stables"
     }
   ]
 }
