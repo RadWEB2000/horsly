@@ -2636,6 +2636,11 @@
       "ts": "2024-04-05T06:24:41.541Z",
       "type": "feat",
       "summary": "add horse breed detail pages with structured data"
+    },
+    {
+      "ts": "2024-04-05T10:43:41.645Z",
+      "type": "refactor",
+      "summary": "extract canonical URL logic to middleware"
     }
   ]
 }
