@@ -2651,6 +2651,11 @@
       "ts": "2024-04-05T13:20:01.015Z",
       "type": "content",
       "summary": "add region-specific content for Małopolska stables"
+    },
+    {
+      "ts": "2024-04-05T15:12:33.660Z",
+      "type": "docs",
+      "summary": "add contributing guide for content editors"
     }
   ]
 }
