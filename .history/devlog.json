@@ -2631,6 +2631,11 @@
       "ts": "2024-04-04T13:53:32.242Z",
       "type": "fix",
       "summary": "correct currency formatting for non-PLN locales"
+    },
+    {
+      "ts": "2024-04-05T06:24:41.541Z",
+      "type": "feat",
+      "summary": "add horse breed detail pages with structured data"
     }
   ]
 }
