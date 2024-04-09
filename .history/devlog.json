@@ -2671,6 +2671,11 @@
       "ts": "2024-04-09T12:27:28.121Z",
       "type": "fix",
       "summary": "correct filter state reset on route change"
+    },
+    {
+      "ts": "2024-04-09T14:58:32.955Z",
+      "type": "content",
+      "summary": "update author bio metadata for trainers"
     }
   ]
 }
