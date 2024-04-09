@@ -2666,6 +2666,11 @@
       "ts": "2024-04-08T10:02:22.572Z",
       "type": "fix",
       "summary": "fix broken pagination on search results page"
+    },
+    {
+      "ts": "2024-04-09T12:27:28.121Z",
+      "type": "fix",
+      "summary": "correct filter state reset on route change"
     }
   ]
 }
