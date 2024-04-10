@@ -2676,6 +2676,11 @@
       "ts": "2024-04-09T14:58:32.955Z",
       "type": "content",
       "summary": "update author bio metadata for trainers"
+    },
+    {
+      "ts": "2024-04-10T09:12:09.179Z",
+      "type": "fix",
+      "summary": "resolve 404 for dynamically generated sitemaps"
     }
   ]
 }
