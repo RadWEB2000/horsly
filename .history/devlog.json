@@ -2686,6 +2686,11 @@
       "ts": "2024-04-10T14:12:27.693Z",
       "type": "perf",
       "summary": "implement ISR with 24h revalidation for breed pages"
+    },
+    {
+      "ts": "2024-04-11T12:46:25.335Z",
+      "type": "fix",
+      "summary": "correct currency formatting for non-PLN locales"
     }
   ]
 }
