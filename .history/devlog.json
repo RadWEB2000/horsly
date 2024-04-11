@@ -2691,6 +2691,11 @@
       "ts": "2024-04-11T12:46:25.335Z",
       "type": "fix",
       "summary": "correct currency formatting for non-PLN locales"
+    },
+    {
+      "ts": "2024-04-11T14:18:37.418Z",
+      "type": "fix",
+      "summary": "fix memory leak in WebSocket auction connection"
     }
   ]
 }
