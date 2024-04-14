@@ -2706,6 +2706,11 @@
       "ts": "2024-04-14T08:06:42.126Z",
       "type": "fix",
       "summary": "resolve canonical URL duplication on paginated pages"
+    },
+    {
+      "ts": "2024-04-14T12:55:26.902Z",
+      "type": "fix",
+      "summary": "fix trailing slash inconsistency in dynamic routes"
     }
   ]
 }
