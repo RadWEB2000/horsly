@@ -2726,6 +2726,11 @@
       "ts": "2024-04-15T15:48:08.883Z",
       "type": "content",
       "summary": "update pricing page SEO copy"
+    },
+    {
+      "ts": "2024-04-15T16:20:49.270Z",
+      "type": "fix",
+      "summary": "fix Open Graph image dimensions for Twitter cards"
     }
   ]
 }
