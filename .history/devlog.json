@@ -2741,6 +2741,11 @@
       "ts": "2024-04-17T06:12:55.289Z",
       "type": "feat",
       "summary": "implement dynamic robots.txt generation"
+    },
+    {
+      "ts": "2024-04-17T08:36:17.800Z",
+      "type": "refactor",
+      "summary": "refactor sitemap generator to use async generator"
     }
   ]
 }
