@@ -2736,6 +2736,11 @@
       "ts": "2024-04-16T09:05:43.677Z",
       "type": "fix",
       "summary": "correct filter state reset on route change"
+    },
+    {
+      "ts": "2024-04-17T06:12:55.289Z",
+      "type": "feat",
+      "summary": "implement dynamic robots.txt generation"
     }
   ]
 }
