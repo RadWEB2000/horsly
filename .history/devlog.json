@@ -2746,6 +2746,11 @@
       "ts": "2024-04-17T08:36:17.800Z",
       "type": "refactor",
       "summary": "refactor sitemap generator to use async generator"
+    },
+    {
+      "ts": "2024-04-18T10:37:54.001Z",
+      "type": "fix",
+      "summary": "correct sitemap lastmod date format to ISO 8601"
     }
   ]
 }
