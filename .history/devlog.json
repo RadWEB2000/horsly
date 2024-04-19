@@ -2751,6 +2751,11 @@
       "ts": "2024-04-18T10:37:54.001Z",
       "type": "fix",
       "summary": "correct sitemap lastmod date format to ISO 8601"
+    },
+    {
+      "ts": "2024-04-19T08:24:48.610Z",
+      "type": "feat",
+      "summary": "implement lazy loading for stable gallery images"
     }
   ]
 }
