@@ -2756,6 +2756,11 @@
       "ts": "2024-04-19T08:24:48.610Z",
       "type": "feat",
       "summary": "implement lazy loading for stable gallery images"
+    },
+    {
+      "ts": "2024-04-19T12:10:03.542Z",
+      "type": "feat",
+      "summary": "add video gallery for competition replays"
     }
   ]
 }
