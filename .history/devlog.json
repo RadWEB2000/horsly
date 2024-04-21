@@ -2766,6 +2766,11 @@
       "ts": "2024-04-21T11:15:59.625Z",
       "type": "feat",
       "summary": "implement product listing with category filters"
+    },
+    {
+      "ts": "2024-04-21T14:16:11.937Z",
+      "type": "fix",
+      "summary": "fix Open Graph image dimensions for Twitter cards"
     }
   ]
 }
