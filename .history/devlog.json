@@ -2761,6 +2761,11 @@
       "ts": "2024-04-19T12:10:03.542Z",
       "type": "feat",
       "summary": "add video gallery for competition replays"
+    },
+    {
+      "ts": "2024-04-21T11:15:59.625Z",
+      "type": "feat",
+      "summary": "implement product listing with category filters"
     }
   ]
 }
