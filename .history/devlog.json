@@ -2771,6 +2771,11 @@
       "ts": "2024-04-21T14:16:11.937Z",
       "type": "fix",
       "summary": "fix Open Graph image dimensions for Twitter cards"
+    },
+    {
+      "ts": "2024-04-21T14:28:29.679Z",
+      "type": "config",
+      "summary": "update next.config.ts for pl/en/de i18n routing"
     }
   ]
 }
