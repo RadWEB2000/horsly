@@ -2781,6 +2781,11 @@
       "ts": "2024-04-22T08:22:04.489Z",
       "type": "content",
       "summary": "update homepage meta description and H1 copy"
+    },
+    {
+      "ts": "2024-04-22T12:22:30.580Z",
+      "type": "fix",
+      "summary": "fix memory leak in WebSocket auction connection"
     }
   ]
 }
