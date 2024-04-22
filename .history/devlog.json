@@ -2776,6 +2776,11 @@
       "ts": "2024-04-21T14:28:29.679Z",
       "type": "config",
       "summary": "update next.config.ts for pl/en/de i18n routing"
+    },
+    {
+      "ts": "2024-04-22T08:22:04.489Z",
+      "type": "content",
+      "summary": "update homepage meta description and H1 copy"
     }
   ]
 }
