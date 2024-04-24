@@ -2786,6 +2786,11 @@
       "ts": "2024-04-22T12:22:30.580Z",
       "type": "fix",
       "summary": "fix memory leak in WebSocket auction connection"
+    },
+    {
+      "ts": "2024-04-24T07:27:08.202Z",
+      "type": "refactor",
+      "summary": "consolidate API error handling into interceptor"
     }
   ]
 }
