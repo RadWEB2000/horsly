@@ -2801,6 +2801,11 @@
       "ts": "2024-04-25T09:27:51.333Z",
       "type": "refactor",
       "summary": "refactor filter logic to use URL search params"
+    },
+    {
+      "ts": "2024-04-25T15:57:30.218Z",
+      "type": "fix",
+      "summary": "resolve canonical URL duplication on paginated pages"
     }
   ]
 }
