@@ -2806,6 +2806,11 @@
       "ts": "2024-04-25T15:57:30.218Z",
       "type": "fix",
       "summary": "resolve canonical URL duplication on paginated pages"
+    },
+    {
+      "ts": "2024-04-26T11:52:54.790Z",
+      "type": "fix",
+      "summary": "fix broken image URLs in social preview cards"
     }
   ]
 }
