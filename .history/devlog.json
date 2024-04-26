@@ -2811,6 +2811,11 @@
       "ts": "2024-04-26T11:52:54.790Z",
       "type": "fix",
       "summary": "fix broken image URLs in social preview cards"
+    },
+    {
+      "ts": "2024-04-26T12:10:31.432Z",
+      "type": "feat",
+      "summary": "add breadcrumb schema markup to all pages"
     }
   ]
 }
