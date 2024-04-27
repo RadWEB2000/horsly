@@ -2816,6 +2816,11 @@
       "ts": "2024-04-26T12:10:31.432Z",
       "type": "feat",
       "summary": "add breadcrumb schema markup to all pages"
+    },
+    {
+      "ts": "2024-04-27T15:32:16.268Z",
+      "type": "feat",
+      "summary": "implement product listing with category filters"
     }
   ]
 }
