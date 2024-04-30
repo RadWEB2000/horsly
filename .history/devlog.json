@@ -2831,6 +2831,11 @@
       "ts": "2024-04-30T09:40:13.164Z",
       "type": "feat",
       "summary": "add event calendar for equestrian competitions"
+    },
+    {
+      "ts": "2024-04-30T12:29:07.617Z",
+      "type": "fix",
+      "summary": "fix sitemap URL encoding for Polish characters"
     }
   ]
 }
