@@ -2826,6 +2826,11 @@
       "ts": "2024-04-30T08:36:15.079Z",
       "type": "refactor",
       "summary": "replace magic strings with typed enum constants"
+    },
+    {
+      "ts": "2024-04-30T09:40:13.164Z",
+      "type": "feat",
+      "summary": "add event calendar for equestrian competitions"
     }
   ]
 }
