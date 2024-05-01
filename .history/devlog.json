@@ -2841,6 +2841,11 @@
       "ts": "2024-05-01T07:29:31.825Z",
       "type": "refactor",
       "summary": "consolidate Open Graph defaults into config object"
+    },
+    {
+      "ts": "2024-05-01T13:52:26.714Z",
+      "type": "fix",
+      "summary": "fix trailing slash inconsistency in dynamic routes"
     }
   ]
 }
