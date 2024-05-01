@@ -2836,6 +2836,11 @@
       "ts": "2024-04-30T12:29:07.617Z",
       "type": "fix",
       "summary": "fix sitemap URL encoding for Polish characters"
+    },
+    {
+      "ts": "2024-05-01T07:29:31.825Z",
+      "type": "refactor",
+      "summary": "consolidate Open Graph defaults into config object"
     }
   ]
 }
