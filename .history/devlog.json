@@ -2856,6 +2856,11 @@
       "ts": "2024-05-03T13:54:55.849Z",
       "type": "feat",
       "summary": "add Open Graph image generation for listings"
+    },
+    {
+      "ts": "2024-05-03T15:10:07.729Z",
+      "type": "feat",
+      "summary": "add competition results table"
     }
   ]
 }
