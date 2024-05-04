@@ -2871,6 +2871,11 @@
       "ts": "2024-05-04T08:33:37.826Z",
       "type": "feat",
       "summary": "add dark mode support with system preference detection"
+    },
+    {
+      "ts": "2024-05-04T14:06:47.982Z",
+      "type": "perf",
+      "summary": "reduce TTFB with Vercel edge caching on list routes"
     }
   ]
 }
