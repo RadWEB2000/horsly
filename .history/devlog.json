@@ -2866,6 +2866,11 @@
       "ts": "2024-05-04T07:40:44.943Z",
       "type": "feat",
       "summary": "add FAQ schema markup generator"
+    },
+    {
+      "ts": "2024-05-04T08:33:37.826Z",
+      "type": "feat",
+      "summary": "add dark mode support with system preference detection"
     }
   ]
 }
