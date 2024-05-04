@@ -2876,6 +2876,11 @@
       "ts": "2024-05-04T14:06:47.982Z",
       "type": "perf",
       "summary": "reduce TTFB with Vercel edge caching on list routes"
+    },
+    {
+      "ts": "2024-05-04T16:23:00.219Z",
+      "type": "fix",
+      "summary": "resolve hreflang alternate link self-referencing loop"
     }
   ]
 }
