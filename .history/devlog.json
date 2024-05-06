@@ -2886,6 +2886,11 @@
       "ts": "2024-05-06T06:12:24.410Z",
       "type": "refactor",
       "summary": "extract canonical URL logic to middleware"
+    },
+    {
+      "ts": "2024-05-06T06:24:48.061Z",
+      "type": "feat",
+      "summary": "implement comparison tool for horse breeds"
     }
   ]
 }
