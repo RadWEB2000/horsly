@@ -2881,6 +2881,11 @@
       "ts": "2024-05-04T16:23:00.219Z",
       "type": "fix",
       "summary": "resolve hreflang alternate link self-referencing loop"
+    },
+    {
+      "ts": "2024-05-06T06:12:24.410Z",
+      "type": "refactor",
+      "summary": "extract canonical URL logic to middleware"
     }
   ]
 }
