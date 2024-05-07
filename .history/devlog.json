@@ -2901,6 +2901,11 @@
       "ts": "2024-05-06T16:10:30.023Z",
       "type": "fix",
       "summary": "correct sitemap lastmod date format to ISO 8601"
+    },
+    {
+      "ts": "2024-05-07T10:38:53.579Z",
+      "type": "feat",
+      "summary": "implement custom 404 with SEO-friendly copy"
     }
   ]
 }
