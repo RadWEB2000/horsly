@@ -2911,6 +2911,11 @@
       "ts": "2024-05-08T08:40:40.968Z",
       "type": "config",
       "summary": "add Content-Security-Policy to middleware"
+    },
+    {
+      "ts": "2024-05-08T15:49:19.761Z",
+      "type": "feat",
+      "summary": "add competition results table"
     }
   ]
 }
