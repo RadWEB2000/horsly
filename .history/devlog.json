@@ -2921,6 +2921,11 @@
       "ts": "2024-05-09T06:48:11.437Z",
       "type": "refactor",
       "summary": "migrate meta tag logic to useSeoMeta hook"
+    },
+    {
+      "ts": "2024-05-09T15:04:32.596Z",
+      "type": "refactor",
+      "summary": "consolidate Open Graph defaults into config object"
     }
   ]
 }
