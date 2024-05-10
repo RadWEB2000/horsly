@@ -2926,6 +2926,11 @@
       "ts": "2024-05-09T15:04:32.596Z",
       "type": "refactor",
       "summary": "consolidate Open Graph defaults into config object"
+    },
+    {
+      "ts": "2024-05-10T12:23:13.217Z",
+      "type": "fix",
+      "summary": "fix Open Graph image dimensions for Twitter cards"
     }
   ]
 }
