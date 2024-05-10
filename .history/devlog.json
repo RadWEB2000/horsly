@@ -2931,6 +2931,11 @@
       "ts": "2024-05-10T12:23:13.217Z",
       "type": "fix",
       "summary": "fix Open Graph image dimensions for Twitter cards"
+    },
+    {
+      "ts": "2024-05-10T12:30:14.143Z",
+      "type": "docs",
+      "summary": "document map component configuration options"
     }
   ]
 }
