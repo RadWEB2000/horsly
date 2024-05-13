@@ -2951,6 +2951,11 @@
       "ts": "2024-05-13T12:03:30.640Z",
       "type": "fix",
       "summary": "resolve canonical URL duplication on paginated pages"
+    },
+    {
+      "ts": "2024-05-13T12:24:28.406Z",
+      "type": "feat",
+      "summary": "implement product listing with category filters"
     }
   ]
 }
