@@ -2966,6 +2966,11 @@
       "ts": "2024-05-14T06:24:30.470Z",
       "type": "feat",
       "summary": "add video gallery for competition replays"
+    },
+    {
+      "ts": "2024-05-14T11:05:33.755Z",
+      "type": "config",
+      "summary": "configure Vercel edge network caching rules"
     }
   ]
 }
