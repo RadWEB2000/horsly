@@ -2986,6 +2986,11 @@
       "ts": "2024-05-15T13:12:10.365Z",
       "type": "content",
       "summary": "update newsletter signup copy and CTA"
+    },
+    {
+      "ts": "2024-05-15T15:52:12.494Z",
+      "type": "fix",
+      "summary": "fix broken pagination on search results page"
     }
   ]
 }
