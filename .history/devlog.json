@@ -2991,6 +2991,11 @@
       "ts": "2024-05-15T15:52:12.494Z",
       "type": "fix",
       "summary": "fix broken pagination on search results page"
+    },
+    {
+      "ts": "2024-05-16T08:14:27.042Z",
+      "type": "refactor",
+      "summary": "consolidate API error handling into interceptor"
     }
   ]
 }
