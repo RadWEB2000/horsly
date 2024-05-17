@@ -3011,6 +3011,11 @@
       "ts": "2024-05-17T06:55:38.228Z",
       "type": "feat",
       "summary": "add interactive arena diagram component"
+    },
+    {
+      "ts": "2024-05-17T09:01:12.719Z",
+      "type": "fix",
+      "summary": "fix broken pagination on search results page"
     }
   ]
 }
