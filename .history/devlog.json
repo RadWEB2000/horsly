@@ -3026,6 +3026,11 @@
       "ts": "2024-05-18T12:09:08.007Z",
       "type": "docs",
       "summary": "add deployment checklist to project wiki"
+    },
+    {
+      "ts": "2024-05-18T12:35:26.191Z",
+      "type": "config",
+      "summary": "add Sentry source map upload to build pipeline"
     }
   ]
 }
