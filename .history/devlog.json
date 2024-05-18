@@ -3016,6 +3016,11 @@
       "ts": "2024-05-17T09:01:12.719Z",
       "type": "fix",
       "summary": "fix broken pagination on search results page"
+    },
+    {
+      "ts": "2024-05-18T12:06:07.562Z",
+      "type": "refactor",
+      "summary": "refactor sitemap generator to use async generator"
     }
   ]
 }
