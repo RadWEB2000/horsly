@@ -3021,6 +3021,11 @@
       "ts": "2024-05-18T12:06:07.562Z",
       "type": "refactor",
       "summary": "refactor sitemap generator to use async generator"
+    },
+    {
+      "ts": "2024-05-18T12:09:08.007Z",
+      "type": "docs",
+      "summary": "add deployment checklist to project wiki"
     }
   ]
 }
