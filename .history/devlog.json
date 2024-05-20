@@ -3041,6 +3041,11 @@
       "ts": "2024-05-20T11:53:09.335Z",
       "type": "feat",
       "summary": "implement dynamic robots.txt generation"
+    },
+    {
+      "ts": "2024-05-20T16:10:58.281Z",
+      "type": "fix",
+      "summary": "fix trailing slash inconsistency in dynamic routes"
     }
   ]
 }
