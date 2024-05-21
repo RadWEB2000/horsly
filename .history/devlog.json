@@ -3066,6 +3066,11 @@
       "ts": "2024-05-21T13:05:14.518Z",
       "type": "refactor",
       "summary": "extract date helpers to lib/date module"
+    },
+    {
+      "ts": "2024-05-21T13:25:53.734Z",
+      "type": "content",
+      "summary": "update newsletter signup copy and CTA"
     }
   ]
 }
