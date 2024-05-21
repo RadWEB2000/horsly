@@ -3061,6 +3061,11 @@
       "ts": "2024-05-21T12:33:07.655Z",
       "type": "feat",
       "summary": "implement sitemap auto-generation from page tree"
+    },
+    {
+      "ts": "2024-05-21T13:05:14.518Z",
+      "type": "refactor",
+      "summary": "extract date helpers to lib/date module"
     }
   ]
 }
