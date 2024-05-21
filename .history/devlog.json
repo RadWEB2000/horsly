@@ -3056,6 +3056,11 @@
       "ts": "2024-05-21T10:09:03.925Z",
       "type": "config",
       "summary": "configure ISR revalidation intervals per route type"
+    },
+    {
+      "ts": "2024-05-21T12:33:07.655Z",
+      "type": "feat",
+      "summary": "implement sitemap auto-generation from page tree"
     }
   ]
 }
