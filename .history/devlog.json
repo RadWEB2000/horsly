@@ -3086,6 +3086,11 @@
       "ts": "2024-05-22T14:42:28.628Z",
       "type": "fix",
       "summary": "fix Open Graph image dimensions for Twitter cards"
+    },
+    {
+      "ts": "2024-05-22T14:58:41.648Z",
+      "type": "content",
+      "summary": "refresh footer links and contact information"
     }
   ]
 }
