@@ -3091,6 +3091,11 @@
       "ts": "2024-05-22T14:58:41.648Z",
       "type": "content",
       "summary": "refresh footer links and contact information"
+    },
+    {
+      "ts": "2024-05-22T15:24:42.490Z",
+      "type": "perf",
+      "summary": "reduce TTFB with Vercel edge caching on list routes"
     }
   ]
 }
