@@ -3081,6 +3081,11 @@
       "ts": "2024-05-22T07:59:50.618Z",
       "type": "feat",
       "summary": "implement lazy loading for stable gallery images"
+    },
+    {
+      "ts": "2024-05-22T14:42:28.628Z",
+      "type": "fix",
+      "summary": "fix Open Graph image dimensions for Twitter cards"
     }
   ]
 }
