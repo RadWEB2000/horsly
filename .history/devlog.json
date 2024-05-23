@@ -3111,6 +3111,11 @@
       "ts": "2024-05-23T12:33:19.440Z",
       "type": "content",
       "summary": "add testimonials section with review schema"
+    },
+    {
+      "ts": "2024-05-23T16:01:32.156Z",
+      "type": "fix",
+      "summary": "fix broken pagination on search results page"
     }
   ]
 }
