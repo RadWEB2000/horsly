@@ -3101,6 +3101,11 @@
       "ts": "2024-05-23T09:25:07.037Z",
       "type": "content",
       "summary": "refresh About page structured content"
+    },
+    {
+      "ts": "2024-05-23T12:00:38.681Z",
+      "type": "fix",
+      "summary": "correct structured data JSON-LD syntax error in product schema"
     }
   ]
 }
