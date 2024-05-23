@@ -3106,6 +3106,11 @@
       "ts": "2024-05-23T12:00:38.681Z",
       "type": "fix",
       "summary": "correct structured data JSON-LD syntax error in product schema"
+    },
+    {
+      "ts": "2024-05-23T12:33:19.440Z",
+      "type": "content",
+      "summary": "add testimonials section with review schema"
     }
   ]
 }
