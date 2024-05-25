@@ -3121,6 +3121,11 @@
       "ts": "2024-05-25T08:18:30.247Z",
       "type": "refactor",
       "summary": "refactor sitemap generator to use async generator"
+    },
+    {
+      "ts": "2024-05-25T13:12:45.943Z",
+      "type": "refactor",
+      "summary": "consolidate theme tokens into design system config"
     }
   ]
 }
