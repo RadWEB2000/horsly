@@ -3146,6 +3146,11 @@
       "ts": "2024-05-27T14:48:55.984Z",
       "type": "feat",
       "summary": "implement email subscription with double opt-in"
+    },
+    {
+      "ts": "2024-05-27T15:32:02.273Z",
+      "type": "feat",
+      "summary": "implement lazy loading for stable gallery images"
     }
   ]
 }
