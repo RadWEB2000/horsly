@@ -3131,6 +3131,11 @@
       "ts": "2024-05-27T06:58:53.940Z",
       "type": "refactor",
       "summary": "migrate fetch calls to typed api client wrapper"
+    },
+    {
+      "ts": "2024-05-27T08:50:52.908Z",
+      "type": "feat",
+      "summary": "add breadcrumb schema markup to all pages"
     }
   ]
 }
