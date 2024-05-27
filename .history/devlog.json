@@ -3136,6 +3136,11 @@
       "ts": "2024-05-27T08:50:52.908Z",
       "type": "feat",
       "summary": "add breadcrumb schema markup to all pages"
+    },
+    {
+      "ts": "2024-05-27T13:01:06.588Z",
+      "type": "docs",
+      "summary": "document structured data schema conventions"
     }
   ]
 }
