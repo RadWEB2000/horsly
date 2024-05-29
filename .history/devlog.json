@@ -3161,6 +3161,11 @@
       "ts": "2024-05-29T06:20:54.477Z",
       "type": "docs",
       "summary": "document sitemap generation and regeneration process"
+    },
+    {
+      "ts": "2024-05-29T07:47:55.491Z",
+      "type": "feat",
+      "summary": "implement advanced search with faceted filters"
     }
   ]
 }
