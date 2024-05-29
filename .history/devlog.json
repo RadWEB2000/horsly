@@ -3171,6 +3171,11 @@
       "ts": "2024-05-29T08:28:40.422Z",
       "type": "refactor",
       "summary": "extract shared map utilities to lib/geo"
+    },
+    {
+      "ts": "2024-05-29T09:39:53.977Z",
+      "type": "feat",
+      "summary": "implement email subscription with double opt-in"
     }
   ]
 }
