@@ -3176,6 +3176,11 @@
       "ts": "2024-05-29T09:39:53.977Z",
       "type": "feat",
       "summary": "implement email subscription with double opt-in"
+    },
+    {
+      "ts": "2024-05-29T13:27:44.221Z",
+      "type": "config",
+      "summary": "add Content-Security-Policy to middleware"
     }
   ]
 }
