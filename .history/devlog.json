@@ -3181,6 +3181,11 @@
       "ts": "2024-05-29T13:27:44.221Z",
       "type": "config",
       "summary": "add Content-Security-Policy to middleware"
+    },
+    {
+      "ts": "2024-05-29T15:58:30.846Z",
+      "type": "refactor",
+      "summary": "extract SEO utilities to shared lib/seo module"
     }
   ]
 }
