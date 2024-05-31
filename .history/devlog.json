@@ -3191,6 +3191,11 @@
       "ts": "2024-05-30T11:14:07.973Z",
       "type": "feat",
       "summary": "add social sharing component with OG metadata"
+    },
+    {
+      "ts": "2024-05-31T09:01:31.560Z",
+      "type": "feat",
+      "summary": "implement stable locator map with geolocation"
     }
   ]
 }
