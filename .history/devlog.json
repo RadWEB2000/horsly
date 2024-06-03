@@ -3206,6 +3206,11 @@
       "ts": "2024-06-02T12:19:08.915Z",
       "type": "perf",
       "summary": "compress devlog and reduce JSON payload size"
+    },
+    {
+      "ts": "2024-06-03T09:00:22.134Z",
+      "type": "fix",
+      "summary": "fix Open Graph image dimensions for Twitter cards"
     }
   ]
 }
