@@ -3216,6 +3216,11 @@
       "ts": "2024-06-04T12:53:51.231Z",
       "type": "fix",
       "summary": "fix trailing slash inconsistency in dynamic routes"
+    },
+    {
+      "ts": "2024-06-05T07:08:11.656Z",
+      "type": "config",
+      "summary": "configure trailing slash behavior globally"
     }
   ]
 }
