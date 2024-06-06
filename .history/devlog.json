@@ -3226,6 +3226,11 @@
       "ts": "2024-06-06T13:18:35.072Z",
       "type": "docs",
       "summary": "document canonical URL strategy in AGENTS.md"
+    },
+    {
+      "ts": "2024-06-06T13:57:11.754Z",
+      "type": "fix",
+      "summary": "fix sitemap URL encoding for Polish characters"
     }
   ]
 }
