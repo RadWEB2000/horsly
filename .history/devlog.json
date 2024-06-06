@@ -3221,6 +3221,11 @@
       "ts": "2024-06-05T07:08:11.656Z",
       "type": "config",
       "summary": "configure trailing slash behavior globally"
+    },
+    {
+      "ts": "2024-06-06T13:18:35.072Z",
+      "type": "docs",
+      "summary": "document canonical URL strategy in AGENTS.md"
     }
   ]
 }
