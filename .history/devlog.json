@@ -3236,6 +3236,11 @@
       "ts": "2024-06-07T09:16:25.849Z",
       "type": "docs",
       "summary": "add contributing guide for content editors"
+    },
+    {
+      "ts": "2024-06-07T12:19:18.067Z",
+      "type": "fix",
+      "summary": "correct sitemap lastmod date format to ISO 8601"
     }
   ]
 }
