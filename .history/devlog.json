@@ -3251,6 +3251,11 @@
       "ts": "2024-06-08T14:49:27.375Z",
       "type": "fix",
       "summary": "fix missing alt attributes on gallery images"
+    },
+    {
+      "ts": "2024-06-08T15:14:38.253Z",
+      "type": "feat",
+      "summary": "implement dynamic robots.txt generation"
     }
   ]
 }
