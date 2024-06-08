@@ -3246,6 +3246,11 @@
       "ts": "2024-06-08T14:39:19.762Z",
       "type": "content",
       "summary": "refresh horse breed category descriptions"
+    },
+    {
+      "ts": "2024-06-08T14:49:27.375Z",
+      "type": "fix",
+      "summary": "fix missing alt attributes on gallery images"
     }
   ]
 }
