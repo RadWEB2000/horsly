@@ -3261,6 +3261,11 @@
       "ts": "2024-06-11T10:52:55.162Z",
       "type": "feat",
       "summary": "add breadcrumb schema markup to all pages"
+    },
+    {
+      "ts": "2024-06-12T06:55:03.894Z",
+      "type": "fix",
+      "summary": "fix race condition in geolocation map component"
     }
   ]
 }
