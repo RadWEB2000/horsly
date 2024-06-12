@@ -3276,6 +3276,11 @@
       "ts": "2024-06-12T09:43:18.464Z",
       "type": "docs",
       "summary": "add API documentation for SEO utility functions"
+    },
+    {
+      "ts": "2024-06-12T13:25:07.923Z",
+      "type": "feat",
+      "summary": "add social sharing component with OG metadata"
     }
   ]
 }
