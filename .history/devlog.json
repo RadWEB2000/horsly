@@ -3281,6 +3281,11 @@
       "ts": "2024-06-12T13:25:07.923Z",
       "type": "feat",
       "summary": "add social sharing component with OG metadata"
+    },
+    {
+      "ts": "2024-06-12T13:39:02.347Z",
+      "type": "content",
+      "summary": "revise landing page title tags for better CTR"
     }
   ]
 }
