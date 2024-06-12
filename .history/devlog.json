@@ -3271,6 +3271,11 @@
       "ts": "2024-06-12T08:44:20.224Z",
       "type": "fix",
       "summary": "resolve CSP violation for third-party map tiles"
+    },
+    {
+      "ts": "2024-06-12T09:43:18.464Z",
+      "type": "docs",
+      "summary": "add API documentation for SEO utility functions"
     }
   ]
 }
