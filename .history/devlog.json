@@ -3286,6 +3286,11 @@
       "ts": "2024-06-12T13:39:02.347Z",
       "type": "content",
       "summary": "revise landing page title tags for better CTR"
+    },
+    {
+      "ts": "2024-06-13T07:08:38.143Z",
+      "type": "refactor",
+      "summary": "consolidate structured data generators into factory"
     }
   ]
 }
