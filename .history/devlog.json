@@ -3296,6 +3296,11 @@
       "ts": "2024-06-13T10:20:17.213Z",
       "type": "fix",
       "summary": "fix sitemap URL encoding for Polish characters"
+    },
+    {
+      "ts": "2024-06-13T12:24:34.855Z",
+      "type": "content",
+      "summary": "add FAQ content for main service pages"
     }
   ]
 }
