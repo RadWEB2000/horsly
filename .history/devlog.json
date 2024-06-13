@@ -3291,6 +3291,11 @@
       "ts": "2024-06-13T07:08:38.143Z",
       "type": "refactor",
       "summary": "consolidate structured data generators into factory"
+    },
+    {
+      "ts": "2024-06-13T10:20:17.213Z",
+      "type": "fix",
+      "summary": "fix sitemap URL encoding for Polish characters"
     }
   ]
 }
