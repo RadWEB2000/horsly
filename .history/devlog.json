@@ -3306,6 +3306,11 @@
       "ts": "2024-06-13T16:26:09.402Z",
       "type": "perf",
       "summary": "compress devlog and reduce JSON payload size"
+    },
+    {
+      "ts": "2024-06-14T11:55:54.560Z",
+      "type": "refactor",
+      "summary": "consolidate Open Graph defaults into config object"
     }
   ]
 }
