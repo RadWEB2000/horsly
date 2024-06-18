@@ -3311,6 +3311,11 @@
       "ts": "2024-06-14T11:55:54.560Z",
       "type": "refactor",
       "summary": "consolidate Open Graph defaults into config object"
+    },
+    {
+      "ts": "2024-06-18T07:12:36.999Z",
+      "type": "feat",
+      "summary": "add Open Graph image generation for listings"
     }
   ]
 }
