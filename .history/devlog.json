@@ -3316,6 +3316,11 @@
       "ts": "2024-06-18T07:12:36.999Z",
       "type": "feat",
       "summary": "add Open Graph image generation for listings"
+    },
+    {
+      "ts": "2024-06-19T14:13:33.970Z",
+      "type": "feat",
+      "summary": "add Open Graph image generation for listings"
     }
   ]
 }
