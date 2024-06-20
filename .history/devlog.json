@@ -3321,6 +3321,11 @@
       "ts": "2024-06-19T14:13:33.970Z",
       "type": "feat",
       "summary": "add Open Graph image generation for listings"
+    },
+    {
+      "ts": "2024-06-20T16:25:55.582Z",
+      "type": "fix",
+      "summary": "fix sitemap URL encoding for Polish characters"
     }
   ]
 }
