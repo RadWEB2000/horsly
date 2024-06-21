@@ -3326,6 +3326,11 @@
       "ts": "2024-06-20T16:25:55.582Z",
       "type": "fix",
       "summary": "fix sitemap URL encoding for Polish characters"
+    },
+    {
+      "ts": "2024-06-21T13:08:48.800Z",
+      "type": "refactor",
+      "summary": "consolidate theme tokens into design system config"
     }
   ]
 }
