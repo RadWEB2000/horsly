@@ -3346,6 +3346,11 @@
       "ts": "2024-06-25T13:13:21.752Z",
       "type": "config",
       "summary": "add Content-Security-Policy to middleware"
+    },
+    {
+      "ts": "2024-06-25T15:51:40.690Z",
+      "type": "content",
+      "summary": "update competition category naming conventions"
     }
   ]
 }
