@@ -3341,6 +3341,11 @@
       "ts": "2024-06-25T10:50:57.613Z",
       "type": "fix",
       "summary": "fix race condition in geolocation map component"
+    },
+    {
+      "ts": "2024-06-25T13:13:21.752Z",
+      "type": "config",
+      "summary": "add Content-Security-Policy to middleware"
     }
   ]
 }
