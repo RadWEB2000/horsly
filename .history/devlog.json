@@ -3331,6 +3331,11 @@
       "ts": "2024-06-21T13:08:48.800Z",
       "type": "refactor",
       "summary": "consolidate theme tokens into design system config"
+    },
+    {
+      "ts": "2024-06-25T08:31:08.362Z",
+      "type": "perf",
+      "summary": "reduce TTFB with Vercel edge caching on list routes"
     }
   ]
 }
