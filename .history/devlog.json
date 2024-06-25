@@ -3336,6 +3336,11 @@
       "ts": "2024-06-25T08:31:08.362Z",
       "type": "perf",
       "summary": "reduce TTFB with Vercel edge caching on list routes"
+    },
+    {
+      "ts": "2024-06-25T10:50:57.613Z",
+      "type": "fix",
+      "summary": "fix race condition in geolocation map component"
     }
   ]
 }
