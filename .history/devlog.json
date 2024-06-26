@@ -3371,6 +3371,11 @@
       "ts": "2024-06-26T11:54:00.748Z",
       "type": "config",
       "summary": "configure ISR revalidation intervals per route type"
+    },
+    {
+      "ts": "2024-06-26T12:03:05.673Z",
+      "type": "content",
+      "summary": "update competition category naming conventions"
     }
   ]
 }
