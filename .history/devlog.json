@@ -3366,6 +3366,11 @@
       "ts": "2024-06-26T11:10:14.929Z",
       "type": "fix",
       "summary": "correct filter state reset on route change"
+    },
+    {
+      "ts": "2024-06-26T11:54:00.748Z",
+      "type": "config",
+      "summary": "configure ISR revalidation intervals per route type"
     }
   ]
 }
