@@ -3356,6 +3356,11 @@
       "ts": "2024-06-26T08:26:07.582Z",
       "type": "content",
       "summary": "refresh About page structured content"
+    },
+    {
+      "ts": "2024-06-26T08:42:26.590Z",
+      "type": "feat",
+      "summary": "implement horse pedigree viewer component"
     }
   ]
 }
