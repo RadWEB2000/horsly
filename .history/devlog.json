@@ -3376,6 +3376,11 @@
       "ts": "2024-06-26T12:03:05.673Z",
       "type": "content",
       "summary": "update competition category naming conventions"
+    },
+    {
+      "ts": "2024-06-27T07:56:56.217Z",
+      "type": "feat",
+      "summary": "add FAQ schema markup generator"
     }
   ]
 }
