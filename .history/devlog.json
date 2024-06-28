@@ -3391,6 +3391,11 @@
       "ts": "2024-06-27T13:39:56.218Z",
       "type": "content",
       "summary": "refresh About page structured content"
+    },
+    {
+      "ts": "2024-06-28T08:12:36.311Z",
+      "type": "perf",
+      "summary": "compress devlog and reduce JSON payload size"
     }
   ]
 }
