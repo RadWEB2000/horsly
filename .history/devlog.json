@@ -3396,6 +3396,11 @@
       "ts": "2024-06-28T08:12:36.311Z",
       "type": "perf",
       "summary": "compress devlog and reduce JSON payload size"
+    },
+    {
+      "ts": "2024-06-28T14:24:53.203Z",
+      "type": "fix",
+      "summary": "correct filter state reset on route change"
     }
   ]
 }
