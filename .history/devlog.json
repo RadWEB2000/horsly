@@ -3406,6 +3406,11 @@
       "ts": "2024-06-30T12:40:30.782Z",
       "type": "fix",
       "summary": "fix duplicate meta description on category pages"
+    },
+    {
+      "ts": "2024-06-30T13:56:50.287Z",
+      "type": "feat",
+      "summary": "implement auction listing with bidding metadata"
     }
   ]
 }
