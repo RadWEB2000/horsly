@@ -3401,6 +3401,11 @@
       "ts": "2024-06-28T14:24:53.203Z",
       "type": "fix",
       "summary": "correct filter state reset on route change"
+    },
+    {
+      "ts": "2024-06-30T12:40:30.782Z",
+      "type": "fix",
+      "summary": "fix duplicate meta description on category pages"
     }
   ]
 }
