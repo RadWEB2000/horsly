@@ -3411,6 +3411,11 @@
       "ts": "2024-06-30T13:56:50.287Z",
       "type": "feat",
       "summary": "implement auction listing with bidding metadata"
+    },
+    {
+      "ts": "2024-07-01T08:40:47.003Z",
+      "type": "config",
+      "summary": "configure next/image allowed remote domains"
     }
   ]
 }
