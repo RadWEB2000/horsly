@@ -3421,6 +3421,11 @@
       "ts": "2024-07-02T06:29:33.367Z",
       "type": "content",
       "summary": "add case study content for homepage hero section"
+    },
+    {
+      "ts": "2024-07-02T14:36:08.924Z",
+      "type": "feat",
+      "summary": "implement custom 404 with SEO-friendly copy"
     }
   ]
 }
