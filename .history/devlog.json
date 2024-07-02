@@ -3416,6 +3416,11 @@
       "ts": "2024-07-01T08:40:47.003Z",
       "type": "config",
       "summary": "configure next/image allowed remote domains"
+    },
+    {
+      "ts": "2024-07-02T06:29:33.367Z",
+      "type": "content",
+      "summary": "add case study content for homepage hero section"
     }
   ]
 }
