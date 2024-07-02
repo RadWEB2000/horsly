@@ -3426,6 +3426,11 @@
       "ts": "2024-07-02T14:36:08.924Z",
       "type": "feat",
       "summary": "implement custom 404 with SEO-friendly copy"
+    },
+    {
+      "ts": "2024-07-02T16:04:52.127Z",
+      "type": "refactor",
+      "summary": "consolidate theme tokens into design system config"
     }
   ]
 }
