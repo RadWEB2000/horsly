@@ -3431,6 +3431,11 @@
       "ts": "2024-07-02T16:04:52.127Z",
       "type": "refactor",
       "summary": "consolidate theme tokens into design system config"
+    },
+    {
+      "ts": "2024-07-03T09:17:37.950Z",
+      "type": "refactor",
+      "summary": "migrate fetch calls to typed api client wrapper"
     }
   ]
 }
