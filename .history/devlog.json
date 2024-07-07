@@ -3441,6 +3441,11 @@
       "ts": "2024-07-07T06:12:31.113Z",
       "type": "feat",
       "summary": "implement horse pedigree viewer component"
+    },
+    {
+      "ts": "2024-07-07T10:58:10.340Z",
+      "type": "refactor",
+      "summary": "split monolithic ListingCard into composable parts"
     }
   ]
 }
