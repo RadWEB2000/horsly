@@ -3446,6 +3446,11 @@
       "ts": "2024-07-07T10:58:10.340Z",
       "type": "refactor",
       "summary": "split monolithic ListingCard into composable parts"
+    },
+    {
+      "ts": "2024-07-07T11:30:18.878Z",
+      "type": "fix",
+      "summary": "correct heading hierarchy on horse detail pages"
     }
   ]
 }
