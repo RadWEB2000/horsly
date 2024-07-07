@@ -3451,6 +3451,11 @@
       "ts": "2024-07-07T11:30:18.878Z",
       "type": "fix",
       "summary": "correct heading hierarchy on horse detail pages"
+    },
+    {
+      "ts": "2024-07-07T12:50:32.467Z",
+      "type": "content",
+      "summary": "refresh horse breed category descriptions"
     }
   ]
 }
