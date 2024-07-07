@@ -3436,6 +3436,11 @@
       "ts": "2024-07-03T09:17:37.950Z",
       "type": "refactor",
       "summary": "migrate fetch calls to typed api client wrapper"
+    },
+    {
+      "ts": "2024-07-07T06:12:31.113Z",
+      "type": "feat",
+      "summary": "implement horse pedigree viewer component"
     }
   ]
 }
