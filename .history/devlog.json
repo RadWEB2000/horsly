@@ -3456,6 +3456,11 @@
       "ts": "2024-07-07T12:50:32.467Z",
       "type": "content",
       "summary": "refresh horse breed category descriptions"
+    },
+    {
+      "ts": "2024-07-07T13:11:08.057Z",
+      "type": "fix",
+      "summary": "resolve infinite redirect in canonical middleware"
     }
   ]
 }
