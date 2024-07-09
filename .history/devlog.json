@@ -3471,6 +3471,11 @@
       "ts": "2024-07-09T07:53:38.734Z",
       "type": "feat",
       "summary": "add breadcrumb schema markup to all pages"
+    },
+    {
+      "ts": "2024-07-09T09:08:27.435Z",
+      "type": "fix",
+      "summary": "fix Open Graph image dimensions for Twitter cards"
     }
   ]
 }
