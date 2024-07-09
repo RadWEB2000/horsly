@@ -3466,6 +3466,11 @@
       "ts": "2024-07-09T06:01:55.340Z",
       "type": "fix",
       "summary": "resolve hydration mismatch in auction countdown"
+    },
+    {
+      "ts": "2024-07-09T07:53:38.734Z",
+      "type": "feat",
+      "summary": "add breadcrumb schema markup to all pages"
     }
   ]
 }
