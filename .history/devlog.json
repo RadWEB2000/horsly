@@ -3486,6 +3486,11 @@
       "ts": "2024-07-09T16:13:12.895Z",
       "type": "feat",
       "summary": "add Core Web Vitals dashboard integration"
+    },
+    {
+      "ts": "2024-07-13T08:21:27.553Z",
+      "type": "fix",
+      "summary": "fix missing meta viewport on mobile templates"
     }
   ]
 }
