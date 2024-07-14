@@ -3496,6 +3496,11 @@
       "ts": "2024-07-14T08:28:14.567Z",
       "type": "fix",
       "summary": "fix broken image URLs in social preview cards"
+    },
+    {
+      "ts": "2024-07-14T13:22:56.537Z",
+      "type": "config",
+      "summary": "add security headers to middleware"
     }
   ]
 }
