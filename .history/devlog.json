@@ -3491,6 +3491,11 @@
       "ts": "2024-07-13T08:21:27.553Z",
       "type": "fix",
       "summary": "fix missing meta viewport on mobile templates"
+    },
+    {
+      "ts": "2024-07-14T08:28:14.567Z",
+      "type": "fix",
+      "summary": "fix broken image URLs in social preview cards"
     }
   ]
 }
