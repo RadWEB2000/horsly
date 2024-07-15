@@ -3501,6 +3501,11 @@
       "ts": "2024-07-14T13:22:56.537Z",
       "type": "config",
       "summary": "add security headers to middleware"
+    },
+    {
+      "ts": "2024-07-15T13:35:34.520Z",
+      "type": "fix",
+      "summary": "correct sitemap lastmod date format to ISO 8601"
     }
   ]
 }
