@@ -3506,6 +3506,11 @@
       "ts": "2024-07-15T13:35:34.520Z",
       "type": "fix",
       "summary": "correct sitemap lastmod date format to ISO 8601"
+    },
+    {
+      "ts": "2024-07-15T13:56:38.959Z",
+      "type": "refactor",
+      "summary": "extract shared map utilities to lib/geo"
     }
   ]
 }
