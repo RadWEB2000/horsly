@@ -3511,6 +3511,11 @@
       "ts": "2024-07-15T13:56:38.959Z",
       "type": "refactor",
       "summary": "extract shared map utilities to lib/geo"
+    },
+    {
+      "ts": "2024-07-16T07:45:54.369Z",
+      "type": "feat",
+      "summary": "add competition results table"
     }
   ]
 }
