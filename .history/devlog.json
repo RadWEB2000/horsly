@@ -3526,6 +3526,11 @@
       "ts": "2024-07-19T14:19:25.821Z",
       "type": "refactor",
       "summary": "split monolithic ListingCard into composable parts"
+    },
+    {
+      "ts": "2024-07-22T06:47:58.550Z",
+      "type": "fix",
+      "summary": "fix broken pagination on search results page"
     }
   ]
 }
