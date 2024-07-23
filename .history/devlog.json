@@ -3531,6 +3531,11 @@
       "ts": "2024-07-22T06:47:58.550Z",
       "type": "fix",
       "summary": "fix broken pagination on search results page"
+    },
+    {
+      "ts": "2024-07-23T08:35:41.359Z",
+      "type": "fix",
+      "summary": "fix broken pagination on search results page"
     }
   ]
 }
