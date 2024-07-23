@@ -3551,6 +3551,11 @@
       "ts": "2024-07-23T12:23:40.240Z",
       "type": "docs",
       "summary": "add API documentation for SEO utility functions"
+    },
+    {
+      "ts": "2024-07-23T13:16:53.909Z",
+      "type": "content",
+      "summary": "refresh footer links and contact information"
     }
   ]
 }
