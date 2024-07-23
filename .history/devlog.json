@@ -3546,6 +3546,11 @@
       "ts": "2024-07-23T11:45:46.603Z",
       "type": "feat",
       "summary": "add Core Web Vitals dashboard integration"
+    },
+    {
+      "ts": "2024-07-23T12:23:40.240Z",
+      "type": "docs",
+      "summary": "add API documentation for SEO utility functions"
     }
   ]
 }
