@@ -3556,6 +3556,11 @@
       "ts": "2024-07-23T13:16:53.909Z",
       "type": "content",
       "summary": "refresh footer links and contact information"
+    },
+    {
+      "ts": "2024-07-23T14:26:15.434Z",
+      "type": "feat",
+      "summary": "add social sharing component with OG metadata"
     }
   ]
 }
