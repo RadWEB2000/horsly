@@ -3536,6 +3536,11 @@
       "ts": "2024-07-23T08:35:41.359Z",
       "type": "fix",
       "summary": "fix broken pagination on search results page"
+    },
+    {
+      "ts": "2024-07-23T10:29:59.736Z",
+      "type": "content",
+      "summary": "revise stable listing description template"
     }
   ]
 }
