@@ -3561,6 +3561,11 @@
       "ts": "2024-07-23T14:26:15.434Z",
       "type": "feat",
       "summary": "add social sharing component with OG metadata"
+    },
+    {
+      "ts": "2024-07-24T09:16:47.285Z",
+      "type": "perf",
+      "summary": "reduce JS bundle by removing unused lodash methods"
     }
   ]
 }
