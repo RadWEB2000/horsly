@@ -3571,6 +3571,11 @@
       "ts": "2024-07-24T11:39:41.389Z",
       "type": "feat",
       "summary": "add social sharing component with OG metadata"
+    },
+    {
+      "ts": "2024-07-25T09:38:21.180Z",
+      "type": "feat",
+      "summary": "add FAQ schema markup generator"
     }
   ]
 }
