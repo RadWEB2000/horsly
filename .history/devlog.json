@@ -3586,6 +3586,11 @@
       "ts": "2024-07-25T12:41:29.635Z",
       "type": "feat",
       "summary": "implement dynamic robots.txt generation"
+    },
+    {
+      "ts": "2024-07-25T14:16:04.733Z",
+      "type": "feat",
+      "summary": "add dark mode support with system preference detection"
     }
   ]
 }
