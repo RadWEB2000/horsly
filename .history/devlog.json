@@ -3591,6 +3591,11 @@
       "ts": "2024-07-25T14:16:04.733Z",
       "type": "feat",
       "summary": "add dark mode support with system preference detection"
+    },
+    {
+      "ts": "2024-07-26T14:29:45.499Z",
+      "type": "docs",
+      "summary": "add contributing guide for content editors"
     }
   ]
 }
