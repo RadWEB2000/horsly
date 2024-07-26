@@ -3596,6 +3596,11 @@
       "ts": "2024-07-26T14:29:45.499Z",
       "type": "docs",
       "summary": "add contributing guide for content editors"
+    },
+    {
+      "ts": "2024-07-26T14:36:55.205Z",
+      "type": "fix",
+      "summary": "correct filter state reset on route change"
     }
   ]
 }
