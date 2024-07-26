@@ -3601,6 +3601,11 @@
       "ts": "2024-07-26T14:36:55.205Z",
       "type": "fix",
       "summary": "correct filter state reset on route change"
+    },
+    {
+      "ts": "2024-07-26T15:54:49.256Z",
+      "type": "content",
+      "summary": "refresh footer links and contact information"
     }
   ]
 }
