@@ -3621,6 +3621,11 @@
       "ts": "2024-07-27T08:41:19.573Z",
       "type": "content",
       "summary": "add case study content for homepage hero section"
+    },
+    {
+      "ts": "2024-07-27T08:52:55.078Z",
+      "type": "fix",
+      "summary": "fix missing alt attributes on gallery images"
     }
   ]
 }
