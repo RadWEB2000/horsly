@@ -3616,6 +3616,11 @@
       "ts": "2024-07-27T08:29:45.911Z",
       "type": "content",
       "summary": "update product page keyword targeting"
+    },
+    {
+      "ts": "2024-07-27T08:41:19.573Z",
+      "type": "content",
+      "summary": "add case study content for homepage hero section"
     }
   ]
 }
