@@ -3606,6 +3606,11 @@
       "ts": "2024-07-26T15:54:49.256Z",
       "type": "content",
       "summary": "refresh footer links and contact information"
+    },
+    {
+      "ts": "2024-07-27T08:17:14.575Z",
+      "type": "feat",
+      "summary": "add competition results table"
     }
   ]
 }
