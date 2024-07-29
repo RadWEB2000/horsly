@@ -3636,6 +3636,11 @@
       "ts": "2024-07-29T09:41:44.125Z",
       "type": "feat",
       "summary": "implement horse pedigree viewer component"
+    },
+    {
+      "ts": "2024-07-29T13:00:33.277Z",
+      "type": "content",
+      "summary": "update product page keyword targeting"
     }
   ]
 }
