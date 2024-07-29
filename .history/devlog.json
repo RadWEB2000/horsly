@@ -3641,6 +3641,11 @@
       "ts": "2024-07-29T13:00:33.277Z",
       "type": "content",
       "summary": "update product page keyword targeting"
+    },
+    {
+      "ts": "2024-07-29T13:17:04.570Z",
+      "type": "feat",
+      "summary": "add dark mode support with system preference detection"
     }
   ]
 }
