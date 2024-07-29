@@ -3631,6 +3631,11 @@
       "ts": "2024-07-29T08:21:18.878Z",
       "type": "fix",
       "summary": "correct date formatting in event calendar"
+    },
+    {
+      "ts": "2024-07-29T09:41:44.125Z",
+      "type": "feat",
+      "summary": "implement horse pedigree viewer component"
     }
   ]
 }
