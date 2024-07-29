@@ -3626,6 +3626,11 @@
       "ts": "2024-07-27T08:52:55.078Z",
       "type": "fix",
       "summary": "fix missing alt attributes on gallery images"
+    },
+    {
+      "ts": "2024-07-29T08:21:18.878Z",
+      "type": "fix",
+      "summary": "correct date formatting in event calendar"
     }
   ]
 }
