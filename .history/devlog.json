@@ -3646,6 +3646,11 @@
       "ts": "2024-07-29T13:17:04.570Z",
       "type": "feat",
       "summary": "add dark mode support with system preference detection"
+    },
+    {
+      "ts": "2024-07-30T11:45:14.592Z",
+      "type": "feat",
+      "summary": "implement sitemap auto-generation from page tree"
     }
   ]
 }
