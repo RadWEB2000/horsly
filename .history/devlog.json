@@ -3666,6 +3666,11 @@
       "ts": "2024-08-01T06:45:53.431Z",
       "type": "feat",
       "summary": "add trainer profile pages with schema markup"
+    },
+    {
+      "ts": "2024-08-01T10:07:05.007Z",
+      "type": "feat",
+      "summary": "add social sharing component with OG metadata"
     }
   ]
 }
