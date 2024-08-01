@@ -3661,6 +3661,11 @@
       "ts": "2024-07-30T15:21:37.514Z",
       "type": "fix",
       "summary": "fix z-index overlap in mobile navigation menu"
+    },
+    {
+      "ts": "2024-08-01T06:45:53.431Z",
+      "type": "feat",
+      "summary": "add trainer profile pages with schema markup"
     }
   ]
 }
