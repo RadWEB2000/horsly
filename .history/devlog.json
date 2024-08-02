@@ -3686,6 +3686,11 @@
       "ts": "2024-08-02T14:41:52.879Z",
       "type": "fix",
       "summary": "fix broken pagination on search results page"
+    },
+    {
+      "ts": "2024-08-02T15:51:19.586Z",
+      "type": "fix",
+      "summary": "fix duplicate meta description on category pages"
     }
   ]
 }
