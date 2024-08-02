@@ -3681,6 +3681,11 @@
       "ts": "2024-08-02T14:11:38.795Z",
       "type": "fix",
       "summary": "resolve CSP violation for third-party map tiles"
+    },
+    {
+      "ts": "2024-08-02T14:41:52.879Z",
+      "type": "fix",
+      "summary": "fix broken pagination on search results page"
     }
   ]
 }
