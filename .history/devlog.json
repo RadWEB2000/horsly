@@ -3691,6 +3691,11 @@
       "ts": "2024-08-02T15:51:19.586Z",
       "type": "fix",
       "summary": "fix duplicate meta description on category pages"
+    },
+    {
+      "ts": "2024-08-05T06:05:52.119Z",
+      "type": "feat",
+      "summary": "add trainer profile pages with schema markup"
     }
   ]
 }
