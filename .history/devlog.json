@@ -3706,6 +3706,11 @@
       "ts": "2024-08-05T10:34:02.511Z",
       "type": "content",
       "summary": "update product page keyword targeting"
+    },
+    {
+      "ts": "2024-08-05T14:37:49.770Z",
+      "type": "fix",
+      "summary": "correct filter state reset on route change"
     }
   ]
 }
