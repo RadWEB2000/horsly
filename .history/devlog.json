@@ -3696,6 +3696,11 @@
       "ts": "2024-08-05T06:05:52.119Z",
       "type": "feat",
       "summary": "add trainer profile pages with schema markup"
+    },
+    {
+      "ts": "2024-08-05T06:46:45.820Z",
+      "type": "docs",
+      "summary": "document SEO audit process and tooling"
     }
   ]
 }
