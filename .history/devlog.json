@@ -3716,6 +3716,11 @@
       "ts": "2024-08-06T13:27:54.338Z",
       "type": "fix",
       "summary": "fix broken image URLs in social preview cards"
+    },
+    {
+      "ts": "2024-08-06T14:13:29.481Z",
+      "type": "refactor",
+      "summary": "extract date helpers to lib/date module"
     }
   ]
 }
