@@ -3711,6 +3711,11 @@
       "ts": "2024-08-05T14:37:49.770Z",
       "type": "fix",
       "summary": "correct filter state reset on route change"
+    },
+    {
+      "ts": "2024-08-06T13:27:54.338Z",
+      "type": "fix",
+      "summary": "fix broken image URLs in social preview cards"
     }
   ]
 }
