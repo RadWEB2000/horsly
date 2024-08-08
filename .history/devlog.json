@@ -3721,6 +3721,11 @@
       "ts": "2024-08-06T14:13:29.481Z",
       "type": "refactor",
       "summary": "extract date helpers to lib/date module"
+    },
+    {
+      "ts": "2024-08-08T06:41:05.577Z",
+      "type": "feat",
+      "summary": "add hreflang support for pl/en/de locales"
     }
   ]
 }
