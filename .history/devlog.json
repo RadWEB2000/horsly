@@ -3726,6 +3726,11 @@
       "ts": "2024-08-08T06:41:05.577Z",
       "type": "feat",
       "summary": "add hreflang support for pl/en/de locales"
+    },
+    {
+      "ts": "2024-08-08T08:59:23.341Z",
+      "type": "feat",
+      "summary": "implement lazy loading for stable gallery images"
     }
   ]
 }
