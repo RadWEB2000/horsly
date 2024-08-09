@@ -3741,6 +3741,11 @@
       "ts": "2024-08-09T14:24:45.195Z",
       "type": "config",
       "summary": "update next.config.ts for pl/en/de i18n routing"
+    },
+    {
+      "ts": "2024-08-09T15:39:55.117Z",
+      "type": "config",
+      "summary": "add Content-Security-Policy to middleware"
     }
   ]
 }
