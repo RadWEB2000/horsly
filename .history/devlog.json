@@ -3751,6 +3751,11 @@
       "ts": "2024-08-12T07:08:47.689Z",
       "type": "content",
       "summary": "add case study content for homepage hero section"
+    },
+    {
+      "ts": "2024-08-12T07:28:44.469Z",
+      "type": "fix",
+      "summary": "fix broken image URLs in social preview cards"
     }
   ]
 }
