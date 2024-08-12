@@ -3746,6 +3746,11 @@
       "ts": "2024-08-09T15:39:55.117Z",
       "type": "config",
       "summary": "add Content-Security-Policy to middleware"
+    },
+    {
+      "ts": "2024-08-12T07:08:47.689Z",
+      "type": "content",
+      "summary": "add case study content for homepage hero section"
     }
   ]
 }
