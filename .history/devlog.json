@@ -3756,6 +3756,11 @@
       "ts": "2024-08-12T07:28:44.469Z",
       "type": "fix",
       "summary": "fix broken image URLs in social preview cards"
+    },
+    {
+      "ts": "2024-08-13T12:33:09.431Z",
+      "type": "feat",
+      "summary": "implement advanced search with faceted filters"
     }
   ]
 }
