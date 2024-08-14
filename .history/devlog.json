@@ -3766,6 +3766,11 @@
       "ts": "2024-08-14T07:53:59.932Z",
       "type": "config",
       "summary": "add environment variable schema validation"
+    },
+    {
+      "ts": "2024-08-14T11:54:18.310Z",
+      "type": "fix",
+      "summary": "correct heading hierarchy on horse detail pages"
     }
   ]
 }
