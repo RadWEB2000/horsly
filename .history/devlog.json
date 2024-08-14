@@ -3761,6 +3761,11 @@
       "ts": "2024-08-13T12:33:09.431Z",
       "type": "feat",
       "summary": "implement advanced search with faceted filters"
+    },
+    {
+      "ts": "2024-08-14T07:53:59.932Z",
+      "type": "config",
+      "summary": "add environment variable schema validation"
     }
   ]
 }
