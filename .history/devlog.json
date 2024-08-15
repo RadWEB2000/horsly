@@ -3776,6 +3776,11 @@
       "ts": "2024-08-15T08:41:37.356Z",
       "type": "perf",
       "summary": "implement service worker for offline map tiles"
+    },
+    {
+      "ts": "2024-08-15T10:10:47.664Z",
+      "type": "refactor",
+      "summary": "consolidate API error handling into interceptor"
     }
   ]
 }
