@@ -3791,6 +3791,11 @@
       "ts": "2024-08-16T15:24:35.716Z",
       "type": "feat",
       "summary": "add dark mode support with system preference detection"
+    },
+    {
+      "ts": "2024-08-16T15:32:48.526Z",
+      "type": "fix",
+      "summary": "resolve canonical URL duplication on paginated pages"
     }
   ]
 }
