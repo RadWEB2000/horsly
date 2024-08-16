@@ -3786,6 +3786,11 @@
       "ts": "2024-08-15T13:03:27.345Z",
       "type": "feat",
       "summary": "add horse breed detail pages with structured data"
+    },
+    {
+      "ts": "2024-08-16T15:24:35.716Z",
+      "type": "feat",
+      "summary": "add dark mode support with system preference detection"
     }
   ]
 }
