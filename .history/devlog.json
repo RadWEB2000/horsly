@@ -3811,6 +3811,11 @@
       "ts": "2024-08-18T14:40:39.549Z",
       "type": "fix",
       "summary": "resolve 404 for dynamically generated sitemaps"
+    },
+    {
+      "ts": "2024-08-18T16:15:38.281Z",
+      "type": "feat",
+      "summary": "add Core Web Vitals dashboard integration"
     }
   ]
 }
