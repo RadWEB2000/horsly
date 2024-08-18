@@ -3801,6 +3801,11 @@
       "ts": "2024-08-18T06:43:01.927Z",
       "type": "perf",
       "summary": "implement ISR with 24h revalidation for breed pages"
+    },
+    {
+      "ts": "2024-08-18T12:28:21.346Z",
+      "type": "fix",
+      "summary": "resolve canonical URL duplication on paginated pages"
     }
   ]
 }
