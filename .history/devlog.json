@@ -3806,6 +3806,11 @@
       "ts": "2024-08-18T12:28:21.346Z",
       "type": "fix",
       "summary": "resolve canonical URL duplication on paginated pages"
+    },
+    {
+      "ts": "2024-08-18T14:40:39.549Z",
+      "type": "fix",
+      "summary": "resolve 404 for dynamically generated sitemaps"
     }
   ]
 }
