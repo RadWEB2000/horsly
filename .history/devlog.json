@@ -3836,6 +3836,11 @@
       "ts": "2024-08-19T14:18:25.026Z",
       "type": "config",
       "summary": "configure bundle analyzer for production builds"
+    },
+    {
+      "ts": "2024-08-19T15:27:01.097Z",
+      "type": "perf",
+      "summary": "optimize font loading with preconnect and display swap"
     }
   ]
 }
