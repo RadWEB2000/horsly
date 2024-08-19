@@ -3841,6 +3841,11 @@
       "ts": "2024-08-19T15:27:01.097Z",
       "type": "perf",
       "summary": "optimize font loading with preconnect and display swap"
+    },
+    {
+      "ts": "2024-08-19T15:57:32.428Z",
+      "type": "config",
+      "summary": "add Sentry source map upload to build pipeline"
     }
   ]
 }
