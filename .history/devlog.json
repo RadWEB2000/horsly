@@ -3816,6 +3816,11 @@
       "ts": "2024-08-18T16:15:38.281Z",
       "type": "feat",
       "summary": "add Core Web Vitals dashboard integration"
+    },
+    {
+      "ts": "2024-08-19T07:42:06.964Z",
+      "type": "perf",
+      "summary": "optimize font loading with preconnect and display swap"
     }
   ]
 }
