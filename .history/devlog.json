@@ -3826,6 +3826,11 @@
       "ts": "2024-08-19T11:31:18.973Z",
       "type": "feat",
       "summary": "implement related listings recommendation block"
+    },
+    {
+      "ts": "2024-08-19T11:32:35.916Z",
+      "type": "feat",
+      "summary": "add dark mode support with system preference detection"
     }
   ]
 }
