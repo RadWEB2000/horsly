@@ -3851,6 +3851,11 @@
       "ts": "2024-08-20T11:44:41.957Z",
       "type": "fix",
       "summary": "fix Open Graph image dimensions for Twitter cards"
+    },
+    {
+      "ts": "2024-08-20T14:39:36.851Z",
+      "type": "feat",
+      "summary": "add breadcrumb schema markup to all pages"
     }
   ]
 }
