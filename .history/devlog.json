@@ -3846,6 +3846,11 @@
       "ts": "2024-08-19T15:57:32.428Z",
       "type": "config",
       "summary": "add Sentry source map upload to build pipeline"
+    },
+    {
+      "ts": "2024-08-20T11:44:41.957Z",
+      "type": "fix",
+      "summary": "fix Open Graph image dimensions for Twitter cards"
     }
   ]
 }
