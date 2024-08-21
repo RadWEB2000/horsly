@@ -3856,6 +3856,11 @@
       "ts": "2024-08-20T14:39:36.851Z",
       "type": "feat",
       "summary": "add breadcrumb schema markup to all pages"
+    },
+    {
+      "ts": "2024-08-21T10:28:23.716Z",
+      "type": "refactor",
+      "summary": "refactor sitemap generator to use async generator"
     }
   ]
 }
