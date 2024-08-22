@@ -3866,6 +3866,11 @@
       "ts": "2024-08-22T07:26:07.562Z",
       "type": "feat",
       "summary": "implement dynamic robots.txt generation"
+    },
+    {
+      "ts": "2024-08-22T15:16:05.552Z",
+      "type": "config",
+      "summary": "configure ISR revalidation intervals per route type"
     }
   ]
 }
