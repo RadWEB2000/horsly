@@ -3871,6 +3871,11 @@
       "ts": "2024-08-22T15:16:05.552Z",
       "type": "config",
       "summary": "configure ISR revalidation intervals per route type"
+    },
+    {
+      "ts": "2024-08-23T06:13:59.258Z",
+      "type": "feat",
+      "summary": "add video gallery for competition replays"
     }
   ]
 }
