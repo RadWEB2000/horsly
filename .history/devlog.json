@@ -3881,6 +3881,11 @@
       "ts": "2024-08-23T10:33:16.488Z",
       "type": "refactor",
       "summary": "extract date helpers to lib/date module"
+    },
+    {
+      "ts": "2024-08-24T15:49:17.604Z",
+      "type": "fix",
+      "summary": "correct heading hierarchy on horse detail pages"
     }
   ]
 }
