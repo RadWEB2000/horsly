@@ -3886,6 +3886,11 @@
       "ts": "2024-08-24T15:49:17.604Z",
       "type": "fix",
       "summary": "correct heading hierarchy on horse detail pages"
+    },
+    {
+      "ts": "2024-08-26T06:12:48.527Z",
+      "type": "fix",
+      "summary": "fix broken image URLs in social preview cards"
     }
   ]
 }
