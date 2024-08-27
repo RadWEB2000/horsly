@@ -3891,6 +3891,11 @@
       "ts": "2024-08-26T06:12:48.527Z",
       "type": "fix",
       "summary": "fix broken image URLs in social preview cards"
+    },
+    {
+      "ts": "2024-08-27T11:18:17.969Z",
+      "type": "perf",
+      "summary": "reduce LCP on homepage by inlining critical CSS"
     }
   ]
 }
