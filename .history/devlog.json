@@ -3901,6 +3901,11 @@
       "ts": "2024-08-27T11:32:58.287Z",
       "type": "fix",
       "summary": "resolve 404 for dynamically generated sitemaps"
+    },
+    {
+      "ts": "2024-08-27T11:34:35.373Z",
+      "type": "feat",
+      "summary": "implement auction listing with bidding metadata"
     }
   ]
 }
