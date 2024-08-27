@@ -3896,6 +3896,11 @@
       "ts": "2024-08-27T11:18:17.969Z",
       "type": "perf",
       "summary": "reduce LCP on homepage by inlining critical CSS"
+    },
+    {
+      "ts": "2024-08-27T11:32:58.287Z",
+      "type": "fix",
+      "summary": "resolve 404 for dynamically generated sitemaps"
     }
   ]
 }
