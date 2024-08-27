@@ -3906,6 +3906,11 @@
       "ts": "2024-08-27T11:34:35.373Z",
       "type": "feat",
       "summary": "implement auction listing with bidding metadata"
+    },
+    {
+      "ts": "2024-08-27T14:28:02.243Z",
+      "type": "feat",
+      "summary": "implement sitemap auto-generation from page tree"
     }
   ]
 }
