@@ -3916,6 +3916,11 @@
       "ts": "2024-08-28T08:05:48.294Z",
       "type": "feat",
       "summary": "implement email subscription with double opt-in"
+    },
+    {
+      "ts": "2024-08-28T09:38:22.489Z",
+      "type": "content",
+      "summary": "refresh horse breed category descriptions"
     }
   ]
 }
