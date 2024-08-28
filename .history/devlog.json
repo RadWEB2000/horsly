@@ -3921,6 +3921,11 @@
       "ts": "2024-08-28T09:38:22.489Z",
       "type": "content",
       "summary": "refresh horse breed category descriptions"
+    },
+    {
+      "ts": "2024-08-28T11:39:58.680Z",
+      "type": "content",
+      "summary": "update author bio metadata for trainers"
     }
   ]
 }
