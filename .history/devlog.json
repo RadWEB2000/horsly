@@ -3936,6 +3936,11 @@
       "ts": "2024-08-29T13:20:01.268Z",
       "type": "feat",
       "summary": "add print-friendly styles for horse passports"
+    },
+    {
+      "ts": "2024-08-29T16:23:36.503Z",
+      "type": "fix",
+      "summary": "fix duplicate meta description on category pages"
     }
   ]
 }
