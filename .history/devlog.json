@@ -3931,6 +3931,11 @@
       "ts": "2024-08-29T13:08:49.547Z",
       "type": "perf",
       "summary": "reduce TTFB with Vercel edge caching on list routes"
+    },
+    {
+      "ts": "2024-08-29T13:20:01.268Z",
+      "type": "feat",
+      "summary": "add print-friendly styles for horse passports"
     }
   ]
 }
