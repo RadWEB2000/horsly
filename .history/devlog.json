@@ -3926,6 +3926,11 @@
       "ts": "2024-08-28T11:39:58.680Z",
       "type": "content",
       "summary": "update author bio metadata for trainers"
+    },
+    {
+      "ts": "2024-08-29T13:08:49.547Z",
+      "type": "perf",
+      "summary": "reduce TTFB with Vercel edge caching on list routes"
     }
   ]
 }
