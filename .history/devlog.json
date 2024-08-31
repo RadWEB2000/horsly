@@ -3946,6 +3946,11 @@
       "ts": "2024-08-30T13:18:28.809Z",
       "type": "config",
       "summary": "update sitemap generation configuration"
+    },
+    {
+      "ts": "2024-08-31T12:38:21.528Z",
+      "type": "config",
+      "summary": "add Content-Security-Policy to middleware"
     }
   ]
 }
