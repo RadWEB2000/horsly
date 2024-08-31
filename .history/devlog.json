@@ -3951,6 +3951,11 @@
       "ts": "2024-08-31T12:38:21.528Z",
       "type": "config",
       "summary": "add Content-Security-Policy to middleware"
+    },
+    {
+      "ts": "2024-08-31T16:04:01.371Z",
+      "type": "feat",
+      "summary": "add event calendar for equestrian competitions"
     }
   ]
 }
