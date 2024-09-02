@@ -3956,6 +3956,11 @@
       "ts": "2024-08-31T16:04:01.371Z",
       "type": "feat",
       "summary": "add event calendar for equestrian competitions"
+    },
+    {
+      "ts": "2024-09-02T08:11:19.730Z",
+      "type": "fix",
+      "summary": "correct structured data JSON-LD syntax error in product schema"
     }
   ]
 }
