@@ -3971,6 +3971,11 @@
       "ts": "2024-09-02T12:59:40.145Z",
       "type": "content",
       "summary": "update product page keyword targeting"
+    },
+    {
+      "ts": "2024-09-02T13:25:46.118Z",
+      "type": "refactor",
+      "summary": "consolidate Open Graph defaults into config object"
     }
   ]
 }
