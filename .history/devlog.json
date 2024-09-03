@@ -3981,6 +3981,11 @@
       "ts": "2024-09-02T14:06:11.560Z",
       "type": "config",
       "summary": "configure bundle analyzer for production builds"
+    },
+    {
+      "ts": "2024-09-03T06:12:26.301Z",
+      "type": "feat",
+      "summary": "add Open Graph image generation for listings"
     }
   ]
 }
