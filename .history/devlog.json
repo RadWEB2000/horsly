@@ -3986,6 +3986,11 @@
       "ts": "2024-09-03T06:12:26.301Z",
       "type": "feat",
       "summary": "add Open Graph image generation for listings"
+    },
+    {
+      "ts": "2024-09-03T06:58:59.625Z",
+      "type": "perf",
+      "summary": "optimize third-party map tile loading strategy"
     }
   ]
 }
