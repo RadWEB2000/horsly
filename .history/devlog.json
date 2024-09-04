@@ -4011,6 +4011,11 @@
       "ts": "2024-09-04T08:19:31.216Z",
       "type": "config",
       "summary": "configure next/image allowed remote domains"
+    },
+    {
+      "ts": "2024-09-04T08:36:35.370Z",
+      "type": "feat",
+      "summary": "implement search engine preview component"
     }
   ]
 }
