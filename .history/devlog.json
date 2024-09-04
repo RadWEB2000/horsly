@@ -4026,6 +4026,11 @@
       "ts": "2024-09-04T11:10:53.120Z",
       "type": "perf",
       "summary": "implement service worker for offline map tiles"
+    },
+    {
+      "ts": "2024-09-04T14:19:07.941Z",
+      "type": "feat",
+      "summary": "add Core Web Vitals dashboard integration"
     }
   ]
 }
