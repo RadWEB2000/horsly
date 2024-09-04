@@ -4006,6 +4006,11 @@
       "ts": "2024-09-04T07:17:01.122Z",
       "type": "refactor",
       "summary": "extract canonical URL logic to middleware"
+    },
+    {
+      "ts": "2024-09-04T08:19:31.216Z",
+      "type": "config",
+      "summary": "configure next/image allowed remote domains"
     }
   ]
 }
