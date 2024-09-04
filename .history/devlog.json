@@ -4001,6 +4001,11 @@
       "ts": "2024-09-03T15:26:53.140Z",
       "type": "feat",
       "summary": "add interactive arena diagram component"
+    },
+    {
+      "ts": "2024-09-04T07:17:01.122Z",
+      "type": "refactor",
+      "summary": "extract canonical URL logic to middleware"
     }
   ]
 }
