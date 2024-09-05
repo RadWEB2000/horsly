@@ -4051,6 +4051,11 @@
       "ts": "2024-09-05T13:51:48.792Z",
       "type": "feat",
       "summary": "implement custom 404 with SEO-friendly copy"
+    },
+    {
+      "ts": "2024-09-05T16:22:46.189Z",
+      "type": "config",
+      "summary": "configure ISR revalidation intervals per route type"
     }
   ]
 }
