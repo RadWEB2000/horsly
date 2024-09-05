@@ -4041,6 +4041,11 @@
       "ts": "2024-09-05T13:24:13.264Z",
       "type": "docs",
       "summary": "add API documentation for SEO utility functions"
+    },
+    {
+      "ts": "2024-09-05T13:44:51.707Z",
+      "type": "refactor",
+      "summary": "consolidate theme tokens into design system config"
     }
   ]
 }
