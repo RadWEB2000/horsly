@@ -4031,6 +4031,11 @@
       "ts": "2024-09-04T14:19:07.941Z",
       "type": "feat",
       "summary": "add Core Web Vitals dashboard integration"
+    },
+    {
+      "ts": "2024-09-05T07:50:54.703Z",
+      "type": "fix",
+      "summary": "fix broken image URLs in social preview cards"
     }
   ]
 }
