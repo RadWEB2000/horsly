@@ -4036,6 +4036,11 @@
       "ts": "2024-09-05T07:50:54.703Z",
       "type": "fix",
       "summary": "fix broken image URLs in social preview cards"
+    },
+    {
+      "ts": "2024-09-05T13:24:13.264Z",
+      "type": "docs",
+      "summary": "add API documentation for SEO utility functions"
     }
   ]
 }
