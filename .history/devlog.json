@@ -4066,6 +4066,11 @@
       "ts": "2024-09-06T08:46:15.223Z",
       "type": "refactor",
       "summary": "refactor horse schema to extend base Article type"
+    },
+    {
+      "ts": "2024-09-06T15:53:13.072Z",
+      "type": "perf",
+      "summary": "implement ISR with 24h revalidation for breed pages"
     }
   ]
 }
