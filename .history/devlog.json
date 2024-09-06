@@ -4061,6 +4061,11 @@
       "ts": "2024-09-06T07:08:01.881Z",
       "type": "feat",
       "summary": "add hreflang support for pl/en/de locales"
+    },
+    {
+      "ts": "2024-09-06T08:46:15.223Z",
+      "type": "refactor",
+      "summary": "refactor horse schema to extend base Article type"
     }
   ]
 }
