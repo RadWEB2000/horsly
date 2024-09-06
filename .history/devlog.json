@@ -4056,6 +4056,11 @@
       "ts": "2024-09-05T16:22:46.189Z",
       "type": "config",
       "summary": "configure ISR revalidation intervals per route type"
+    },
+    {
+      "ts": "2024-09-06T07:08:01.881Z",
+      "type": "feat",
+      "summary": "add hreflang support for pl/en/de locales"
     }
   ]
 }
