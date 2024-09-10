@@ -4071,6 +4071,11 @@
       "ts": "2024-09-06T15:53:13.072Z",
       "type": "perf",
       "summary": "implement ISR with 24h revalidation for breed pages"
+    },
+    {
+      "ts": "2024-09-10T11:44:12.936Z",
+      "type": "perf",
+      "summary": "implement static generation for blog archive pages"
     }
   ]
 }
