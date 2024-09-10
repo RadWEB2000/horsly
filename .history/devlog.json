@@ -4076,6 +4076,11 @@
       "ts": "2024-09-10T11:44:12.936Z",
       "type": "perf",
       "summary": "implement static generation for blog archive pages"
+    },
+    {
+      "ts": "2024-09-10T14:22:16.637Z",
+      "type": "config",
+      "summary": "configure bundle analyzer for production builds"
     }
   ]
 }
