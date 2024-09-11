@@ -4086,6 +4086,11 @@
       "ts": "2024-09-11T11:25:58.360Z",
       "type": "refactor",
       "summary": "consolidate Open Graph defaults into config object"
+    },
+    {
+      "ts": "2024-09-11T14:59:18.356Z",
+      "type": "config",
+      "summary": "configure bundle analyzer for production builds"
     }
   ]
 }
