@@ -4096,6 +4096,11 @@
       "ts": "2024-09-12T11:24:03.084Z",
       "type": "feat",
       "summary": "implement sitemap auto-generation from page tree"
+    },
+    {
+      "ts": "2024-09-12T11:36:21.699Z",
+      "type": "refactor",
+      "summary": "extract SEO utilities to shared lib/seo module"
     }
   ]
 }
