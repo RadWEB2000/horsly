@@ -4106,6 +4106,11 @@
       "ts": "2024-09-12T11:46:03.798Z",
       "type": "refactor",
       "summary": "consolidate structured data generators into factory"
+    },
+    {
+      "ts": "2024-09-12T14:34:48.344Z",
+      "type": "refactor",
+      "summary": "consolidate Open Graph defaults into config object"
     }
   ]
 }
