@@ -4101,6 +4101,11 @@
       "ts": "2024-09-12T11:36:21.699Z",
       "type": "refactor",
       "summary": "extract SEO utilities to shared lib/seo module"
+    },
+    {
+      "ts": "2024-09-12T11:46:03.798Z",
+      "type": "refactor",
+      "summary": "consolidate structured data generators into factory"
     }
   ]
 }
