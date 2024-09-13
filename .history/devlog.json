@@ -4111,6 +4111,11 @@
       "ts": "2024-09-12T14:34:48.344Z",
       "type": "refactor",
       "summary": "consolidate Open Graph defaults into config object"
+    },
+    {
+      "ts": "2024-09-13T09:19:49.612Z",
+      "type": "feat",
+      "summary": "add social sharing component with OG metadata"
     }
   ]
 }
