@@ -4136,6 +4136,11 @@
       "ts": "2024-09-18T09:20:14.610Z",
       "type": "fix",
       "summary": "fix memory leak in WebSocket auction connection"
+    },
+    {
+      "ts": "2024-09-18T09:43:50.096Z",
+      "type": "refactor",
+      "summary": "consolidate Open Graph defaults into config object"
     }
   ]
 }
