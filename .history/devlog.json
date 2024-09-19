@@ -4146,6 +4146,11 @@
       "ts": "2024-09-18T11:52:16.376Z",
       "type": "feat",
       "summary": "add trainer profile pages with schema markup"
+    },
+    {
+      "ts": "2024-09-19T11:37:44.164Z",
+      "type": "feat",
+      "summary": "implement comparison tool for horse breeds"
     }
   ]
 }
