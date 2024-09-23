@@ -4161,6 +4161,11 @@
       "ts": "2024-09-21T15:52:41.767Z",
       "type": "fix",
       "summary": "correct heading hierarchy on horse detail pages"
+    },
+    {
+      "ts": "2024-09-23T06:39:30.976Z",
+      "type": "content",
+      "summary": "add case study content for homepage hero section"
     }
   ]
 }
