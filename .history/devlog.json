@@ -4191,6 +4191,11 @@
       "ts": "2024-09-25T12:08:12.524Z",
       "type": "feat",
       "summary": "implement paginated blog archive with ISR"
+    },
+    {
+      "ts": "2024-09-25T13:06:43.186Z",
+      "type": "docs",
+      "summary": "document map component configuration options"
     }
   ]
 }
