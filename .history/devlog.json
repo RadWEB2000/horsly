@@ -4186,6 +4186,11 @@
       "ts": "2024-09-24T16:07:54.053Z",
       "type": "config",
       "summary": "update PostCSS config for custom breakpoints"
+    },
+    {
+      "ts": "2024-09-25T12:08:12.524Z",
+      "type": "feat",
+      "summary": "implement paginated blog archive with ISR"
     }
   ]
 }
