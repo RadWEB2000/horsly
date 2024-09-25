@@ -4196,6 +4196,11 @@
       "ts": "2024-09-25T13:06:43.186Z",
       "type": "docs",
       "summary": "document map component configuration options"
+    },
+    {
+      "ts": "2024-09-25T15:32:35.709Z",
+      "type": "refactor",
+      "summary": "consolidate theme tokens into design system config"
     }
   ]
 }
