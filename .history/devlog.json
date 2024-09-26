@@ -4201,6 +4201,11 @@
       "ts": "2024-09-25T15:32:35.709Z",
       "type": "refactor",
       "summary": "consolidate theme tokens into design system config"
+    },
+    {
+      "ts": "2024-09-26T06:49:17.236Z",
+      "type": "fix",
+      "summary": "fix broken image URLs in social preview cards"
     }
   ]
 }
