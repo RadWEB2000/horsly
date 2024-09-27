@@ -4216,6 +4216,11 @@
       "ts": "2024-09-27T14:54:21.161Z",
       "type": "fix",
       "summary": "fix Open Graph image dimensions for Twitter cards"
+    },
+    {
+      "ts": "2024-09-27T15:24:12.611Z",
+      "type": "config",
+      "summary": "configure next/image allowed remote domains"
     }
   ]
 }
