@@ -4211,6 +4211,11 @@
       "ts": "2024-09-27T10:56:12.931Z",
       "type": "refactor",
       "summary": "consolidate API error handling into interceptor"
+    },
+    {
+      "ts": "2024-09-27T14:54:21.161Z",
+      "type": "fix",
+      "summary": "fix Open Graph image dimensions for Twitter cards"
     }
   ]
 }
