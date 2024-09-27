@@ -4206,6 +4206,11 @@
       "ts": "2024-09-26T06:49:17.236Z",
       "type": "fix",
       "summary": "fix broken image URLs in social preview cards"
+    },
+    {
+      "ts": "2024-09-27T10:56:12.931Z",
+      "type": "refactor",
+      "summary": "consolidate API error handling into interceptor"
     }
   ]
 }
