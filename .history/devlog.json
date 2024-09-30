@@ -4226,6 +4226,11 @@
       "ts": "2024-09-28T08:56:53.261Z",
       "type": "feat",
       "summary": "implement auction listing with bidding metadata"
+    },
+    {
+      "ts": "2024-09-30T08:49:07.751Z",
+      "type": "config",
+      "summary": "update next.config.ts for pl/en/de i18n routing"
     }
   ]
 }
