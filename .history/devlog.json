@@ -4236,6 +4236,11 @@
       "ts": "2024-09-30T12:42:50.020Z",
       "type": "fix",
       "summary": "correct currency formatting for non-PLN locales"
+    },
+    {
+      "ts": "2024-10-01T07:34:21.874Z",
+      "type": "feat",
+      "summary": "add Core Web Vitals dashboard integration"
     }
   ]
 }
