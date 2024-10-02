@@ -4241,6 +4241,11 @@
       "ts": "2024-10-01T07:34:21.874Z",
       "type": "feat",
       "summary": "add Core Web Vitals dashboard integration"
+    },
+    {
+      "ts": "2024-10-02T14:44:19.463Z",
+      "type": "refactor",
+      "summary": "extract shared map utilities to lib/geo"
     }
   ]
 }
