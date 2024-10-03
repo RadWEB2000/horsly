@@ -4246,6 +4246,11 @@
       "ts": "2024-10-02T14:44:19.463Z",
       "type": "refactor",
       "summary": "extract shared map utilities to lib/geo"
+    },
+    {
+      "ts": "2024-10-03T10:35:38.687Z",
+      "type": "feat",
+      "summary": "implement advanced search with faceted filters"
     }
   ]
 }
