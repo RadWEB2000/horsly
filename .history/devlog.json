@@ -4261,6 +4261,11 @@
       "ts": "2024-10-07T07:53:04.693Z",
       "type": "fix",
       "summary": "fix Open Graph image dimensions for Twitter cards"
+    },
+    {
+      "ts": "2024-10-08T07:36:03.718Z",
+      "type": "fix",
+      "summary": "fix missing meta viewport on mobile templates"
     }
   ]
 }
