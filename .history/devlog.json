@@ -4266,6 +4266,11 @@
       "ts": "2024-10-08T07:36:03.718Z",
       "type": "fix",
       "summary": "fix missing meta viewport on mobile templates"
+    },
+    {
+      "ts": "2024-10-08T09:30:28.880Z",
+      "type": "feat",
+      "summary": "implement comparison tool for horse breeds"
     }
   ]
 }
