@@ -4276,6 +4276,11 @@
       "ts": "2024-10-08T13:13:14.929Z",
       "type": "feat",
       "summary": "add social sharing component with OG metadata"
+    },
+    {
+      "ts": "2024-10-09T06:03:03.187Z",
+      "type": "feat",
+      "summary": "add event calendar for equestrian competitions"
     }
   ]
 }
