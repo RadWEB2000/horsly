@@ -4286,6 +4286,11 @@
       "ts": "2024-10-09T06:08:12.953Z",
       "type": "fix",
       "summary": "resolve hydration mismatch in auction countdown"
+    },
+    {
+      "ts": "2024-10-09T08:36:37.327Z",
+      "type": "fix",
+      "summary": "correct heading hierarchy on horse detail pages"
     }
   ]
 }
