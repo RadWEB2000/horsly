@@ -4291,6 +4291,11 @@
       "ts": "2024-10-09T08:36:37.327Z",
       "type": "fix",
       "summary": "correct heading hierarchy on horse detail pages"
+    },
+    {
+      "ts": "2024-10-09T11:29:34.589Z",
+      "type": "fix",
+      "summary": "correct structured data JSON-LD syntax error in product schema"
     }
   ]
 }
