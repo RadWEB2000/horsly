@@ -4296,6 +4296,11 @@
       "ts": "2024-10-09T11:29:34.589Z",
       "type": "fix",
       "summary": "correct structured data JSON-LD syntax error in product schema"
+    },
+    {
+      "ts": "2024-10-09T15:38:12.332Z",
+      "type": "feat",
+      "summary": "implement advanced search with faceted filters"
     }
   ]
 }
