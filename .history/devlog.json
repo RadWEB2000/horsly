@@ -4316,6 +4316,11 @@
       "ts": "2024-10-15T06:17:43.651Z",
       "type": "fix",
       "summary": "fix z-index overlap in mobile navigation menu"
+    },
+    {
+      "ts": "2024-10-15T07:37:37.700Z",
+      "type": "content",
+      "summary": "refresh About page structured content"
     }
   ]
 }
