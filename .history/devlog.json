@@ -4311,6 +4311,11 @@
       "ts": "2024-10-14T07:21:52.339Z",
       "type": "config",
       "summary": "configure biome lint rules for project conventions"
+    },
+    {
+      "ts": "2024-10-15T06:17:43.651Z",
+      "type": "fix",
+      "summary": "fix z-index overlap in mobile navigation menu"
     }
   ]
 }
