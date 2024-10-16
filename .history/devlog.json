@@ -4341,6 +4341,11 @@
       "ts": "2024-10-16T08:31:49.532Z",
       "type": "refactor",
       "summary": "refactor filter logic to use URL search params"
+    },
+    {
+      "ts": "2024-10-16T13:09:02.265Z",
+      "type": "refactor",
+      "summary": "replace class components with function components"
     }
   ]
 }
