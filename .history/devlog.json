@@ -4336,6 +4336,11 @@
       "ts": "2024-10-15T13:14:48.146Z",
       "type": "content",
       "summary": "update homepage meta description and H1 copy"
+    },
+    {
+      "ts": "2024-10-16T08:31:49.532Z",
+      "type": "refactor",
+      "summary": "refactor filter logic to use URL search params"
     }
   ]
 }
