@@ -4346,6 +4346,11 @@
       "ts": "2024-10-16T13:09:02.265Z",
       "type": "refactor",
       "summary": "replace class components with function components"
+    },
+    {
+      "ts": "2024-10-17T07:21:49.047Z",
+      "type": "fix",
+      "summary": "correct sitemap lastmod date format to ISO 8601"
     }
   ]
 }
