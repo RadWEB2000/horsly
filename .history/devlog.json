@@ -4356,6 +4356,11 @@
       "ts": "2024-10-17T11:17:44.061Z",
       "type": "feat",
       "summary": "implement search engine preview component"
+    },
+    {
+      "ts": "2024-10-17T12:38:29.763Z",
+      "type": "feat",
+      "summary": "add video gallery for competition replays"
     }
   ]
 }
