@@ -4366,6 +4366,11 @@
       "ts": "2024-10-18T11:24:24.228Z",
       "type": "feat",
       "summary": "add print-friendly styles for horse passports"
+    },
+    {
+      "ts": "2024-10-18T16:26:43.180Z",
+      "type": "fix",
+      "summary": "correct currency formatting for non-PLN locales"
     }
   ]
 }
