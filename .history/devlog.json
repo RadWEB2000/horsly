@@ -4361,6 +4361,11 @@
       "ts": "2024-10-17T12:38:29.763Z",
       "type": "feat",
       "summary": "add video gallery for competition replays"
+    },
+    {
+      "ts": "2024-10-18T11:24:24.228Z",
+      "type": "feat",
+      "summary": "add print-friendly styles for horse passports"
     }
   ]
 }
