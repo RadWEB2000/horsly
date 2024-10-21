@@ -4376,6 +4376,11 @@
       "ts": "2024-10-21T07:16:17.048Z",
       "type": "content",
       "summary": "add region-specific content for Małopolska stables"
+    },
+    {
+      "ts": "2024-10-21T07:43:30.606Z",
+      "type": "feat",
+      "summary": "add hreflang support for pl/en/de locales"
     }
   ]
 }
