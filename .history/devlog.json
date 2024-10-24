@@ -4396,6 +4396,11 @@
       "ts": "2024-10-24T10:44:09.936Z",
       "type": "feat",
       "summary": "implement related listings recommendation block"
+    },
+    {
+      "ts": "2024-10-24T11:41:21.215Z",
+      "type": "refactor",
+      "summary": "extract canonical URL logic to middleware"
     }
   ]
 }
