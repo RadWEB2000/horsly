@@ -4386,6 +4386,11 @@
       "ts": "2024-10-24T06:37:20.382Z",
       "type": "feat",
       "summary": "implement comparison tool for horse breeds"
+    },
+    {
+      "ts": "2024-10-24T07:53:52.686Z",
+      "type": "perf",
+      "summary": "compress devlog and reduce JSON payload size"
     }
   ]
 }
