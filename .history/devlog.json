@@ -4401,6 +4401,11 @@
       "ts": "2024-10-24T11:41:21.215Z",
       "type": "refactor",
       "summary": "extract canonical URL logic to middleware"
+    },
+    {
+      "ts": "2024-10-24T16:21:53.410Z",
+      "type": "fix",
+      "summary": "correct currency formatting for non-PLN locales"
     }
   ]
 }
