@@ -4381,6 +4381,11 @@
       "ts": "2024-10-21T07:43:30.606Z",
       "type": "feat",
       "summary": "add hreflang support for pl/en/de locales"
+    },
+    {
+      "ts": "2024-10-24T06:37:20.382Z",
+      "type": "feat",
+      "summary": "implement comparison tool for horse breeds"
     }
   ]
 }
