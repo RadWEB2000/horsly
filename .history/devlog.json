@@ -4406,6 +4406,11 @@
       "ts": "2024-10-24T16:21:53.410Z",
       "type": "fix",
       "summary": "correct currency formatting for non-PLN locales"
+    },
+    {
+      "ts": "2024-10-25T12:07:22.872Z",
+      "type": "feat",
+      "summary": "implement dynamic robots.txt generation"
     }
   ]
 }
