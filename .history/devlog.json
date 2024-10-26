@@ -4416,6 +4416,11 @@
       "ts": "2024-10-25T15:51:51.347Z",
       "type": "feat",
       "summary": "implement custom 404 with SEO-friendly copy"
+    },
+    {
+      "ts": "2024-10-26T09:38:04.821Z",
+      "type": "feat",
+      "summary": "add Open Graph image generation for listings"
     }
   ]
 }
