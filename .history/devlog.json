@@ -4426,6 +4426,11 @@
       "ts": "2024-10-26T15:55:54.826Z",
       "type": "content",
       "summary": "refresh footer links and contact information"
+    },
+    {
+      "ts": "2024-10-28T16:27:15.815Z",
+      "type": "perf",
+      "summary": "implement static generation for blog archive pages"
     }
   ]
 }
