@@ -4446,6 +4446,11 @@
       "ts": "2024-10-29T12:14:32.524Z",
       "type": "refactor",
       "summary": "extract SEO utilities to shared lib/seo module"
+    },
+    {
+      "ts": "2024-10-29T12:45:43.866Z",
+      "type": "fix",
+      "summary": "fix sitemap URL encoding for Polish characters"
     }
   ]
 }
