@@ -4451,6 +4451,11 @@
       "ts": "2024-10-29T12:45:43.866Z",
       "type": "fix",
       "summary": "fix sitemap URL encoding for Polish characters"
+    },
+    {
+      "ts": "2024-10-29T13:38:17.786Z",
+      "type": "content",
+      "summary": "update competition category naming conventions"
     }
   ]
 }
