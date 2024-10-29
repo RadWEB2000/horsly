@@ -4441,6 +4441,11 @@
       "ts": "2024-10-29T11:33:01.397Z",
       "type": "perf",
       "summary": "optimize image loading with priority hints on hero"
+    },
+    {
+      "ts": "2024-10-29T12:14:32.524Z",
+      "type": "refactor",
+      "summary": "extract SEO utilities to shared lib/seo module"
     }
   ]
 }
