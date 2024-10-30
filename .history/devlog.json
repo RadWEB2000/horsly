@@ -4456,6 +4456,11 @@
       "ts": "2024-10-29T13:38:17.786Z",
       "type": "content",
       "summary": "update competition category naming conventions"
+    },
+    {
+      "ts": "2024-10-30T11:02:42.417Z",
+      "type": "feat",
+      "summary": "add print-friendly styles for horse passports"
     }
   ]
 }
