@@ -4466,6 +4466,11 @@
       "ts": "2024-10-31T07:26:28.859Z",
       "type": "fix",
       "summary": "fix z-index overlap in mobile navigation menu"
+    },
+    {
+      "ts": "2024-10-31T11:57:19.639Z",
+      "type": "feat",
+      "summary": "add news feed with article schema"
     }
   ]
 }
