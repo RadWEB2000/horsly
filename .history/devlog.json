@@ -4476,6 +4476,11 @@
       "ts": "2024-11-04T10:54:09.217Z",
       "type": "fix",
       "summary": "resolve canonical URL duplication on paginated pages"
+    },
+    {
+      "ts": "2024-11-04T11:47:50.256Z",
+      "type": "refactor",
+      "summary": "migrate fetch calls to typed api client wrapper"
     }
   ]
 }
