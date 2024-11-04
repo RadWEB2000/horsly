@@ -4471,6 +4471,11 @@
       "ts": "2024-10-31T11:57:19.639Z",
       "type": "feat",
       "summary": "add news feed with article schema"
+    },
+    {
+      "ts": "2024-11-04T10:54:09.217Z",
+      "type": "fix",
+      "summary": "resolve canonical URL duplication on paginated pages"
     }
   ]
 }
