@@ -4486,6 +4486,11 @@
       "ts": "2024-11-05T11:39:32.975Z",
       "type": "refactor",
       "summary": "extract shared map utilities to lib/geo"
+    },
+    {
+      "ts": "2024-11-05T13:47:45.107Z",
+      "type": "refactor",
+      "summary": "split monolithic ListingCard into composable parts"
     }
   ]
 }
