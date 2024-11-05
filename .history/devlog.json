@@ -4481,6 +4481,11 @@
       "ts": "2024-11-04T11:47:50.256Z",
       "type": "refactor",
       "summary": "migrate fetch calls to typed api client wrapper"
+    },
+    {
+      "ts": "2024-11-05T11:39:32.975Z",
+      "type": "refactor",
+      "summary": "extract shared map utilities to lib/geo"
     }
   ]
 }
