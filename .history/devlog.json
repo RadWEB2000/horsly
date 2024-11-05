@@ -4491,6 +4491,11 @@
       "ts": "2024-11-05T13:47:45.107Z",
       "type": "refactor",
       "summary": "split monolithic ListingCard into composable parts"
+    },
+    {
+      "ts": "2024-11-05T14:11:20.191Z",
+      "type": "config",
+      "summary": "configure next/image allowed remote domains"
     }
   ]
 }
