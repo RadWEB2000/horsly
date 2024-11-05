@@ -4496,6 +4496,11 @@
       "ts": "2024-11-05T14:11:20.191Z",
       "type": "config",
       "summary": "configure next/image allowed remote domains"
+    },
+    {
+      "ts": "2024-11-05T14:44:07.768Z",
+      "type": "refactor",
+      "summary": "extract date helpers to lib/date module"
     }
   ]
 }
