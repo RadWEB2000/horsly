@@ -4501,6 +4501,11 @@
       "ts": "2024-11-05T14:44:07.768Z",
       "type": "refactor",
       "summary": "extract date helpers to lib/date module"
+    },
+    {
+      "ts": "2024-11-06T14:26:16.748Z",
+      "type": "feat",
+      "summary": "add video gallery for competition replays"
     }
   ]
 }
