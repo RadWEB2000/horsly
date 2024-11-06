@@ -4511,6 +4511,11 @@
       "ts": "2024-11-06T14:42:25.368Z",
       "type": "refactor",
       "summary": "migrate fetch calls to typed api client wrapper"
+    },
+    {
+      "ts": "2024-11-06T16:11:33.402Z",
+      "type": "refactor",
+      "summary": "consolidate Open Graph defaults into config object"
     }
   ]
 }
