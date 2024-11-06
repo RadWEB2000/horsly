@@ -4506,6 +4506,11 @@
       "ts": "2024-11-06T14:26:16.748Z",
       "type": "feat",
       "summary": "add video gallery for competition replays"
+    },
+    {
+      "ts": "2024-11-06T14:42:25.368Z",
+      "type": "refactor",
+      "summary": "migrate fetch calls to typed api client wrapper"
     }
   ]
 }
