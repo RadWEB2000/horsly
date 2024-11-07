@@ -4521,6 +4521,11 @@
       "ts": "2024-11-07T09:06:28.938Z",
       "type": "config",
       "summary": "update PostCSS config for custom breakpoints"
+    },
+    {
+      "ts": "2024-11-07T09:31:18.381Z",
+      "type": "refactor",
+      "summary": "migrate fetch calls to typed api client wrapper"
     }
   ]
 }
