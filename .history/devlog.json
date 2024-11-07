@@ -4526,6 +4526,11 @@
       "ts": "2024-11-07T09:31:18.381Z",
       "type": "refactor",
       "summary": "migrate fetch calls to typed api client wrapper"
+    },
+    {
+      "ts": "2024-11-07T16:19:22.141Z",
+      "type": "content",
+      "summary": "add case study content for homepage hero section"
     }
   ]
 }
