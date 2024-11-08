@@ -4536,6 +4536,11 @@
       "ts": "2024-11-08T10:17:51.033Z",
       "type": "feat",
       "summary": "add dark mode support with system preference detection"
+    },
+    {
+      "ts": "2024-11-08T15:01:45.180Z",
+      "type": "refactor",
+      "summary": "refactor sitemap generator to use async generator"
     }
   ]
 }
