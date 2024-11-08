@@ -4531,6 +4531,11 @@
       "ts": "2024-11-07T16:19:22.141Z",
       "type": "content",
       "summary": "add case study content for homepage hero section"
+    },
+    {
+      "ts": "2024-11-08T10:17:51.033Z",
+      "type": "feat",
+      "summary": "add dark mode support with system preference detection"
     }
   ]
 }
