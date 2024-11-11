@@ -4561,6 +4561,11 @@
       "ts": "2024-11-11T15:03:34.150Z",
       "type": "feat",
       "summary": "add competition results table"
+    },
+    {
+      "ts": "2024-11-11T16:03:11.349Z",
+      "type": "content",
+      "summary": "revise stable listing description template"
     }
   ]
 }
