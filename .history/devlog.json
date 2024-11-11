@@ -4556,6 +4556,11 @@
       "ts": "2024-11-11T10:53:16.994Z",
       "type": "fix",
       "summary": "fix sitemap URL encoding for Polish characters"
+    },
+    {
+      "ts": "2024-11-11T15:03:34.150Z",
+      "type": "feat",
+      "summary": "add competition results table"
     }
   ]
 }
