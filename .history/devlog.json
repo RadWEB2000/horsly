@@ -4551,6 +4551,11 @@
       "ts": "2024-11-11T10:08:40.481Z",
       "type": "refactor",
       "summary": "consolidate Open Graph defaults into config object"
+    },
+    {
+      "ts": "2024-11-11T10:53:16.994Z",
+      "type": "fix",
+      "summary": "fix sitemap URL encoding for Polish characters"
     }
   ]
 }
