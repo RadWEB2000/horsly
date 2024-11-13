@@ -4576,6 +4576,11 @@
       "ts": "2024-11-13T07:57:29.494Z",
       "type": "feat",
       "summary": "implement paginated blog archive with ISR"
+    },
+    {
+      "ts": "2024-11-13T10:30:00.713Z",
+      "type": "feat",
+      "summary": "add dark mode support with system preference detection"
     }
   ]
 }
