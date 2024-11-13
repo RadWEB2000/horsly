@@ -4586,6 +4586,11 @@
       "ts": "2024-11-13T16:00:23.390Z",
       "type": "feat",
       "summary": "add hreflang support for pl/en/de locales"
+    },
+    {
+      "ts": "2024-11-13T16:31:55.986Z",
+      "type": "content",
+      "summary": "update pricing page SEO copy"
     }
   ]
 }
