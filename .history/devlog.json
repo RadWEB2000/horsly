@@ -4581,6 +4581,11 @@
       "ts": "2024-11-13T10:30:00.713Z",
       "type": "feat",
       "summary": "add dark mode support with system preference detection"
+    },
+    {
+      "ts": "2024-11-13T16:00:23.390Z",
+      "type": "feat",
+      "summary": "add hreflang support for pl/en/de locales"
     }
   ]
 }
