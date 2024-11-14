@@ -4611,6 +4611,11 @@
       "ts": "2024-11-14T16:54:23.289Z",
       "type": "content",
       "summary": "refresh About page structured content"
+    },
+    {
+      "ts": "2024-11-14T17:07:48.950Z",
+      "type": "fix",
+      "summary": "fix Open Graph image dimensions for Twitter cards"
     }
   ]
 }
