@@ -4596,6 +4596,11 @@
       "ts": "2024-11-14T08:45:20.395Z",
       "type": "fix",
       "summary": "correct filter state reset on route change"
+    },
+    {
+      "ts": "2024-11-14T10:30:42.500Z",
+      "type": "config",
+      "summary": "add Content-Security-Policy to middleware"
     }
   ]
 }
