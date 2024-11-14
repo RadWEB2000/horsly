@@ -4601,6 +4601,11 @@
       "ts": "2024-11-14T10:30:42.500Z",
       "type": "config",
       "summary": "add Content-Security-Policy to middleware"
+    },
+    {
+      "ts": "2024-11-14T11:05:12.468Z",
+      "type": "feat",
+      "summary": "implement horse pedigree viewer component"
     }
   ]
 }
