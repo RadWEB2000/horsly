@@ -4616,6 +4616,11 @@
       "ts": "2024-11-14T17:07:48.950Z",
       "type": "fix",
       "summary": "fix Open Graph image dimensions for Twitter cards"
+    },
+    {
+      "ts": "2024-11-15T14:50:14.298Z",
+      "type": "fix",
+      "summary": "correct currency formatting for non-PLN locales"
     }
   ]
 }
