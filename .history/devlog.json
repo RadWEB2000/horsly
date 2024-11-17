@@ -4621,6 +4621,11 @@
       "ts": "2024-11-15T14:50:14.298Z",
       "type": "fix",
       "summary": "correct currency formatting for non-PLN locales"
+    },
+    {
+      "ts": "2024-11-17T10:20:47.067Z",
+      "type": "content",
+      "summary": "add testimonials section with review schema"
     }
   ]
 }
