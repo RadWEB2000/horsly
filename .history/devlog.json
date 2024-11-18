@@ -4626,6 +4626,11 @@
       "ts": "2024-11-17T10:20:47.067Z",
       "type": "content",
       "summary": "add testimonials section with review schema"
+    },
+    {
+      "ts": "2024-11-18T11:30:17.031Z",
+      "type": "perf",
+      "summary": "implement static generation for blog archive pages"
     }
   ]
 }
