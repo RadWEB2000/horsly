@@ -4631,6 +4631,11 @@
       "ts": "2024-11-18T11:30:17.031Z",
       "type": "perf",
       "summary": "implement static generation for blog archive pages"
+    },
+    {
+      "ts": "2024-11-18T13:57:48.471Z",
+      "type": "content",
+      "summary": "update homepage meta description and H1 copy"
     }
   ]
 }
