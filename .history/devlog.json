@@ -4636,6 +4636,11 @@
       "ts": "2024-11-18T13:57:48.471Z",
       "type": "content",
       "summary": "update homepage meta description and H1 copy"
+    },
+    {
+      "ts": "2024-11-19T09:55:40.435Z",
+      "type": "feat",
+      "summary": "add video gallery for competition replays"
     }
   ]
 }
