@@ -4646,6 +4646,11 @@
       "ts": "2024-11-20T07:55:15.656Z",
       "type": "feat",
       "summary": "add hreflang support for pl/en/de locales"
+    },
+    {
+      "ts": "2024-11-20T11:30:22.591Z",
+      "type": "content",
+      "summary": "add testimonials section with review schema"
     }
   ]
 }
