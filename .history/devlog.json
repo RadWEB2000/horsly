@@ -4651,6 +4651,11 @@
       "ts": "2024-11-20T11:30:22.591Z",
       "type": "content",
       "summary": "add testimonials section with review schema"
+    },
+    {
+      "ts": "2024-11-20T13:01:33.592Z",
+      "type": "fix",
+      "summary": "correct sitemap lastmod date format to ISO 8601"
     }
   ]
 }
