@@ -4666,6 +4666,11 @@
       "ts": "2024-11-20T16:02:59.247Z",
       "type": "fix",
       "summary": "resolve CSP violation for third-party map tiles"
+    },
+    {
+      "ts": "2024-11-21T12:23:46.209Z",
+      "type": "refactor",
+      "summary": "consolidate theme tokens into design system config"
     }
   ]
 }
