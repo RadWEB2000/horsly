@@ -4671,6 +4671,11 @@
       "ts": "2024-11-21T12:23:46.209Z",
       "type": "refactor",
       "summary": "consolidate theme tokens into design system config"
+    },
+    {
+      "ts": "2024-11-21T14:22:53.295Z",
+      "type": "feat",
+      "summary": "implement paginated blog archive with ISR"
     }
   ]
 }
