@@ -4681,6 +4681,11 @@
       "ts": "2024-11-22T07:49:50.439Z",
       "type": "fix",
       "summary": "correct currency formatting for non-PLN locales"
+    },
+    {
+      "ts": "2024-11-22T14:46:15.700Z",
+      "type": "config",
+      "summary": "configure next/image allowed remote domains"
     }
   ]
 }
