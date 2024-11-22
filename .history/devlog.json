@@ -4676,6 +4676,11 @@
       "ts": "2024-11-21T14:22:53.295Z",
       "type": "feat",
       "summary": "implement paginated blog archive with ISR"
+    },
+    {
+      "ts": "2024-11-22T07:49:50.439Z",
+      "type": "fix",
+      "summary": "correct currency formatting for non-PLN locales"
     }
   ]
 }
