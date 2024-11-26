@@ -4691,6 +4691,11 @@
       "ts": "2024-11-25T08:38:56.135Z",
       "type": "feat",
       "summary": "implement advanced search with faceted filters"
+    },
+    {
+      "ts": "2024-11-26T12:52:53.189Z",
+      "type": "content",
+      "summary": "refresh footer links and contact information"
     }
   ]
 }
