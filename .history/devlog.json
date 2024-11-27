@@ -4696,6 +4696,11 @@
       "ts": "2024-11-26T12:52:53.189Z",
       "type": "content",
       "summary": "refresh footer links and contact information"
+    },
+    {
+      "ts": "2024-11-27T10:15:31.543Z",
+      "type": "fix",
+      "summary": "fix missing alt attributes on gallery images"
     }
   ]
 }
