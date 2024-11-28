@@ -4701,6 +4701,11 @@
       "ts": "2024-11-27T10:15:31.543Z",
       "type": "fix",
       "summary": "fix missing alt attributes on gallery images"
+    },
+    {
+      "ts": "2024-11-28T10:52:50.037Z",
+      "type": "feat",
+      "summary": "add interactive arena diagram component"
     }
   ]
 }
