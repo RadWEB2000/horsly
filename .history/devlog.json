@@ -4706,6 +4706,11 @@
       "ts": "2024-11-28T10:52:50.037Z",
       "type": "feat",
       "summary": "add interactive arena diagram component"
+    },
+    {
+      "ts": "2024-11-29T08:51:36.572Z",
+      "type": "feat",
+      "summary": "add trainer profile pages with schema markup"
     }
   ]
 }
