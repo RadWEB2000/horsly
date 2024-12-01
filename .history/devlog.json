@@ -4716,6 +4716,11 @@
       "ts": "2024-12-01T09:33:03.745Z",
       "type": "config",
       "summary": "update next.config.ts for pl/en/de i18n routing"
+    },
+    {
+      "ts": "2024-12-01T16:22:34.398Z",
+      "type": "feat",
+      "summary": "add Core Web Vitals dashboard integration"
     }
   ]
 }
