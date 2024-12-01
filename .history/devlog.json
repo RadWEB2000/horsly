@@ -4711,6 +4711,11 @@
       "ts": "2024-11-29T08:51:36.572Z",
       "type": "feat",
       "summary": "add trainer profile pages with schema markup"
+    },
+    {
+      "ts": "2024-12-01T09:33:03.745Z",
+      "type": "config",
+      "summary": "update next.config.ts for pl/en/de i18n routing"
     }
   ]
 }
