@@ -4726,6 +4726,11 @@
       "ts": "2024-12-02T14:34:27.907Z",
       "type": "feat",
       "summary": "add interactive arena diagram component"
+    },
+    {
+      "ts": "2024-12-02T16:27:19.132Z",
+      "type": "feat",
+      "summary": "implement email subscription with double opt-in"
     }
   ]
 }
