@@ -4721,6 +4721,11 @@
       "ts": "2024-12-01T16:22:34.398Z",
       "type": "feat",
       "summary": "add Core Web Vitals dashboard integration"
+    },
+    {
+      "ts": "2024-12-02T14:34:27.907Z",
+      "type": "feat",
+      "summary": "add interactive arena diagram component"
     }
   ]
 }
