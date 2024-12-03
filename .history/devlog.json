@@ -4731,6 +4731,11 @@
       "ts": "2024-12-02T16:27:19.132Z",
       "type": "feat",
       "summary": "implement email subscription with double opt-in"
+    },
+    {
+      "ts": "2024-12-03T10:06:37.348Z",
+      "type": "fix",
+      "summary": "resolve infinite redirect in canonical middleware"
     }
   ]
 }
