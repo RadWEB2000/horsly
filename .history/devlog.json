@@ -4746,6 +4746,11 @@
       "ts": "2024-12-04T12:31:46.108Z",
       "type": "refactor",
       "summary": "extract SEO utilities to shared lib/seo module"
+    },
+    {
+      "ts": "2024-12-04T13:52:35.173Z",
+      "type": "feat",
+      "summary": "implement stable locator map with geolocation"
     }
   ]
 }
