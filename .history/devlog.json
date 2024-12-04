@@ -4741,6 +4741,11 @@
       "ts": "2024-12-04T10:05:26.049Z",
       "type": "fix",
       "summary": "resolve canonical URL duplication on paginated pages"
+    },
+    {
+      "ts": "2024-12-04T12:31:46.108Z",
+      "type": "refactor",
+      "summary": "extract SEO utilities to shared lib/seo module"
     }
   ]
 }
