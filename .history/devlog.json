@@ -4736,6 +4736,11 @@
       "ts": "2024-12-03T10:06:37.348Z",
       "type": "fix",
       "summary": "resolve infinite redirect in canonical middleware"
+    },
+    {
+      "ts": "2024-12-04T10:05:26.049Z",
+      "type": "fix",
+      "summary": "resolve canonical URL duplication on paginated pages"
     }
   ]
 }
