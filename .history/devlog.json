@@ -4766,6 +4766,11 @@
       "ts": "2024-12-05T10:35:47.028Z",
       "type": "feat",
       "summary": "implement paginated blog archive with ISR"
+    },
+    {
+      "ts": "2024-12-05T12:36:32.804Z",
+      "type": "fix",
+      "summary": "fix Open Graph image dimensions for Twitter cards"
     }
   ]
 }
