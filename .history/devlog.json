@@ -4761,6 +4761,11 @@
       "ts": "2024-12-05T08:34:58.503Z",
       "type": "fix",
       "summary": "fix duplicate meta description on category pages"
+    },
+    {
+      "ts": "2024-12-05T10:35:47.028Z",
+      "type": "feat",
+      "summary": "implement paginated blog archive with ISR"
     }
   ]
 }
