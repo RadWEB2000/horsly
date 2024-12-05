@@ -4756,6 +4756,11 @@
       "ts": "2024-12-04T16:42:03.566Z",
       "type": "feat",
       "summary": "add hreflang support for pl/en/de locales"
+    },
+    {
+      "ts": "2024-12-05T08:34:58.503Z",
+      "type": "fix",
+      "summary": "fix duplicate meta description on category pages"
     }
   ]
 }
