@@ -4771,6 +4771,11 @@
       "ts": "2024-12-05T12:36:32.804Z",
       "type": "fix",
       "summary": "fix Open Graph image dimensions for Twitter cards"
+    },
+    {
+      "ts": "2024-12-05T17:14:25.966Z",
+      "type": "content",
+      "summary": "update pricing page SEO copy"
     }
   ]
 }
