@@ -4776,6 +4776,11 @@
       "ts": "2024-12-05T17:14:25.966Z",
       "type": "content",
       "summary": "update pricing page SEO copy"
+    },
+    {
+      "ts": "2024-12-06T09:22:35.759Z",
+      "type": "config",
+      "summary": "add Content-Security-Policy to middleware"
     }
   ]
 }
