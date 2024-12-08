@@ -4781,6 +4781,11 @@
       "ts": "2024-12-06T09:22:35.759Z",
       "type": "config",
       "summary": "add Content-Security-Policy to middleware"
+    },
+    {
+      "ts": "2024-12-08T16:42:08.352Z",
+      "type": "feat",
+      "summary": "add Core Web Vitals dashboard integration"
     }
   ]
 }
