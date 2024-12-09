@@ -4791,6 +4791,11 @@
       "ts": "2024-12-09T10:39:54.402Z",
       "type": "feat",
       "summary": "add news feed with article schema"
+    },
+    {
+      "ts": "2024-12-09T14:54:56.274Z",
+      "type": "config",
+      "summary": "add environment variable schema validation"
     }
   ]
 }
