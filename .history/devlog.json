@@ -4786,6 +4786,11 @@
       "ts": "2024-12-08T16:42:08.352Z",
       "type": "feat",
       "summary": "add Core Web Vitals dashboard integration"
+    },
+    {
+      "ts": "2024-12-09T10:39:54.402Z",
+      "type": "feat",
+      "summary": "add news feed with article schema"
     }
   ]
 }
