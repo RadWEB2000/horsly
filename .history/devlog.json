@@ -4796,6 +4796,11 @@
       "ts": "2024-12-09T14:54:56.274Z",
       "type": "config",
       "summary": "add environment variable schema validation"
+    },
+    {
+      "ts": "2024-12-09T17:24:01.776Z",
+      "type": "config",
+      "summary": "configure trailing slash behavior globally"
     }
   ]
 }
