@@ -4826,6 +4826,11 @@
       "ts": "2024-12-10T16:50:16.243Z",
       "type": "perf",
       "summary": "optimize image loading with priority hints on hero"
+    },
+    {
+      "ts": "2024-12-10T17:27:11.392Z",
+      "type": "perf",
+      "summary": "implement ISR with 24h revalidation for breed pages"
     }
   ]
 }
