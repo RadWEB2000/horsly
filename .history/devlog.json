@@ -4806,6 +4806,11 @@
       "ts": "2024-12-10T07:53:59.235Z",
       "type": "perf",
       "summary": "optimize third-party map tile loading strategy"
+    },
+    {
+      "ts": "2024-12-10T08:13:28.465Z",
+      "type": "content",
+      "summary": "add case study content for homepage hero section"
     }
   ]
 }
