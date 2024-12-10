@@ -4801,6 +4801,11 @@
       "ts": "2024-12-09T17:24:01.776Z",
       "type": "config",
       "summary": "configure trailing slash behavior globally"
+    },
+    {
+      "ts": "2024-12-10T07:53:59.235Z",
+      "type": "perf",
+      "summary": "optimize third-party map tile loading strategy"
     }
   ]
 }
