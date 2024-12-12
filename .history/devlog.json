@@ -4836,6 +4836,11 @@
       "ts": "2024-12-11T09:16:00.500Z",
       "type": "fix",
       "summary": "correct currency formatting for non-PLN locales"
+    },
+    {
+      "ts": "2024-12-12T07:05:12.644Z",
+      "type": "feat",
+      "summary": "add social sharing component with OG metadata"
     }
   ]
 }
