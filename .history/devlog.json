@@ -4856,6 +4856,11 @@
       "ts": "2024-12-13T13:49:34.774Z",
       "type": "fix",
       "summary": "fix race condition in geolocation map component"
+    },
+    {
+      "ts": "2024-12-13T16:37:52.559Z",
+      "type": "docs",
+      "summary": "add contributing guide for content editors"
     }
   ]
 }
