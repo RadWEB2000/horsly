@@ -4846,6 +4846,11 @@
       "ts": "2024-12-13T08:28:41.092Z",
       "type": "fix",
       "summary": "resolve canonical URL duplication on paginated pages"
+    },
+    {
+      "ts": "2024-12-13T13:20:58.435Z",
+      "type": "fix",
+      "summary": "fix memory leak in WebSocket auction connection"
     }
   ]
 }
