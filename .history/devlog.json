@@ -4851,6 +4851,11 @@
       "ts": "2024-12-13T13:20:58.435Z",
       "type": "fix",
       "summary": "fix memory leak in WebSocket auction connection"
+    },
+    {
+      "ts": "2024-12-13T13:49:34.774Z",
+      "type": "fix",
+      "summary": "fix race condition in geolocation map component"
     }
   ]
 }
