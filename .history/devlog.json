@@ -4841,6 +4841,11 @@
       "ts": "2024-12-12T07:05:12.644Z",
       "type": "feat",
       "summary": "add social sharing component with OG metadata"
+    },
+    {
+      "ts": "2024-12-13T08:28:41.092Z",
+      "type": "fix",
+      "summary": "resolve canonical URL duplication on paginated pages"
     }
   ]
 }
