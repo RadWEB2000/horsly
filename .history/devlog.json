@@ -4866,6 +4866,11 @@
       "ts": "2024-12-13T17:23:33.448Z",
       "type": "perf",
       "summary": "optimize font loading with preconnect and display swap"
+    },
+    {
+      "ts": "2024-12-14T07:20:19.485Z",
+      "type": "content",
+      "summary": "revise stable listing description template"
     }
   ]
 }
