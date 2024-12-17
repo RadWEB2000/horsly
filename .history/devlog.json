@@ -4876,6 +4876,11 @@
       "ts": "2024-12-17T07:57:20.681Z",
       "type": "feat",
       "summary": "implement advanced search with faceted filters"
+    },
+    {
+      "ts": "2024-12-17T14:14:06.234Z",
+      "type": "fix",
+      "summary": "resolve canonical URL duplication on paginated pages"
     }
   ]
 }
