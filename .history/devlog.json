@@ -4886,6 +4886,11 @@
       "ts": "2024-12-18T16:37:45.690Z",
       "type": "config",
       "summary": "add Content-Security-Policy to middleware"
+    },
+    {
+      "ts": "2024-12-18T16:49:39.914Z",
+      "type": "refactor",
+      "summary": "migrate config to zod-validated schema"
     }
   ]
 }
