@@ -4891,6 +4891,11 @@
       "ts": "2024-12-18T16:49:39.914Z",
       "type": "refactor",
       "summary": "migrate config to zod-validated schema"
+    },
+    {
+      "ts": "2024-12-19T07:47:20.804Z",
+      "type": "feat",
+      "summary": "implement JSON-LD product schema for shop items"
     }
   ]
 }
