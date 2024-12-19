@@ -4896,6 +4896,11 @@
       "ts": "2024-12-19T07:47:20.804Z",
       "type": "feat",
       "summary": "implement JSON-LD product schema for shop items"
+    },
+    {
+      "ts": "2024-12-19T11:49:51.778Z",
+      "type": "perf",
+      "summary": "reduce LCP on homepage by inlining critical CSS"
     }
   ]
 }
