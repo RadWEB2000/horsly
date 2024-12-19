@@ -4901,6 +4901,11 @@
       "ts": "2024-12-19T11:49:51.778Z",
       "type": "perf",
       "summary": "reduce LCP on homepage by inlining critical CSS"
+    },
+    {
+      "ts": "2024-12-19T15:42:26.758Z",
+      "type": "feat",
+      "summary": "implement email subscription with double opt-in"
     }
   ]
 }
