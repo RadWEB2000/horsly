@@ -4916,6 +4916,11 @@
       "ts": "2024-12-22T08:04:21.167Z",
       "type": "fix",
       "summary": "resolve hydration mismatch in auction countdown"
+    },
+    {
+      "ts": "2024-12-22T09:07:03.839Z",
+      "type": "fix",
+      "summary": "fix race condition in geolocation map component"
     }
   ]
 }
