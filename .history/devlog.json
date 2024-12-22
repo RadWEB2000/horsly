@@ -4911,6 +4911,11 @@
       "ts": "2024-12-19T16:25:45.378Z",
       "type": "feat",
       "summary": "implement horse pedigree viewer component"
+    },
+    {
+      "ts": "2024-12-22T08:04:21.167Z",
+      "type": "fix",
+      "summary": "resolve hydration mismatch in auction countdown"
     }
   ]
 }
