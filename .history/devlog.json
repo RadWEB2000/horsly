@@ -4931,6 +4931,11 @@
       "ts": "2024-12-23T11:33:12.686Z",
       "type": "feat",
       "summary": "add Core Web Vitals dashboard integration"
+    },
+    {
+      "ts": "2024-12-23T13:31:46.266Z",
+      "type": "feat",
+      "summary": "add trainer profile pages with schema markup"
     }
   ]
 }
