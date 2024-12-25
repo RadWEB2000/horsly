@@ -4946,6 +4946,11 @@
       "ts": "2024-12-25T10:29:11.359Z",
       "type": "fix",
       "summary": "resolve hydration mismatch in auction countdown"
+    },
+    {
+      "ts": "2024-12-25T11:32:41.507Z",
+      "type": "refactor",
+      "summary": "replace class components with function components"
     }
   ]
 }
