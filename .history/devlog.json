@@ -4941,6 +4941,11 @@
       "ts": "2024-12-25T10:22:57.771Z",
       "type": "feat",
       "summary": "add FAQ schema markup generator"
+    },
+    {
+      "ts": "2024-12-25T10:29:11.359Z",
+      "type": "fix",
+      "summary": "resolve hydration mismatch in auction countdown"
     }
   ]
 }
