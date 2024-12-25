@@ -4936,6 +4936,11 @@
       "ts": "2024-12-23T13:31:46.266Z",
       "type": "feat",
       "summary": "add trainer profile pages with schema markup"
+    },
+    {
+      "ts": "2024-12-25T10:22:57.771Z",
+      "type": "feat",
+      "summary": "add FAQ schema markup generator"
     }
   ]
 }
