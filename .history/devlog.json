@@ -4951,6 +4951,11 @@
       "ts": "2024-12-25T11:32:41.507Z",
       "type": "refactor",
       "summary": "replace class components with function components"
+    },
+    {
+      "ts": "2024-12-26T07:33:10.270Z",
+      "type": "feat",
+      "summary": "implement email subscription with double opt-in"
     }
   ]
 }
