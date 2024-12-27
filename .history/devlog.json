@@ -4956,6 +4956,11 @@
       "ts": "2024-12-26T07:33:10.270Z",
       "type": "feat",
       "summary": "implement email subscription with double opt-in"
+    },
+    {
+      "ts": "2024-12-27T07:24:18.384Z",
+      "type": "refactor",
+      "summary": "consolidate API error handling into interceptor"
     }
   ]
 }
