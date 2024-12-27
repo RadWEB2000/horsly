@@ -4966,6 +4966,11 @@
       "ts": "2024-12-27T08:14:00.255Z",
       "type": "feat",
       "summary": "add Core Web Vitals dashboard integration"
+    },
+    {
+      "ts": "2024-12-27T11:21:19.702Z",
+      "type": "fix",
+      "summary": "fix z-index overlap in mobile navigation menu"
     }
   ]
 }
