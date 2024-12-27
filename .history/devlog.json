@@ -4971,6 +4971,11 @@
       "ts": "2024-12-27T11:21:19.702Z",
       "type": "fix",
       "summary": "fix z-index overlap in mobile navigation menu"
+    },
+    {
+      "ts": "2024-12-27T13:01:58.308Z",
+      "type": "fix",
+      "summary": "fix sitemap URL encoding for Polish characters"
     }
   ]
 }
