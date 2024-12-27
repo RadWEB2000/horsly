@@ -4961,6 +4961,11 @@
       "ts": "2024-12-27T07:24:18.384Z",
       "type": "refactor",
       "summary": "consolidate API error handling into interceptor"
+    },
+    {
+      "ts": "2024-12-27T08:14:00.255Z",
+      "type": "feat",
+      "summary": "add Core Web Vitals dashboard integration"
     }
   ]
 }
