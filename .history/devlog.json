@@ -4976,6 +4976,11 @@
       "ts": "2024-12-27T13:01:58.308Z",
       "type": "fix",
       "summary": "fix sitemap URL encoding for Polish characters"
+    },
+    {
+      "ts": "2024-12-29T09:22:15.872Z",
+      "type": "feat",
+      "summary": "add video gallery for competition replays"
     }
   ]
 }
