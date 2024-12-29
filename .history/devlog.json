@@ -4981,6 +4981,11 @@
       "ts": "2024-12-29T09:22:15.872Z",
       "type": "feat",
       "summary": "add video gallery for competition replays"
+    },
+    {
+      "ts": "2024-12-29T10:11:24.996Z",
+      "type": "docs",
+      "summary": "document SEO audit process and tooling"
     }
   ]
 }
