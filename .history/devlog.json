@@ -5001,6 +5001,11 @@
       "ts": "2024-12-30T14:24:55.792Z",
       "type": "docs",
       "summary": "add README section for local development setup"
+    },
+    {
+      "ts": "2024-12-30T17:03:10.471Z",
+      "type": "feat",
+      "summary": "add breadcrumb schema markup to all pages"
     }
   ]
 }
