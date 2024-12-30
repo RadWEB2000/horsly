@@ -4996,6 +4996,11 @@
       "ts": "2024-12-30T14:02:33.598Z",
       "type": "fix",
       "summary": "correct filter state reset on route change"
+    },
+    {
+      "ts": "2024-12-30T14:24:55.792Z",
+      "type": "docs",
+      "summary": "add README section for local development setup"
     }
   ]
 }
