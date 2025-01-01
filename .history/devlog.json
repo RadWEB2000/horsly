@@ -5016,6 +5016,11 @@
       "ts": "2025-01-01T07:55:16.887Z",
       "type": "docs",
       "summary": "document structured data schema conventions"
+    },
+    {
+      "ts": "2025-01-01T09:25:11.282Z",
+      "type": "feat",
+      "summary": "implement related listings recommendation block"
     }
   ]
 }
