@@ -5006,6 +5006,11 @@
       "ts": "2024-12-30T17:03:10.471Z",
       "type": "feat",
       "summary": "add breadcrumb schema markup to all pages"
+    },
+    {
+      "ts": "2025-01-01T07:00:50.444Z",
+      "type": "refactor",
+      "summary": "refactor filter logic to use URL search params"
     }
   ]
 }
