@@ -5036,6 +5036,11 @@
       "ts": "2025-01-02T09:00:35.463Z",
       "type": "feat",
       "summary": "add FAQ schema markup generator"
+    },
+    {
+      "ts": "2025-01-02T09:30:59.465Z",
+      "type": "refactor",
+      "summary": "replace magic strings with typed enum constants"
     }
   ]
 }
