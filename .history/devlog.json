@@ -5051,6 +5051,11 @@
       "ts": "2025-01-02T14:06:21.126Z",
       "type": "refactor",
       "summary": "refactor filter logic to use URL search params"
+    },
+    {
+      "ts": "2025-01-06T12:35:10.192Z",
+      "type": "content",
+      "summary": "refresh horse breed category descriptions"
     }
   ]
 }
