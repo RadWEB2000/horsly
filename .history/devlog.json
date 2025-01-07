@@ -5061,6 +5061,11 @@
       "ts": "2025-01-07T15:44:49.846Z",
       "type": "content",
       "summary": "revise landing page title tags for better CTR"
+    },
+    {
+      "ts": "2025-01-07T16:03:42.229Z",
+      "type": "content",
+      "summary": "update author bio metadata for trainers"
     }
   ]
 }
