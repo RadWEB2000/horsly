@@ -5071,6 +5071,11 @@
       "ts": "2025-01-08T12:31:42.011Z",
       "type": "perf",
       "summary": "implement static generation for blog archive pages"
+    },
+    {
+      "ts": "2025-01-10T07:19:09.608Z",
+      "type": "feat",
+      "summary": "add news feed with article schema"
     }
   ]
 }
