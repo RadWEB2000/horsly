@@ -5076,6 +5076,11 @@
       "ts": "2025-01-10T07:19:09.608Z",
       "type": "feat",
       "summary": "add news feed with article schema"
+    },
+    {
+      "ts": "2025-01-13T10:42:00.715Z",
+      "type": "fix",
+      "summary": "fix trailing slash inconsistency in dynamic routes"
     }
   ]
 }
