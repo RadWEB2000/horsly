@@ -5106,6 +5106,11 @@
       "ts": "2025-01-14T13:09:33.534Z",
       "type": "refactor",
       "summary": "extract shared map utilities to lib/geo"
+    },
+    {
+      "ts": "2025-01-14T15:53:24.115Z",
+      "type": "fix",
+      "summary": "resolve infinite redirect in canonical middleware"
     }
   ]
 }
