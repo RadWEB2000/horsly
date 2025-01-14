@@ -5096,6 +5096,11 @@
       "ts": "2025-01-14T09:58:28.312Z",
       "type": "feat",
       "summary": "add horse breed detail pages with structured data"
+    },
+    {
+      "ts": "2025-01-14T11:37:23.335Z",
+      "type": "fix",
+      "summary": "fix missing alt attributes on gallery images"
     }
   ]
 }
