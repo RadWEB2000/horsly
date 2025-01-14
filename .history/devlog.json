@@ -5101,6 +5101,11 @@
       "ts": "2025-01-14T11:37:23.335Z",
       "type": "fix",
       "summary": "fix missing alt attributes on gallery images"
+    },
+    {
+      "ts": "2025-01-14T13:09:33.534Z",
+      "type": "refactor",
+      "summary": "extract shared map utilities to lib/geo"
     }
   ]
 }
