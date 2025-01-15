@@ -5116,6 +5116,11 @@
       "ts": "2025-01-15T07:31:29.554Z",
       "type": "feat",
       "summary": "add horse breed detail pages with structured data"
+    },
+    {
+      "ts": "2025-01-15T16:49:19.261Z",
+      "type": "perf",
+      "summary": "implement ISR with 24h revalidation for breed pages"
     }
   ]
 }
