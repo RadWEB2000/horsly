@@ -5121,6 +5121,11 @@
       "ts": "2025-01-15T16:49:19.261Z",
       "type": "perf",
       "summary": "implement ISR with 24h revalidation for breed pages"
+    },
+    {
+      "ts": "2025-01-20T07:30:09.960Z",
+      "type": "fix",
+      "summary": "fix broken pagination on search results page"
     }
   ]
 }
