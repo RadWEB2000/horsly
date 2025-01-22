@@ -5141,6 +5141,11 @@
       "ts": "2025-01-22T09:12:20.388Z",
       "type": "feat",
       "summary": "add print-friendly styles for horse passports"
+    },
+    {
+      "ts": "2025-01-22T11:03:47.037Z",
+      "type": "perf",
+      "summary": "optimize third-party map tile loading strategy"
     }
   ]
 }
