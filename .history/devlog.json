@@ -5136,6 +5136,11 @@
       "ts": "2025-01-21T17:03:57.541Z",
       "type": "refactor",
       "summary": "refactor horse schema to extend base Article type"
+    },
+    {
+      "ts": "2025-01-22T09:12:20.388Z",
+      "type": "feat",
+      "summary": "add print-friendly styles for horse passports"
     }
   ]
 }
