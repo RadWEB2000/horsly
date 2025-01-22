@@ -5146,6 +5146,11 @@
       "ts": "2025-01-22T11:03:47.037Z",
       "type": "perf",
       "summary": "optimize third-party map tile loading strategy"
+    },
+    {
+      "ts": "2025-01-22T16:42:19.805Z",
+      "type": "refactor",
+      "summary": "extract date helpers to lib/date module"
     }
   ]
 }
