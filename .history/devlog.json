@@ -5151,6 +5151,11 @@
       "ts": "2025-01-22T16:42:19.805Z",
       "type": "refactor",
       "summary": "extract date helpers to lib/date module"
+    },
+    {
+      "ts": "2025-01-23T12:47:22.057Z",
+      "type": "content",
+      "summary": "add case study content for homepage hero section"
     }
   ]
 }
