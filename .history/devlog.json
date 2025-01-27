@@ -5181,6 +5181,11 @@
       "ts": "2025-01-27T07:43:46.007Z",
       "type": "fix",
       "summary": "fix memory leak in WebSocket auction connection"
+    },
+    {
+      "ts": "2025-01-27T10:10:55.004Z",
+      "type": "perf",
+      "summary": "reduce TTFB with Vercel edge caching on list routes"
     }
   ]
 }
