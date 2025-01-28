@@ -5201,6 +5201,11 @@
       "ts": "2025-01-27T16:49:23.629Z",
       "type": "feat",
       "summary": "add news feed with article schema"
+    },
+    {
+      "ts": "2025-01-28T10:28:32.488Z",
+      "type": "perf",
+      "summary": "reduce TTFB with Vercel edge caching on list routes"
     }
   ]
 }
