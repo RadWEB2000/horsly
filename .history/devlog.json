@@ -5206,6 +5206,11 @@
       "ts": "2025-01-28T10:28:32.488Z",
       "type": "perf",
       "summary": "reduce TTFB with Vercel edge caching on list routes"
+    },
+    {
+      "ts": "2025-01-28T14:35:53.364Z",
+      "type": "refactor",
+      "summary": "refactor horse schema to extend base Article type"
     }
   ]
 }
