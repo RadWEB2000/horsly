@@ -5231,6 +5231,11 @@
       "ts": "2025-01-29T09:56:30.482Z",
       "type": "feat",
       "summary": "implement lazy loading for stable gallery images"
+    },
+    {
+      "ts": "2025-01-29T12:06:13.465Z",
+      "type": "feat",
+      "summary": "add social sharing component with OG metadata"
     }
   ]
 }
