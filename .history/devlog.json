@@ -5221,6 +5221,11 @@
       "ts": "2025-01-29T09:26:16.468Z",
       "type": "fix",
       "summary": "resolve infinite redirect in canonical middleware"
+    },
+    {
+      "ts": "2025-01-29T09:41:36.943Z",
+      "type": "feat",
+      "summary": "add breadcrumb schema markup to all pages"
     }
   ]
 }
