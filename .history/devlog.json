@@ -5226,6 +5226,11 @@
       "ts": "2025-01-29T09:41:36.943Z",
       "type": "feat",
       "summary": "add breadcrumb schema markup to all pages"
+    },
+    {
+      "ts": "2025-01-29T09:56:30.482Z",
+      "type": "feat",
+      "summary": "implement lazy loading for stable gallery images"
     }
   ]
 }
