@@ -5211,6 +5211,11 @@
       "ts": "2025-01-28T14:35:53.364Z",
       "type": "refactor",
       "summary": "refactor horse schema to extend base Article type"
+    },
+    {
+      "ts": "2025-01-29T09:12:00.200Z",
+      "type": "content",
+      "summary": "refresh footer links and contact information"
     }
   ]
 }
