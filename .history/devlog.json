@@ -5241,6 +5241,11 @@
       "ts": "2025-01-30T10:42:42.462Z",
       "type": "feat",
       "summary": "implement lazy loading for stable gallery images"
+    },
+    {
+      "ts": "2025-01-31T10:42:25.088Z",
+      "type": "perf",
+      "summary": "implement ISR with 24h revalidation for breed pages"
     }
   ]
 }
