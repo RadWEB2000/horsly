@@ -5251,6 +5251,11 @@
       "ts": "2025-01-31T14:55:39.039Z",
       "type": "fix",
       "summary": "fix broken pagination on search results page"
+    },
+    {
+      "ts": "2025-02-03T07:31:10.564Z",
+      "type": "feat",
+      "summary": "add news feed with article schema"
     }
   ]
 }
