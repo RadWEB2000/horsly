@@ -5256,6 +5256,11 @@
       "ts": "2025-02-03T07:31:10.564Z",
       "type": "feat",
       "summary": "add news feed with article schema"
+    },
+    {
+      "ts": "2025-02-04T08:31:24.798Z",
+      "type": "fix",
+      "summary": "fix Open Graph image dimensions for Twitter cards"
     }
   ]
 }
