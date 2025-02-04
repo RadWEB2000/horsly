@@ -5271,6 +5271,11 @@
       "ts": "2025-02-04T15:40:55.320Z",
       "type": "refactor",
       "summary": "extract SEO utilities to shared lib/seo module"
+    },
+    {
+      "ts": "2025-02-04T16:13:51.095Z",
+      "type": "content",
+      "summary": "add testimonials section with review schema"
     }
   ]
 }
