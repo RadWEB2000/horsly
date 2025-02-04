@@ -5261,6 +5261,11 @@
       "ts": "2025-02-04T08:31:24.798Z",
       "type": "fix",
       "summary": "fix Open Graph image dimensions for Twitter cards"
+    },
+    {
+      "ts": "2025-02-04T13:23:37.203Z",
+      "type": "content",
+      "summary": "update product page keyword targeting"
     }
   ]
 }
