@@ -5276,6 +5276,11 @@
       "ts": "2025-02-04T16:13:51.095Z",
       "type": "content",
       "summary": "add testimonials section with review schema"
+    },
+    {
+      "ts": "2025-02-07T09:56:27.008Z",
+      "type": "fix",
+      "summary": "fix missing meta viewport on mobile templates"
     }
   ]
 }
