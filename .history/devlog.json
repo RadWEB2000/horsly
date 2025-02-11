@@ -5286,6 +5286,11 @@
       "ts": "2025-02-11T07:38:50.780Z",
       "type": "docs",
       "summary": "document structured data schema conventions"
+    },
+    {
+      "ts": "2025-02-11T15:24:05.323Z",
+      "type": "fix",
+      "summary": "correct filter state reset on route change"
     }
   ]
 }
