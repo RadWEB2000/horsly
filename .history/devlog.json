@@ -5296,6 +5296,11 @@
       "ts": "2025-02-12T10:05:03.773Z",
       "type": "feat",
       "summary": "implement related listings recommendation block"
+    },
+    {
+      "ts": "2025-02-12T11:04:23.120Z",
+      "type": "docs",
+      "summary": "document canonical URL strategy in AGENTS.md"
     }
   ]
 }
