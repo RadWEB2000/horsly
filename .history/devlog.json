@@ -5291,6 +5291,11 @@
       "ts": "2025-02-11T15:24:05.323Z",
       "type": "fix",
       "summary": "correct filter state reset on route change"
+    },
+    {
+      "ts": "2025-02-12T10:05:03.773Z",
+      "type": "feat",
+      "summary": "implement related listings recommendation block"
     }
   ]
 }
