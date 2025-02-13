@@ -5306,6 +5306,11 @@
       "ts": "2025-02-12T16:14:15.640Z",
       "type": "config",
       "summary": "update PostCSS config for custom breakpoints"
+    },
+    {
+      "ts": "2025-02-13T15:07:22.235Z",
+      "type": "content",
+      "summary": "add case study content for homepage hero section"
     }
   ]
 }
