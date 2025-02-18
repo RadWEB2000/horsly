@@ -5316,6 +5316,11 @@
       "ts": "2025-02-14T10:30:54.047Z",
       "type": "content",
       "summary": "update pricing page SEO copy"
+    },
+    {
+      "ts": "2025-02-18T15:58:47.082Z",
+      "type": "refactor",
+      "summary": "consolidate structured data generators into factory"
     }
   ]
 }
