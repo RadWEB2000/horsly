@@ -5321,6 +5321,11 @@
       "ts": "2025-02-18T15:58:47.082Z",
       "type": "refactor",
       "summary": "consolidate structured data generators into factory"
+    },
+    {
+      "ts": "2025-02-18T16:37:40.419Z",
+      "type": "feat",
+      "summary": "add social sharing component with OG metadata"
     }
   ]
 }
