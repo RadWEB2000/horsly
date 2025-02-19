@@ -5331,6 +5331,11 @@
       "ts": "2025-02-19T07:41:31.199Z",
       "type": "refactor",
       "summary": "extract shared map utilities to lib/geo"
+    },
+    {
+      "ts": "2025-02-19T10:31:04.473Z",
+      "type": "content",
+      "summary": "update author bio metadata for trainers"
     }
   ]
 }
