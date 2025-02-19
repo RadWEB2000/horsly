@@ -5326,6 +5326,11 @@
       "ts": "2025-02-18T16:37:40.419Z",
       "type": "feat",
       "summary": "add social sharing component with OG metadata"
+    },
+    {
+      "ts": "2025-02-19T07:41:31.199Z",
+      "type": "refactor",
+      "summary": "extract shared map utilities to lib/geo"
     }
   ]
 }
