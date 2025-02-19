@@ -5336,6 +5336,11 @@
       "ts": "2025-02-19T10:31:04.473Z",
       "type": "content",
       "summary": "update author bio metadata for trainers"
+    },
+    {
+      "ts": "2025-02-19T11:41:02.963Z",
+      "type": "feat",
+      "summary": "implement search engine preview component"
     }
   ]
 }
