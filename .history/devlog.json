@@ -5356,6 +5356,11 @@
       "ts": "2025-02-20T08:40:09.258Z",
       "type": "feat",
       "summary": "add Core Web Vitals dashboard integration"
+    },
+    {
+      "ts": "2025-02-20T11:23:02.646Z",
+      "type": "feat",
+      "summary": "add print-friendly styles for horse passports"
     }
   ]
 }
