@@ -5351,6 +5351,11 @@
       "ts": "2025-02-20T07:28:40.148Z",
       "type": "config",
       "summary": "add Sentry source map upload to build pipeline"
+    },
+    {
+      "ts": "2025-02-20T08:40:09.258Z",
+      "type": "feat",
+      "summary": "add Core Web Vitals dashboard integration"
     }
   ]
 }
