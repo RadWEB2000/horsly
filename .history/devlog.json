@@ -5361,6 +5361,11 @@
       "ts": "2025-02-20T11:23:02.646Z",
       "type": "feat",
       "summary": "add print-friendly styles for horse passports"
+    },
+    {
+      "ts": "2025-02-21T10:04:29.912Z",
+      "type": "fix",
+      "summary": "correct structured data JSON-LD syntax error in product schema"
     }
   ]
 }
