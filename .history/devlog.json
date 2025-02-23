@@ -5366,6 +5366,11 @@
       "ts": "2025-02-21T10:04:29.912Z",
       "type": "fix",
       "summary": "correct structured data JSON-LD syntax error in product schema"
+    },
+    {
+      "ts": "2025-02-23T10:22:45.082Z",
+      "type": "feat",
+      "summary": "add FAQ schema markup generator"
     }
   ]
 }
