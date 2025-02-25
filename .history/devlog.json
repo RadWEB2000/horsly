@@ -5406,6 +5406,11 @@
       "ts": "2025-02-25T07:44:52.683Z",
       "type": "feat",
       "summary": "implement sitemap auto-generation from page tree"
+    },
+    {
+      "ts": "2025-02-25T11:11:53.468Z",
+      "type": "content",
+      "summary": "refresh footer links and contact information"
     }
   ]
 }
