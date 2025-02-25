@@ -5411,6 +5411,11 @@
       "ts": "2025-02-25T11:11:53.468Z",
       "type": "content",
       "summary": "refresh footer links and contact information"
+    },
+    {
+      "ts": "2025-02-25T12:23:02.154Z",
+      "type": "feat",
+      "summary": "add competition results table"
     }
   ]
 }
