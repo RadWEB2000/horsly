@@ -5421,6 +5421,11 @@
       "ts": "2025-02-25T16:47:07.444Z",
       "type": "perf",
       "summary": "optimize font loading with preconnect and display swap"
+    },
+    {
+      "ts": "2025-02-26T13:42:26.888Z",
+      "type": "docs",
+      "summary": "add deployment checklist to project wiki"
     }
   ]
 }
