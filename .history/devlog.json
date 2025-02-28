@@ -5431,6 +5431,11 @@
       "ts": "2025-02-28T13:27:14.769Z",
       "type": "feat",
       "summary": "implement search engine preview component"
+    },
+    {
+      "ts": "2025-02-28T15:50:29.168Z",
+      "type": "feat",
+      "summary": "add breadcrumb schema markup to all pages"
     }
   ]
 }
