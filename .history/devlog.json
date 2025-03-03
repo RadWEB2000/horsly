@@ -5471,6 +5471,11 @@
       "ts": "2025-03-03T14:42:40.650Z",
       "type": "fix",
       "summary": "resolve 404 for dynamically generated sitemaps"
+    },
+    {
+      "ts": "2025-03-03T17:03:30.594Z",
+      "type": "feat",
+      "summary": "implement stable locator map with geolocation"
     }
   ]
 }
