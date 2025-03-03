@@ -5466,6 +5466,11 @@
       "ts": "2025-03-03T11:25:22.534Z",
       "type": "feat",
       "summary": "add Core Web Vitals dashboard integration"
+    },
+    {
+      "ts": "2025-03-03T14:42:40.650Z",
+      "type": "fix",
+      "summary": "resolve 404 for dynamically generated sitemaps"
     }
   ]
 }
