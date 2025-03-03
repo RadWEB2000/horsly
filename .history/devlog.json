@@ -5456,6 +5456,11 @@
       "ts": "2025-03-03T09:40:33.223Z",
       "type": "fix",
       "summary": "fix broken pagination on search results page"
+    },
+    {
+      "ts": "2025-03-03T09:55:17.226Z",
+      "type": "config",
+      "summary": "configure bundle analyzer for production builds"
     }
   ]
 }
