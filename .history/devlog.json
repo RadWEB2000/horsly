@@ -5476,6 +5476,11 @@
       "ts": "2025-03-03T17:03:30.594Z",
       "type": "feat",
       "summary": "implement stable locator map with geolocation"
+    },
+    {
+      "ts": "2025-03-04T11:26:46.989Z",
+      "type": "feat",
+      "summary": "implement horse pedigree viewer component"
     }
   ]
 }
