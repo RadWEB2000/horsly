@@ -5491,6 +5491,11 @@
       "ts": "2025-03-05T08:35:44.191Z",
       "type": "refactor",
       "summary": "consolidate API error handling into interceptor"
+    },
+    {
+      "ts": "2025-03-05T08:55:23.715Z",
+      "type": "fix",
+      "summary": "correct currency formatting for non-PLN locales"
     }
   ]
 }
