@@ -5486,6 +5486,11 @@
       "ts": "2025-03-04T14:48:24.743Z",
       "type": "content",
       "summary": "add testimonials section with review schema"
+    },
+    {
+      "ts": "2025-03-05T08:35:44.191Z",
+      "type": "refactor",
+      "summary": "consolidate API error handling into interceptor"
     }
   ]
 }
