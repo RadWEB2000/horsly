@@ -5506,6 +5506,11 @@
       "ts": "2025-03-05T16:54:30.296Z",
       "type": "content",
       "summary": "update newsletter signup copy and CTA"
+    },
+    {
+      "ts": "2025-03-06T08:19:36.521Z",
+      "type": "config",
+      "summary": "update TypeScript path aliases in tsconfig"
     }
   ]
 }
