@@ -5521,6 +5521,11 @@
       "ts": "2025-03-07T12:05:06.691Z",
       "type": "refactor",
       "summary": "extract date helpers to lib/date module"
+    },
+    {
+      "ts": "2025-03-07T17:11:39.344Z",
+      "type": "feat",
+      "summary": "add trainer profile pages with schema markup"
     }
   ]
 }
