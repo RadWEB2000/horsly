@@ -5511,6 +5511,11 @@
       "ts": "2025-03-06T08:19:36.521Z",
       "type": "config",
       "summary": "update TypeScript path aliases in tsconfig"
+    },
+    {
+      "ts": "2025-03-07T08:34:53.034Z",
+      "type": "feat",
+      "summary": "add breadcrumb schema markup to all pages"
     }
   ]
 }
