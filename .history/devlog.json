@@ -5526,6 +5526,11 @@
       "ts": "2025-03-07T17:11:39.344Z",
       "type": "feat",
       "summary": "add trainer profile pages with schema markup"
+    },
+    {
+      "ts": "2025-03-07T17:20:44.558Z",
+      "type": "fix",
+      "summary": "correct filter state reset on route change"
     }
   ]
 }
