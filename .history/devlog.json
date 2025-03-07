@@ -5531,6 +5531,11 @@
       "ts": "2025-03-07T17:20:44.558Z",
       "type": "fix",
       "summary": "correct filter state reset on route change"
+    },
+    {
+      "ts": "2025-03-07T17:26:03.494Z",
+      "type": "refactor",
+      "summary": "refactor sitemap generator to use async generator"
     }
   ]
 }
