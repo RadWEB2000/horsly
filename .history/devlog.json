@@ -5556,6 +5556,11 @@
       "ts": "2025-03-10T10:32:46.477Z",
       "type": "config",
       "summary": "add Content-Security-Policy to middleware"
+    },
+    {
+      "ts": "2025-03-10T12:16:14.775Z",
+      "type": "perf",
+      "summary": "optimize font loading with preconnect and display swap"
     }
   ]
 }
