@@ -5541,6 +5541,11 @@
       "ts": "2025-03-10T07:37:28.032Z",
       "type": "config",
       "summary": "configure trailing slash behavior globally"
+    },
+    {
+      "ts": "2025-03-10T08:20:29.823Z",
+      "type": "feat",
+      "summary": "add social sharing component with OG metadata"
     }
   ]
 }
