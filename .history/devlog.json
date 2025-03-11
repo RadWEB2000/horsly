@@ -5566,6 +5566,11 @@
       "ts": "2025-03-10T15:39:42.325Z",
       "type": "fix",
       "summary": "fix sitemap URL encoding for Polish characters"
+    },
+    {
+      "ts": "2025-03-11T12:02:36.240Z",
+      "type": "config",
+      "summary": "configure ISR revalidation intervals per route type"
     }
   ]
 }
