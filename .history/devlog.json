@@ -5581,6 +5581,11 @@
       "ts": "2025-03-12T07:50:23.030Z",
       "type": "feat",
       "summary": "add news feed with article schema"
+    },
+    {
+      "ts": "2025-03-12T12:31:35.036Z",
+      "type": "docs",
+      "summary": "add deployment checklist to project wiki"
     }
   ]
 }
