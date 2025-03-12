@@ -5571,6 +5571,11 @@
       "ts": "2025-03-11T12:02:36.240Z",
       "type": "config",
       "summary": "configure ISR revalidation intervals per route type"
+    },
+    {
+      "ts": "2025-03-12T07:18:27.737Z",
+      "type": "refactor",
+      "summary": "split monolithic ListingCard into composable parts"
     }
   ]
 }
