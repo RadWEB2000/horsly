@@ -5576,6 +5576,11 @@
       "ts": "2025-03-12T07:18:27.737Z",
       "type": "refactor",
       "summary": "split monolithic ListingCard into composable parts"
+    },
+    {
+      "ts": "2025-03-12T07:50:23.030Z",
+      "type": "feat",
+      "summary": "add news feed with article schema"
     }
   ]
 }
