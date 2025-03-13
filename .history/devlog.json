@@ -5596,6 +5596,11 @@
       "ts": "2025-03-13T12:09:13.078Z",
       "type": "feat",
       "summary": "implement email subscription with double opt-in"
+    },
+    {
+      "ts": "2025-03-13T12:59:45.512Z",
+      "type": "fix",
+      "summary": "resolve hreflang alternate link self-referencing loop"
     }
   ]
 }
