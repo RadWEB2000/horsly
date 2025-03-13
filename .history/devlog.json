@@ -5601,6 +5601,11 @@
       "ts": "2025-03-13T12:59:45.512Z",
       "type": "fix",
       "summary": "resolve hreflang alternate link self-referencing loop"
+    },
+    {
+      "ts": "2025-03-13T13:43:32.028Z",
+      "type": "refactor",
+      "summary": "replace magic strings with typed enum constants"
     }
   ]
 }
