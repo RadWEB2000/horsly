@@ -5616,6 +5616,11 @@
       "ts": "2025-03-14T11:48:18.401Z",
       "type": "refactor",
       "summary": "migrate config to zod-validated schema"
+    },
+    {
+      "ts": "2025-03-14T15:24:23.583Z",
+      "type": "refactor",
+      "summary": "extract shared map utilities to lib/geo"
     }
   ]
 }
