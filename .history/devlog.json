@@ -5641,6 +5641,11 @@
       "ts": "2025-03-20T07:32:48.115Z",
       "type": "config",
       "summary": "update sitemap generation configuration"
+    },
+    {
+      "ts": "2025-03-20T08:52:19.616Z",
+      "type": "docs",
+      "summary": "document map component configuration options"
     }
   ]
 }
