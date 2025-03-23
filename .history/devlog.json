@@ -5646,6 +5646,11 @@
       "ts": "2025-03-20T08:52:19.616Z",
       "type": "docs",
       "summary": "document map component configuration options"
+    },
+    {
+      "ts": "2025-03-23T10:32:58.234Z",
+      "type": "fix",
+      "summary": "fix sitemap URL encoding for Polish characters"
     }
   ]
 }
