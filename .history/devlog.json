@@ -5651,6 +5651,11 @@
       "ts": "2025-03-23T10:32:58.234Z",
       "type": "fix",
       "summary": "fix sitemap URL encoding for Polish characters"
+    },
+    {
+      "ts": "2025-03-23T12:12:10.582Z",
+      "type": "feat",
+      "summary": "implement stable locator map with geolocation"
     }
   ]
 }
