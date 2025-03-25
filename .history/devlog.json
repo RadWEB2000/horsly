@@ -5666,6 +5666,11 @@
       "ts": "2025-03-24T14:15:02.944Z",
       "type": "feat",
       "summary": "implement JSON-LD product schema for shop items"
+    },
+    {
+      "ts": "2025-03-25T10:03:29.954Z",
+      "type": "fix",
+      "summary": "correct date formatting in event calendar"
     }
   ]
 }
