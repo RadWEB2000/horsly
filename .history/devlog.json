@@ -5686,6 +5686,11 @@
       "ts": "2025-03-26T11:50:43.358Z",
       "type": "refactor",
       "summary": "extract shared map utilities to lib/geo"
+    },
+    {
+      "ts": "2025-03-26T14:24:34.631Z",
+      "type": "content",
+      "summary": "add region-specific content for Małopolska stables"
     }
   ]
 }
