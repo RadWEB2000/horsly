@@ -5691,6 +5691,11 @@
       "ts": "2025-03-26T14:24:34.631Z",
       "type": "content",
       "summary": "add region-specific content for Małopolska stables"
+    },
+    {
+      "ts": "2025-03-27T09:16:54.193Z",
+      "type": "fix",
+      "summary": "correct heading hierarchy on horse detail pages"
     }
   ]
 }
