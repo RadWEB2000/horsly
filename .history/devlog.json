@@ -5706,6 +5706,11 @@
       "ts": "2025-03-28T11:41:30.293Z",
       "type": "perf",
       "summary": "compress devlog and reduce JSON payload size"
+    },
+    {
+      "ts": "2025-03-28T12:58:44.612Z",
+      "type": "fix",
+      "summary": "fix z-index overlap in mobile navigation menu"
     }
   ]
 }
