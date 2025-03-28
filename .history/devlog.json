@@ -5711,6 +5711,11 @@
       "ts": "2025-03-28T12:58:44.612Z",
       "type": "fix",
       "summary": "fix z-index overlap in mobile navigation menu"
+    },
+    {
+      "ts": "2025-03-28T14:52:05.960Z",
+      "type": "refactor",
+      "summary": "migrate to TypeScript strict mode across src/"
     }
   ]
 }
