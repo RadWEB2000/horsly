@@ -5716,6 +5716,11 @@
       "ts": "2025-03-28T14:52:05.960Z",
       "type": "refactor",
       "summary": "migrate to TypeScript strict mode across src/"
+    },
+    {
+      "ts": "2025-03-28T14:57:26.591Z",
+      "type": "content",
+      "summary": "add testimonials section with review schema"
     }
   ]
 }
