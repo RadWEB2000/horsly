@@ -5731,6 +5731,11 @@
       "ts": "2025-03-31T10:42:58.146Z",
       "type": "content",
       "summary": "refresh horse breed category descriptions"
+    },
+    {
+      "ts": "2025-03-31T14:45:31.562Z",
+      "type": "fix",
+      "summary": "correct filter state reset on route change"
     }
   ]
 }
