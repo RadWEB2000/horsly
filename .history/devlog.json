@@ -5721,6 +5721,11 @@
       "ts": "2025-03-28T14:57:26.591Z",
       "type": "content",
       "summary": "add testimonials section with review schema"
+    },
+    {
+      "ts": "2025-03-31T06:38:21.241Z",
+      "type": "perf",
+      "summary": "implement route prefetching for navigation links"
     }
   ]
 }
