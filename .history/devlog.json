@@ -5746,6 +5746,11 @@
       "ts": "2025-04-01T08:24:34.598Z",
       "type": "config",
       "summary": "configure bundle analyzer for production builds"
+    },
+    {
+      "ts": "2025-04-01T12:54:18.074Z",
+      "type": "content",
+      "summary": "add testimonials section with review schema"
     }
   ]
 }
