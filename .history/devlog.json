@@ -5741,6 +5741,11 @@
       "ts": "2025-03-31T16:05:22.618Z",
       "type": "feat",
       "summary": "implement custom 404 with SEO-friendly copy"
+    },
+    {
+      "ts": "2025-04-01T08:24:34.598Z",
+      "type": "config",
+      "summary": "configure bundle analyzer for production builds"
     }
   ]
 }
