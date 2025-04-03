@@ -5761,6 +5761,11 @@
       "ts": "2025-04-03T06:10:45.462Z",
       "type": "docs",
       "summary": "document structured data schema conventions"
+    },
+    {
+      "ts": "2025-04-03T15:59:09.036Z",
+      "type": "feat",
+      "summary": "implement custom 404 with SEO-friendly copy"
     }
   ]
 }
