@@ -5756,6 +5756,11 @@
       "ts": "2025-04-01T14:50:28.016Z",
       "type": "feat",
       "summary": "implement advanced search with faceted filters"
+    },
+    {
+      "ts": "2025-04-03T06:10:45.462Z",
+      "type": "docs",
+      "summary": "document structured data schema conventions"
     }
   ]
 }
