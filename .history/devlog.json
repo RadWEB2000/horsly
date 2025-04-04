@@ -5771,6 +5771,11 @@
       "ts": "2025-04-04T09:54:27.522Z",
       "type": "fix",
       "summary": "fix Open Graph image dimensions for Twitter cards"
+    },
+    {
+      "ts": "2025-04-04T13:17:16.527Z",
+      "type": "perf",
+      "summary": "optimize critical rendering path for product pages"
     }
   ]
 }
