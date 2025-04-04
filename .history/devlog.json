@@ -5766,6 +5766,11 @@
       "ts": "2025-04-03T15:59:09.036Z",
       "type": "feat",
       "summary": "implement custom 404 with SEO-friendly copy"
+    },
+    {
+      "ts": "2025-04-04T09:54:27.522Z",
+      "type": "fix",
+      "summary": "fix Open Graph image dimensions for Twitter cards"
     }
   ]
 }
