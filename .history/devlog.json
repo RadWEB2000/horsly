@@ -5776,6 +5776,11 @@
       "ts": "2025-04-04T13:17:16.527Z",
       "type": "perf",
       "summary": "optimize critical rendering path for product pages"
+    },
+    {
+      "ts": "2025-04-06T08:31:22.378Z",
+      "type": "fix",
+      "summary": "fix z-index overlap in mobile navigation menu"
     }
   ]
 }
