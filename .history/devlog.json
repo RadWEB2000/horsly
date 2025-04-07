@@ -5786,6 +5786,11 @@
       "ts": "2025-04-07T08:43:21.916Z",
       "type": "docs",
       "summary": "document structured data schema conventions"
+    },
+    {
+      "ts": "2025-04-07T10:32:32.313Z",
+      "type": "perf",
+      "summary": "reduce LCP on homepage by inlining critical CSS"
     }
   ]
 }
