@@ -5781,6 +5781,11 @@
       "ts": "2025-04-06T08:31:22.378Z",
       "type": "fix",
       "summary": "fix z-index overlap in mobile navigation menu"
+    },
+    {
+      "ts": "2025-04-07T08:43:21.916Z",
+      "type": "docs",
+      "summary": "document structured data schema conventions"
     }
   ]
 }
