@@ -5791,6 +5791,11 @@
       "ts": "2025-04-07T10:32:32.313Z",
       "type": "perf",
       "summary": "reduce LCP on homepage by inlining critical CSS"
+    },
+    {
+      "ts": "2025-04-08T08:16:15.672Z",
+      "type": "docs",
+      "summary": "document canonical URL strategy in AGENTS.md"
     }
   ]
 }
