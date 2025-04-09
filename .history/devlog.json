@@ -5796,6 +5796,11 @@
       "ts": "2025-04-08T08:16:15.672Z",
       "type": "docs",
       "summary": "document canonical URL strategy in AGENTS.md"
+    },
+    {
+      "ts": "2025-04-09T07:10:13.328Z",
+      "type": "content",
+      "summary": "add FAQ content for main service pages"
     }
   ]
 }
