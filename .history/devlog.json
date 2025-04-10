@@ -5806,6 +5806,11 @@
       "ts": "2025-04-10T14:27:11.301Z",
       "type": "feat",
       "summary": "implement lazy loading for stable gallery images"
+    },
+    {
+      "ts": "2025-04-10T15:32:04.519Z",
+      "type": "fix",
+      "summary": "correct currency formatting for non-PLN locales"
     }
   ]
 }
