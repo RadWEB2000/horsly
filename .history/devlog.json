@@ -5811,6 +5811,11 @@
       "ts": "2025-04-10T15:32:04.519Z",
       "type": "fix",
       "summary": "correct currency formatting for non-PLN locales"
+    },
+    {
+      "ts": "2025-04-11T15:19:01.965Z",
+      "type": "feat",
+      "summary": "add competition results table"
     }
   ]
 }
