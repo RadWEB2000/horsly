@@ -5816,6 +5816,11 @@
       "ts": "2025-04-11T15:19:01.965Z",
       "type": "feat",
       "summary": "add competition results table"
+    },
+    {
+      "ts": "2025-04-11T15:29:53.874Z",
+      "type": "refactor",
+      "summary": "refactor horse schema to extend base Article type"
     }
   ]
 }
