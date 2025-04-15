@@ -5831,6 +5831,11 @@
       "ts": "2025-04-15T09:43:24.758Z",
       "type": "fix",
       "summary": "resolve infinite redirect in canonical middleware"
+    },
+    {
+      "ts": "2025-04-15T14:46:52.766Z",
+      "type": "config",
+      "summary": "configure trailing slash behavior globally"
     }
   ]
 }
