@@ -5821,6 +5821,11 @@
       "ts": "2025-04-11T15:29:53.874Z",
       "type": "refactor",
       "summary": "refactor horse schema to extend base Article type"
+    },
+    {
+      "ts": "2025-04-15T07:16:48.758Z",
+      "type": "refactor",
+      "summary": "consolidate theme tokens into design system config"
     }
   ]
 }
