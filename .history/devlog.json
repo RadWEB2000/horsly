@@ -5826,6 +5826,11 @@
       "ts": "2025-04-15T07:16:48.758Z",
       "type": "refactor",
       "summary": "consolidate theme tokens into design system config"
+    },
+    {
+      "ts": "2025-04-15T09:43:24.758Z",
+      "type": "fix",
+      "summary": "resolve infinite redirect in canonical middleware"
     }
   ]
 }
