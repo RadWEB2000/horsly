@@ -5841,6 +5841,11 @@
       "ts": "2025-04-15T15:11:28.711Z",
       "type": "perf",
       "summary": "implement service worker for offline map tiles"
+    },
+    {
+      "ts": "2025-04-15T15:20:17.315Z",
+      "type": "fix",
+      "summary": "fix memory leak in WebSocket auction connection"
     }
   ]
 }
