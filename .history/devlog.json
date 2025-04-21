@@ -5866,6 +5866,11 @@
       "ts": "2025-04-21T09:51:23.249Z",
       "type": "feat",
       "summary": "add news feed with article schema"
+    },
+    {
+      "ts": "2025-04-21T15:36:38.866Z",
+      "type": "content",
+      "summary": "refresh horse breed category descriptions"
     }
   ]
 }
