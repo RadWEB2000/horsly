@@ -5856,6 +5856,11 @@
       "ts": "2025-04-19T13:51:37.287Z",
       "type": "refactor",
       "summary": "replace class components with function components"
+    },
+    {
+      "ts": "2025-04-21T06:08:54.117Z",
+      "type": "fix",
+      "summary": "fix missing alt attributes on gallery images"
     }
   ]
 }
