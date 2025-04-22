@@ -5876,6 +5876,11 @@
       "ts": "2025-04-21T16:27:21.721Z",
       "type": "docs",
       "summary": "add API documentation for SEO utility functions"
+    },
+    {
+      "ts": "2025-04-22T06:05:20.530Z",
+      "type": "feat",
+      "summary": "add trainer profile pages with schema markup"
     }
   ]
 }
