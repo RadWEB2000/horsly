@@ -5906,6 +5906,11 @@
       "ts": "2025-04-24T09:38:22.502Z",
       "type": "docs",
       "summary": "document sitemap generation and regeneration process"
+    },
+    {
+      "ts": "2025-04-24T16:01:03.694Z",
+      "type": "feat",
+      "summary": "add hreflang support for pl/en/de locales"
     }
   ]
 }
