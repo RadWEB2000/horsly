@@ -5911,6 +5911,11 @@
       "ts": "2025-04-24T16:01:03.694Z",
       "type": "feat",
       "summary": "add hreflang support for pl/en/de locales"
+    },
+    {
+      "ts": "2025-04-28T07:00:00.130Z",
+      "type": "content",
+      "summary": "refresh About page structured content"
     }
   ]
 }
