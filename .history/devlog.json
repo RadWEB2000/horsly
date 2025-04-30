@@ -5926,6 +5926,11 @@
       "ts": "2025-04-29T15:57:24.233Z",
       "type": "feat",
       "summary": "add video gallery for competition replays"
+    },
+    {
+      "ts": "2025-04-30T11:47:46.482Z",
+      "type": "fix",
+      "summary": "correct filter state reset on route change"
     }
   ]
 }
