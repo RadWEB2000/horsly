@@ -5931,6 +5931,11 @@
       "ts": "2025-04-30T11:47:46.482Z",
       "type": "fix",
       "summary": "correct filter state reset on route change"
+    },
+    {
+      "ts": "2025-05-02T10:38:40.792Z",
+      "type": "feat",
+      "summary": "implement auction listing with bidding metadata"
     }
   ]
 }
