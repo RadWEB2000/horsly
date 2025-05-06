@@ -5971,6 +5971,11 @@
       "ts": "2025-05-06T08:50:44.757Z",
       "type": "content",
       "summary": "update homepage meta description and H1 copy"
+    },
+    {
+      "ts": "2025-05-06T10:23:43.261Z",
+      "type": "refactor",
+      "summary": "migrate meta tag logic to useSeoMeta hook"
     }
   ]
 }
