@@ -5976,6 +5976,11 @@
       "ts": "2025-05-06T10:23:43.261Z",
       "type": "refactor",
       "summary": "migrate meta tag logic to useSeoMeta hook"
+    },
+    {
+      "ts": "2025-05-06T10:45:10.196Z",
+      "type": "refactor",
+      "summary": "refactor sitemap generator to use async generator"
     }
   ]
 }
