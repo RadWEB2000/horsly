@@ -5991,6 +5991,11 @@
       "ts": "2025-05-07T08:06:30.479Z",
       "type": "feat",
       "summary": "add hreflang support for pl/en/de locales"
+    },
+    {
+      "ts": "2025-05-07T08:19:45.216Z",
+      "type": "feat",
+      "summary": "add print-friendly styles for horse passports"
     }
   ]
 }
