@@ -5986,6 +5986,11 @@
       "ts": "2025-05-06T11:06:33.552Z",
       "type": "fix",
       "summary": "correct filter state reset on route change"
+    },
+    {
+      "ts": "2025-05-07T08:06:30.479Z",
+      "type": "feat",
+      "summary": "add hreflang support for pl/en/de locales"
     }
   ]
 }
