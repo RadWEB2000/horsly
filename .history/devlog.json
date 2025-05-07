@@ -5996,6 +5996,11 @@
       "ts": "2025-05-07T08:19:45.216Z",
       "type": "feat",
       "summary": "add print-friendly styles for horse passports"
+    },
+    {
+      "ts": "2025-05-07T13:22:01.641Z",
+      "type": "fix",
+      "summary": "resolve canonical URL duplication on paginated pages"
     }
   ]
 }
