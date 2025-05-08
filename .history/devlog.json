@@ -6001,6 +6001,11 @@
       "ts": "2025-05-07T13:22:01.641Z",
       "type": "fix",
       "summary": "resolve canonical URL duplication on paginated pages"
+    },
+    {
+      "ts": "2025-05-08T06:29:37.608Z",
+      "type": "fix",
+      "summary": "resolve 404 for dynamically generated sitemaps"
     }
   ]
 }
