@@ -6011,6 +6011,11 @@
       "ts": "2025-05-08T08:31:44.580Z",
       "type": "config",
       "summary": "configure biome lint rules for project conventions"
+    },
+    {
+      "ts": "2025-05-09T07:24:14.964Z",
+      "type": "perf",
+      "summary": "optimize third-party map tile loading strategy"
     }
   ]
 }
