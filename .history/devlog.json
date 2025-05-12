@@ -6021,6 +6021,11 @@
       "ts": "2025-05-09T10:48:54.789Z",
       "type": "content",
       "summary": "update pricing page SEO copy"
+    },
+    {
+      "ts": "2025-05-12T07:25:27.129Z",
+      "type": "fix",
+      "summary": "fix duplicate meta description on category pages"
     }
   ]
 }
