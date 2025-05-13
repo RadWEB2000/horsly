@@ -6046,6 +6046,11 @@
       "ts": "2025-05-13T08:49:29.624Z",
       "type": "feat",
       "summary": "implement custom 404 with SEO-friendly copy"
+    },
+    {
+      "ts": "2025-05-13T09:35:28.046Z",
+      "type": "feat",
+      "summary": "add trainer profile pages with schema markup"
     }
   ]
 }
