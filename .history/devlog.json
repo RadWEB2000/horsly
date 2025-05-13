@@ -6051,6 +6051,11 @@
       "ts": "2025-05-13T09:35:28.046Z",
       "type": "feat",
       "summary": "add trainer profile pages with schema markup"
+    },
+    {
+      "ts": "2025-05-13T10:34:48.002Z",
+      "type": "perf",
+      "summary": "optimize third-party map tile loading strategy"
     }
   ]
 }
