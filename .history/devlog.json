@@ -6041,6 +6041,11 @@
       "ts": "2025-05-12T15:48:51.606Z",
       "type": "feat",
       "summary": "add interactive arena diagram component"
+    },
+    {
+      "ts": "2025-05-13T08:49:29.624Z",
+      "type": "feat",
+      "summary": "implement custom 404 with SEO-friendly copy"
     }
   ]
 }
