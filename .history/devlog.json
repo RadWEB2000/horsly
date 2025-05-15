@@ -6076,6 +6076,11 @@
       "ts": "2025-05-15T09:17:33.051Z",
       "type": "docs",
       "summary": "add README section for local development setup"
+    },
+    {
+      "ts": "2025-05-15T12:38:49.803Z",
+      "type": "refactor",
+      "summary": "consolidate theme tokens into design system config"
     }
   ]
 }
