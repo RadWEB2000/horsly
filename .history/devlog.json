@@ -6066,6 +6066,11 @@
       "ts": "2025-05-14T10:54:44.502Z",
       "type": "content",
       "summary": "revise stable listing description template"
+    },
+    {
+      "ts": "2025-05-15T09:14:52.280Z",
+      "type": "perf",
+      "summary": "optimize font loading with preconnect and display swap"
     }
   ]
 }
