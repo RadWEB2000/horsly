@@ -6081,6 +6081,11 @@
       "ts": "2025-05-15T12:38:49.803Z",
       "type": "refactor",
       "summary": "consolidate theme tokens into design system config"
+    },
+    {
+      "ts": "2025-05-19T09:46:36.278Z",
+      "type": "feat",
+      "summary": "implement comparison tool for horse breeds"
     }
   ]
 }
