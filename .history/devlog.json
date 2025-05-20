@@ -6086,6 +6086,11 @@
       "ts": "2025-05-19T09:46:36.278Z",
       "type": "feat",
       "summary": "implement comparison tool for horse breeds"
+    },
+    {
+      "ts": "2025-05-20T06:26:50.818Z",
+      "type": "refactor",
+      "summary": "extract SEO utilities to shared lib/seo module"
     }
   ]
 }
