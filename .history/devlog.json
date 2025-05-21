@@ -6101,6 +6101,11 @@
       "ts": "2025-05-21T11:26:16.218Z",
       "type": "perf",
       "summary": "optimize critical rendering path for product pages"
+    },
+    {
+      "ts": "2025-05-21T15:19:31.193Z",
+      "type": "feat",
+      "summary": "add print-friendly styles for horse passports"
     }
   ]
 }
