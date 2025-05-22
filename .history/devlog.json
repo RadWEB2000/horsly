@@ -6121,6 +6121,11 @@
       "ts": "2025-05-22T11:51:32.680Z",
       "type": "content",
       "summary": "update competition category naming conventions"
+    },
+    {
+      "ts": "2025-05-22T14:21:02.001Z",
+      "type": "config",
+      "summary": "update PostCSS config for custom breakpoints"
     }
   ]
 }
