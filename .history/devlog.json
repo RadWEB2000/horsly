@@ -6106,6 +6106,11 @@
       "ts": "2025-05-21T15:19:31.193Z",
       "type": "feat",
       "summary": "add print-friendly styles for horse passports"
+    },
+    {
+      "ts": "2025-05-22T07:41:03.530Z",
+      "type": "feat",
+      "summary": "implement related listings recommendation block"
     }
   ]
 }
