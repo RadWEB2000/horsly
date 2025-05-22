@@ -6116,6 +6116,11 @@
       "ts": "2025-05-22T07:55:59.868Z",
       "type": "refactor",
       "summary": "extract shared map utilities to lib/geo"
+    },
+    {
+      "ts": "2025-05-22T11:51:32.680Z",
+      "type": "content",
+      "summary": "update competition category naming conventions"
     }
   ]
 }
