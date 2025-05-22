@@ -6111,6 +6111,11 @@
       "ts": "2025-05-22T07:41:03.530Z",
       "type": "feat",
       "summary": "implement related listings recommendation block"
+    },
+    {
+      "ts": "2025-05-22T07:55:59.868Z",
+      "type": "refactor",
+      "summary": "extract shared map utilities to lib/geo"
     }
   ]
 }
