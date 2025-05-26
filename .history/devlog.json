@@ -6126,6 +6126,11 @@
       "ts": "2025-05-22T14:21:02.001Z",
       "type": "config",
       "summary": "update PostCSS config for custom breakpoints"
+    },
+    {
+      "ts": "2025-05-26T08:30:25.956Z",
+      "type": "perf",
+      "summary": "reduce LCP on homepage by inlining critical CSS"
     }
   ]
 }
