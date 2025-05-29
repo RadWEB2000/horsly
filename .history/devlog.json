@@ -6151,6 +6151,11 @@
       "ts": "2025-05-29T08:03:14.113Z",
       "type": "fix",
       "summary": "fix z-index overlap in mobile navigation menu"
+    },
+    {
+      "ts": "2025-05-29T10:34:22.696Z",
+      "type": "perf",
+      "summary": "implement route prefetching for navigation links"
     }
   ]
 }
