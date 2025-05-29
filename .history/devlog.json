@@ -6146,6 +6146,11 @@
       "ts": "2025-05-28T12:32:55.504Z",
       "type": "feat",
       "summary": "add competition results table"
+    },
+    {
+      "ts": "2025-05-29T08:03:14.113Z",
+      "type": "fix",
+      "summary": "fix z-index overlap in mobile navigation menu"
     }
   ]
 }
