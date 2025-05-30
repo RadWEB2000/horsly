@@ -6166,6 +6166,11 @@
       "ts": "2025-05-29T11:52:33.146Z",
       "type": "content",
       "summary": "update newsletter signup copy and CTA"
+    },
+    {
+      "ts": "2025-05-30T16:05:01.846Z",
+      "type": "config",
+      "summary": "configure next/image allowed remote domains"
     }
   ]
 }
