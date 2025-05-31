@@ -6176,6 +6176,11 @@
       "ts": "2025-05-31T10:35:11.263Z",
       "type": "fix",
       "summary": "resolve hydration mismatch in auction countdown"
+    },
+    {
+      "ts": "2025-05-31T11:31:00.152Z",
+      "type": "perf",
+      "summary": "implement static generation for blog archive pages"
     }
   ]
 }
