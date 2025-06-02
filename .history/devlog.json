@@ -6191,6 +6191,11 @@
       "ts": "2025-06-02T06:07:30.310Z",
       "type": "feat",
       "summary": "implement horse pedigree viewer component"
+    },
+    {
+      "ts": "2025-06-02T06:32:27.611Z",
+      "type": "config",
+      "summary": "add environment variable schema validation"
     }
   ]
 }
