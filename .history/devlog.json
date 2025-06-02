@@ -6201,6 +6201,11 @@
       "ts": "2025-06-02T11:34:30.779Z",
       "type": "docs",
       "summary": "document sitemap generation and regeneration process"
+    },
+    {
+      "ts": "2025-06-02T16:20:10.990Z",
+      "type": "refactor",
+      "summary": "refactor filter logic to use URL search params"
     }
   ]
 }
