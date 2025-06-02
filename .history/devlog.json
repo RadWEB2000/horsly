@@ -6186,6 +6186,11 @@
       "ts": "2025-06-01T10:23:44.653Z",
       "type": "config",
       "summary": "configure next/image allowed remote domains"
+    },
+    {
+      "ts": "2025-06-02T06:07:30.310Z",
+      "type": "feat",
+      "summary": "implement horse pedigree viewer component"
     }
   ]
 }
