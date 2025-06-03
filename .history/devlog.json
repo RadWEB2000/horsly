@@ -6206,6 +6206,11 @@
       "ts": "2025-06-02T16:20:10.990Z",
       "type": "refactor",
       "summary": "refactor filter logic to use URL search params"
+    },
+    {
+      "ts": "2025-06-03T11:15:21.241Z",
+      "type": "content",
+      "summary": "add case study content for homepage hero section"
     }
   ]
 }
