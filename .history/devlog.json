@@ -6211,6 +6211,11 @@
       "ts": "2025-06-03T11:15:21.241Z",
       "type": "content",
       "summary": "add case study content for homepage hero section"
+    },
+    {
+      "ts": "2025-06-03T13:29:12.686Z",
+      "type": "feat",
+      "summary": "implement advanced search with faceted filters"
     }
   ]
 }
