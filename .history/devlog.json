@@ -6241,6 +6241,11 @@
       "ts": "2025-06-05T13:53:56.016Z",
       "type": "feat",
       "summary": "implement dynamic robots.txt generation"
+    },
+    {
+      "ts": "2025-06-05T14:33:32.112Z",
+      "type": "feat",
+      "summary": "implement paginated blog archive with ISR"
     }
   ]
 }
