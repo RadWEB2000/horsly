@@ -6221,6 +6221,11 @@
       "ts": "2025-06-03T14:57:46.156Z",
       "type": "refactor",
       "summary": "migrate fetch calls to typed api client wrapper"
+    },
+    {
+      "ts": "2025-06-05T06:35:41.555Z",
+      "type": "config",
+      "summary": "configure biome lint rules for project conventions"
     }
   ]
 }
