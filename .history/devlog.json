@@ -6231,6 +6231,11 @@
       "ts": "2025-06-05T07:51:22.044Z",
       "type": "refactor",
       "summary": "consolidate theme tokens into design system config"
+    },
+    {
+      "ts": "2025-06-05T07:52:03.865Z",
+      "type": "content",
+      "summary": "update product page keyword targeting"
     }
   ]
 }
