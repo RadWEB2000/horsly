@@ -6226,6 +6226,11 @@
       "ts": "2025-06-05T06:35:41.555Z",
       "type": "config",
       "summary": "configure biome lint rules for project conventions"
+    },
+    {
+      "ts": "2025-06-05T07:51:22.044Z",
+      "type": "refactor",
+      "summary": "consolidate theme tokens into design system config"
     }
   ]
 }
