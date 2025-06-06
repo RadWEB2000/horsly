@@ -6251,6 +6251,11 @@
       "ts": "2025-06-06T06:40:30.722Z",
       "type": "config",
       "summary": "configure next/image allowed remote domains"
+    },
+    {
+      "ts": "2025-06-06T09:34:04.632Z",
+      "type": "content",
+      "summary": "update competition category naming conventions"
     }
   ]
 }
