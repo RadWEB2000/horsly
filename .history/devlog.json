@@ -6266,6 +6266,11 @@
       "ts": "2025-06-06T10:03:22.568Z",
       "type": "feat",
       "summary": "add event calendar for equestrian competitions"
+    },
+    {
+      "ts": "2025-06-06T11:01:47.607Z",
+      "type": "refactor",
+      "summary": "extract shared map utilities to lib/geo"
     }
   ]
 }
