@@ -6256,6 +6256,11 @@
       "ts": "2025-06-06T09:34:04.632Z",
       "type": "content",
       "summary": "update competition category naming conventions"
+    },
+    {
+      "ts": "2025-06-06T09:34:58.326Z",
+      "type": "content",
+      "summary": "add case study content for homepage hero section"
     }
   ]
 }
