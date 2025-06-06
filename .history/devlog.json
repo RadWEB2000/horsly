@@ -6261,6 +6261,11 @@
       "ts": "2025-06-06T09:34:58.326Z",
       "type": "content",
       "summary": "add case study content for homepage hero section"
+    },
+    {
+      "ts": "2025-06-06T10:03:22.568Z",
+      "type": "feat",
+      "summary": "add event calendar for equestrian competitions"
     }
   ]
 }
