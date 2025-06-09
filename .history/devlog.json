@@ -6276,6 +6276,11 @@
       "ts": "2025-06-09T06:59:03.569Z",
       "type": "fix",
       "summary": "fix trailing slash inconsistency in dynamic routes"
+    },
+    {
+      "ts": "2025-06-09T09:23:16.153Z",
+      "type": "fix",
+      "summary": "resolve 404 for dynamically generated sitemaps"
     }
   ]
 }
