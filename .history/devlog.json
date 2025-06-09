@@ -6271,6 +6271,11 @@
       "ts": "2025-06-06T11:01:47.607Z",
       "type": "refactor",
       "summary": "extract shared map utilities to lib/geo"
+    },
+    {
+      "ts": "2025-06-09T06:59:03.569Z",
+      "type": "fix",
+      "summary": "fix trailing slash inconsistency in dynamic routes"
     }
   ]
 }
