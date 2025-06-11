@@ -6286,6 +6286,11 @@
       "ts": "2025-06-11T07:14:23.464Z",
       "type": "config",
       "summary": "update PostCSS config for custom breakpoints"
+    },
+    {
+      "ts": "2025-06-11T08:35:04.134Z",
+      "type": "perf",
+      "summary": "optimize font loading with preconnect and display swap"
     }
   ]
 }
