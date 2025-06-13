@@ -6311,6 +6311,11 @@
       "ts": "2025-06-13T11:36:08.002Z",
       "type": "fix",
       "summary": "resolve hydration mismatch in auction countdown"
+    },
+    {
+      "ts": "2025-06-13T16:11:50.688Z",
+      "type": "feat",
+      "summary": "add news feed with article schema"
     }
   ]
 }
