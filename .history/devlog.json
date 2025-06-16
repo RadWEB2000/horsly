@@ -6321,6 +6321,11 @@
       "ts": "2025-06-14T14:50:05.559Z",
       "type": "fix",
       "summary": "resolve canonical URL duplication on paginated pages"
+    },
+    {
+      "ts": "2025-06-16T08:09:25.312Z",
+      "type": "feat",
+      "summary": "implement lazy loading for stable gallery images"
     }
   ]
 }
