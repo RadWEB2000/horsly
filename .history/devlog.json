@@ -6336,6 +6336,11 @@
       "ts": "2025-06-16T14:33:30.081Z",
       "type": "feat",
       "summary": "implement lazy loading for stable gallery images"
+    },
+    {
+      "ts": "2025-06-17T11:08:59.094Z",
+      "type": "config",
+      "summary": "configure next/image allowed remote domains"
     }
   ]
 }
