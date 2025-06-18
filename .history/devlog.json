@@ -6351,6 +6351,11 @@
       "ts": "2025-06-18T06:53:58.331Z",
       "type": "feat",
       "summary": "add dark mode support with system preference detection"
+    },
+    {
+      "ts": "2025-06-18T07:43:29.492Z",
+      "type": "content",
+      "summary": "update author bio metadata for trainers"
     }
   ]
 }
