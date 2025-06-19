@@ -6366,6 +6366,11 @@
       "ts": "2025-06-18T15:18:37.046Z",
       "type": "feat",
       "summary": "implement custom 404 with SEO-friendly copy"
+    },
+    {
+      "ts": "2025-06-19T07:44:33.313Z",
+      "type": "refactor",
+      "summary": "consolidate Open Graph defaults into config object"
     }
   ]
 }
