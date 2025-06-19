@@ -6376,6 +6376,11 @@
       "ts": "2025-06-19T07:46:02.236Z",
       "type": "feat",
       "summary": "add event calendar for equestrian competitions"
+    },
+    {
+      "ts": "2025-06-19T13:51:09.301Z",
+      "type": "fix",
+      "summary": "resolve infinite redirect in canonical middleware"
     }
   ]
 }
