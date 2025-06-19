@@ -6381,6 +6381,11 @@
       "ts": "2025-06-19T13:51:09.301Z",
       "type": "fix",
       "summary": "resolve infinite redirect in canonical middleware"
+    },
+    {
+      "ts": "2025-06-19T16:24:46.226Z",
+      "type": "refactor",
+      "summary": "refactor sitemap generator to use async generator"
     }
   ]
 }
