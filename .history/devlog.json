@@ -6371,6 +6371,11 @@
       "ts": "2025-06-19T07:44:33.313Z",
       "type": "refactor",
       "summary": "consolidate Open Graph defaults into config object"
+    },
+    {
+      "ts": "2025-06-19T07:46:02.236Z",
+      "type": "feat",
+      "summary": "add event calendar for equestrian competitions"
     }
   ]
 }
