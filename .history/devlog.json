@@ -6406,6 +6406,11 @@
       "ts": "2025-06-24T06:10:16.400Z",
       "type": "fix",
       "summary": "resolve CSP violation for third-party map tiles"
+    },
+    {
+      "ts": "2025-06-25T09:15:33.166Z",
+      "type": "fix",
+      "summary": "fix race condition in geolocation map component"
     }
   ]
 }
