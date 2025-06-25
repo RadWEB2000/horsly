@@ -6411,6 +6411,11 @@
       "ts": "2025-06-25T09:15:33.166Z",
       "type": "fix",
       "summary": "fix race condition in geolocation map component"
+    },
+    {
+      "ts": "2025-06-25T10:32:49.909Z",
+      "type": "content",
+      "summary": "refresh footer links and contact information"
     }
   ]
 }
