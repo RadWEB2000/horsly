@@ -6431,6 +6431,11 @@
       "ts": "2025-06-25T12:55:20.008Z",
       "type": "docs",
       "summary": "add deployment checklist to project wiki"
+    },
+    {
+      "ts": "2025-06-26T15:53:37.581Z",
+      "type": "fix",
+      "summary": "fix broken image URLs in social preview cards"
     }
   ]
 }
