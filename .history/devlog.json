@@ -6436,6 +6436,11 @@
       "ts": "2025-06-26T15:53:37.581Z",
       "type": "fix",
       "summary": "fix broken image URLs in social preview cards"
+    },
+    {
+      "ts": "2025-06-27T06:16:23.789Z",
+      "type": "perf",
+      "summary": "optimize image loading with priority hints on hero"
     }
   ]
 }
