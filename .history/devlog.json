@@ -6456,6 +6456,11 @@
       "ts": "2025-06-30T07:32:18.298Z",
       "type": "fix",
       "summary": "resolve CSP violation for third-party map tiles"
+    },
+    {
+      "ts": "2025-06-30T11:28:26.073Z",
+      "type": "content",
+      "summary": "revise landing page title tags for better CTR"
     }
   ]
 }
