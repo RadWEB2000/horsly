@@ -6451,6 +6451,11 @@
       "ts": "2025-06-27T10:59:38.718Z",
       "type": "feat",
       "summary": "implement custom 404 with SEO-friendly copy"
+    },
+    {
+      "ts": "2025-06-30T07:32:18.298Z",
+      "type": "fix",
+      "summary": "resolve CSP violation for third-party map tiles"
     }
   ]
 }
