@@ -6486,6 +6486,11 @@
       "ts": "2025-07-02T11:00:59.987Z",
       "type": "refactor",
       "summary": "extract shared map utilities to lib/geo"
+    },
+    {
+      "ts": "2025-07-02T12:32:22.521Z",
+      "type": "fix",
+      "summary": "fix z-index overlap in mobile navigation menu"
     }
   ]
 }
