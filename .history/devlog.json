@@ -6476,6 +6476,11 @@
       "ts": "2025-07-02T06:33:15.718Z",
       "type": "refactor",
       "summary": "replace magic strings with typed enum constants"
+    },
+    {
+      "ts": "2025-07-02T09:26:40.376Z",
+      "type": "content",
+      "summary": "refresh About page structured content"
     }
   ]
 }
