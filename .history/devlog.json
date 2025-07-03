@@ -6501,6 +6501,11 @@
       "ts": "2025-07-03T08:05:43.338Z",
       "type": "feat",
       "summary": "add Open Graph image generation for listings"
+    },
+    {
+      "ts": "2025-07-03T10:37:51.724Z",
+      "type": "feat",
+      "summary": "implement search engine preview component"
     }
   ]
 }
