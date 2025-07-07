@@ -6516,6 +6516,11 @@
       "ts": "2025-07-07T08:00:33.320Z",
       "type": "fix",
       "summary": "correct structured data JSON-LD syntax error in product schema"
+    },
+    {
+      "ts": "2025-07-07T08:33:10.882Z",
+      "type": "fix",
+      "summary": "correct structured data JSON-LD syntax error in product schema"
     }
   ]
 }
