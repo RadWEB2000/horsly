@@ -6521,6 +6521,11 @@
       "ts": "2025-07-07T08:33:10.882Z",
       "type": "fix",
       "summary": "correct structured data JSON-LD syntax error in product schema"
+    },
+    {
+      "ts": "2025-07-07T10:15:46.755Z",
+      "type": "fix",
+      "summary": "fix sitemap URL encoding for Polish characters"
     }
   ]
 }
