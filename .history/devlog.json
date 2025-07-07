@@ -6511,6 +6511,11 @@
       "ts": "2025-07-04T12:42:58.306Z",
       "type": "refactor",
       "summary": "migrate config to zod-validated schema"
+    },
+    {
+      "ts": "2025-07-07T08:00:33.320Z",
+      "type": "fix",
+      "summary": "correct structured data JSON-LD syntax error in product schema"
     }
   ]
 }
