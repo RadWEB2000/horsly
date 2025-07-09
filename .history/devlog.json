@@ -6541,6 +6541,11 @@
       "ts": "2025-07-08T11:44:28.294Z",
       "type": "config",
       "summary": "configure trailing slash behavior globally"
+    },
+    {
+      "ts": "2025-07-09T09:50:05.203Z",
+      "type": "fix",
+      "summary": "fix sitemap URL encoding for Polish characters"
     }
   ]
 }
