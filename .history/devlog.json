@@ -6561,6 +6561,11 @@
       "ts": "2025-07-10T07:03:15.748Z",
       "type": "fix",
       "summary": "resolve 404 for dynamically generated sitemaps"
+    },
+    {
+      "ts": "2025-07-10T08:20:23.152Z",
+      "type": "refactor",
+      "summary": "refactor horse schema to extend base Article type"
     }
   ]
 }
