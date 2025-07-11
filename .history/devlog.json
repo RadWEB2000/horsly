@@ -6581,6 +6581,11 @@
       "ts": "2025-07-11T12:16:54.631Z",
       "type": "feat",
       "summary": "implement stable locator map with geolocation"
+    },
+    {
+      "ts": "2025-07-11T13:23:43.267Z",
+      "type": "refactor",
+      "summary": "refactor horse schema to extend base Article type"
     }
   ]
 }
