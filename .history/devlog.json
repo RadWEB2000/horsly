@@ -6576,6 +6576,11 @@
       "ts": "2025-07-11T09:52:02.120Z",
       "type": "feat",
       "summary": "implement paginated blog archive with ISR"
+    },
+    {
+      "ts": "2025-07-11T12:16:54.631Z",
+      "type": "feat",
+      "summary": "implement stable locator map with geolocation"
     }
   ]
 }
