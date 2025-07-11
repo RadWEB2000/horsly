@@ -6566,6 +6566,11 @@
       "ts": "2025-07-10T08:20:23.152Z",
       "type": "refactor",
       "summary": "refactor horse schema to extend base Article type"
+    },
+    {
+      "ts": "2025-07-11T06:00:20.232Z",
+      "type": "refactor",
+      "summary": "migrate fetch calls to typed api client wrapper"
     }
   ]
 }
