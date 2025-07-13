@@ -6586,6 +6586,11 @@
       "ts": "2025-07-11T13:23:43.267Z",
       "type": "refactor",
       "summary": "refactor horse schema to extend base Article type"
+    },
+    {
+      "ts": "2025-07-13T06:56:36.210Z",
+      "type": "perf",
+      "summary": "optimize critical rendering path for product pages"
     }
   ]
 }
