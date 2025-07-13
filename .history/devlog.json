@@ -6596,6 +6596,11 @@
       "ts": "2025-07-13T07:25:14.126Z",
       "type": "fix",
       "summary": "correct sitemap lastmod date format to ISO 8601"
+    },
+    {
+      "ts": "2025-07-13T15:30:11.948Z",
+      "type": "fix",
+      "summary": "correct structured data JSON-LD syntax error in product schema"
     }
   ]
 }
