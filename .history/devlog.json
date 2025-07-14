@@ -6611,6 +6611,11 @@
       "ts": "2025-07-14T12:04:30.848Z",
       "type": "feat",
       "summary": "add Open Graph image generation for listings"
+    },
+    {
+      "ts": "2025-07-14T13:12:08.659Z",
+      "type": "fix",
+      "summary": "correct sitemap lastmod date format to ISO 8601"
     }
   ]
 }
