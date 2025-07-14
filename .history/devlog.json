@@ -6621,6 +6621,11 @@
       "ts": "2025-07-14T13:22:01.277Z",
       "type": "content",
       "summary": "add case study content for homepage hero section"
+    },
+    {
+      "ts": "2025-07-14T15:10:48.303Z",
+      "type": "refactor",
+      "summary": "migrate fetch calls to typed api client wrapper"
     }
   ]
 }
