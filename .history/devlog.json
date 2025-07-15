@@ -6636,6 +6636,11 @@
       "ts": "2025-07-15T08:22:40.183Z",
       "type": "feat",
       "summary": "implement JSON-LD product schema for shop items"
+    },
+    {
+      "ts": "2025-07-15T11:41:15.288Z",
+      "type": "feat",
+      "summary": "implement custom 404 with SEO-friendly copy"
     }
   ]
 }
