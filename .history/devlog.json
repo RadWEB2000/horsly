@@ -6631,6 +6631,11 @@
       "ts": "2025-07-15T07:16:45.208Z",
       "type": "perf",
       "summary": "optimize third-party map tile loading strategy"
+    },
+    {
+      "ts": "2025-07-15T08:22:40.183Z",
+      "type": "feat",
+      "summary": "implement JSON-LD product schema for shop items"
     }
   ]
 }
