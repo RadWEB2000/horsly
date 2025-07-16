@@ -6661,6 +6661,11 @@
       "ts": "2025-07-16T16:00:37.584Z",
       "type": "docs",
       "summary": "add inline JSDoc for useSeoMeta hook"
+    },
+    {
+      "ts": "2025-07-16T16:04:12.272Z",
+      "type": "fix",
+      "summary": "fix broken pagination on search results page"
     }
   ]
 }
