@@ -6646,6 +6646,11 @@
       "ts": "2025-07-15T15:54:30.020Z",
       "type": "refactor",
       "summary": "extract SEO utilities to shared lib/seo module"
+    },
+    {
+      "ts": "2025-07-16T08:53:50.635Z",
+      "type": "content",
+      "summary": "update product page keyword targeting"
     }
   ]
 }
