@@ -6656,6 +6656,11 @@
       "ts": "2025-07-16T15:21:08.578Z",
       "type": "fix",
       "summary": "fix missing meta viewport on mobile templates"
+    },
+    {
+      "ts": "2025-07-16T16:00:37.584Z",
+      "type": "docs",
+      "summary": "add inline JSDoc for useSeoMeta hook"
     }
   ]
 }
