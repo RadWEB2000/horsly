@@ -6651,6 +6651,11 @@
       "ts": "2025-07-16T08:53:50.635Z",
       "type": "content",
       "summary": "update product page keyword targeting"
+    },
+    {
+      "ts": "2025-07-16T15:21:08.578Z",
+      "type": "fix",
+      "summary": "fix missing meta viewport on mobile templates"
     }
   ]
 }
