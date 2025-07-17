@@ -6671,6 +6671,11 @@
       "ts": "2025-07-17T08:16:42.167Z",
       "type": "fix",
       "summary": "fix broken pagination on search results page"
+    },
+    {
+      "ts": "2025-07-17T12:23:17.329Z",
+      "type": "fix",
+      "summary": "fix sitemap URL encoding for Polish characters"
     }
   ]
 }
