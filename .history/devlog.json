@@ -6676,6 +6676,11 @@
       "ts": "2025-07-17T12:23:17.329Z",
       "type": "fix",
       "summary": "fix sitemap URL encoding for Polish characters"
+    },
+    {
+      "ts": "2025-07-18T08:58:12.297Z",
+      "type": "refactor",
+      "summary": "consolidate API error handling into interceptor"
     }
   ]
 }
