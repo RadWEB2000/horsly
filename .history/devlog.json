@@ -6691,6 +6691,11 @@
       "ts": "2025-07-21T07:01:51.649Z",
       "type": "fix",
       "summary": "fix trailing slash inconsistency in dynamic routes"
+    },
+    {
+      "ts": "2025-07-22T08:12:11.459Z",
+      "type": "perf",
+      "summary": "implement ISR with 24h revalidation for breed pages"
     }
   ]
 }
