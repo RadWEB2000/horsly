@@ -6696,6 +6696,11 @@
       "ts": "2025-07-22T08:12:11.459Z",
       "type": "perf",
       "summary": "implement ISR with 24h revalidation for breed pages"
+    },
+    {
+      "ts": "2025-07-23T10:22:14.397Z",
+      "type": "fix",
+      "summary": "fix sitemap URL encoding for Polish characters"
     }
   ]
 }
