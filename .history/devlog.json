@@ -6736,6 +6736,11 @@
       "ts": "2025-07-25T12:56:27.088Z",
       "type": "config",
       "summary": "configure Vercel edge network caching rules"
+    },
+    {
+      "ts": "2025-07-25T14:28:33.358Z",
+      "type": "config",
+      "summary": "configure bundle analyzer for production builds"
     }
   ]
 }
