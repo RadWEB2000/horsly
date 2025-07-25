@@ -6721,6 +6721,11 @@
       "ts": "2025-07-25T08:38:22.245Z",
       "type": "feat",
       "summary": "add video gallery for competition replays"
+    },
+    {
+      "ts": "2025-07-25T11:14:52.200Z",
+      "type": "content",
+      "summary": "update newsletter signup copy and CTA"
     }
   ]
 }
