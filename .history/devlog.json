@@ -6716,6 +6716,11 @@
       "ts": "2025-07-23T12:25:24.468Z",
       "type": "fix",
       "summary": "resolve 404 for dynamically generated sitemaps"
+    },
+    {
+      "ts": "2025-07-25T08:38:22.245Z",
+      "type": "feat",
+      "summary": "add video gallery for competition replays"
     }
   ]
 }
