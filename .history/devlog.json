@@ -6741,6 +6741,11 @@
       "ts": "2025-07-25T14:28:33.358Z",
       "type": "config",
       "summary": "configure bundle analyzer for production builds"
+    },
+    {
+      "ts": "2025-07-28T16:21:15.206Z",
+      "type": "perf",
+      "summary": "optimize critical rendering path for product pages"
     }
   ]
 }
