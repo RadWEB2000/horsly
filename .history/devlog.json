@@ -6746,6 +6746,11 @@
       "ts": "2025-07-28T16:21:15.206Z",
       "type": "perf",
       "summary": "optimize critical rendering path for product pages"
+    },
+    {
+      "ts": "2025-07-29T08:26:47.827Z",
+      "type": "content",
+      "summary": "update competition category naming conventions"
     }
   ]
 }
