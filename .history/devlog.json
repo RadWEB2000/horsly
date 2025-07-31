@@ -6761,6 +6761,11 @@
       "ts": "2025-07-30T15:07:12.451Z",
       "type": "fix",
       "summary": "resolve canonical URL duplication on paginated pages"
+    },
+    {
+      "ts": "2025-07-31T10:44:44.589Z",
+      "type": "fix",
+      "summary": "fix duplicate meta description on category pages"
     }
   ]
 }
