@@ -6791,6 +6791,11 @@
       "ts": "2025-08-01T10:21:01.718Z",
       "type": "fix",
       "summary": "fix z-index overlap in mobile navigation menu"
+    },
+    {
+      "ts": "2025-08-01T15:59:28.994Z",
+      "type": "feat",
+      "summary": "add print-friendly styles for horse passports"
     }
   ]
 }
