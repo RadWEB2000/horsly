@@ -6786,6 +6786,11 @@
       "ts": "2025-08-01T07:50:53.747Z",
       "type": "fix",
       "summary": "resolve CSP violation for third-party map tiles"
+    },
+    {
+      "ts": "2025-08-01T10:21:01.718Z",
+      "type": "fix",
+      "summary": "fix z-index overlap in mobile navigation menu"
     }
   ]
 }
