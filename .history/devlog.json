@@ -6796,6 +6796,11 @@
       "ts": "2025-08-01T15:59:28.994Z",
       "type": "feat",
       "summary": "add print-friendly styles for horse passports"
+    },
+    {
+      "ts": "2025-08-01T16:25:31.938Z",
+      "type": "fix",
+      "summary": "correct date formatting in event calendar"
     }
   ]
 }
