@@ -6801,6 +6801,11 @@
       "ts": "2025-08-01T16:25:31.938Z",
       "type": "fix",
       "summary": "correct date formatting in event calendar"
+    },
+    {
+      "ts": "2025-08-04T15:06:58.939Z",
+      "type": "fix",
+      "summary": "correct currency formatting for non-PLN locales"
     }
   ]
 }
