@@ -6806,6 +6806,11 @@
       "ts": "2025-08-04T15:06:58.939Z",
       "type": "fix",
       "summary": "correct currency formatting for non-PLN locales"
+    },
+    {
+      "ts": "2025-08-05T12:04:34.159Z",
+      "type": "feat",
+      "summary": "add social sharing component with OG metadata"
     }
   ]
 }
