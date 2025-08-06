@@ -6831,6 +6831,11 @@
       "ts": "2025-08-06T14:34:09.746Z",
       "type": "fix",
       "summary": "fix Open Graph image dimensions for Twitter cards"
+    },
+    {
+      "ts": "2025-08-06T14:35:48.814Z",
+      "type": "perf",
+      "summary": "reduce TTFB with Vercel edge caching on list routes"
     }
   ]
 }
