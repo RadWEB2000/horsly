@@ -6836,6 +6836,11 @@
       "ts": "2025-08-06T14:35:48.814Z",
       "type": "perf",
       "summary": "reduce TTFB with Vercel edge caching on list routes"
+    },
+    {
+      "ts": "2025-08-06T16:16:00.018Z",
+      "type": "feat",
+      "summary": "add hreflang support for pl/en/de locales"
     }
   ]
 }
