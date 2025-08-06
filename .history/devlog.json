@@ -6811,6 +6811,11 @@
       "ts": "2025-08-05T12:04:34.159Z",
       "type": "feat",
       "summary": "add social sharing component with OG metadata"
+    },
+    {
+      "ts": "2025-08-06T07:04:38.379Z",
+      "type": "refactor",
+      "summary": "extract canonical URL logic to middleware"
     }
   ]
 }
