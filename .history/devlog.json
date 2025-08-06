@@ -6821,6 +6821,11 @@
       "ts": "2025-08-06T11:48:40.387Z",
       "type": "refactor",
       "summary": "extract shared map utilities to lib/geo"
+    },
+    {
+      "ts": "2025-08-06T12:05:34.421Z",
+      "type": "perf",
+      "summary": "reduce TTFB with Vercel edge caching on list routes"
     }
   ]
 }
