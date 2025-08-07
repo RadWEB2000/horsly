@@ -6841,6 +6841,11 @@
       "ts": "2025-08-06T16:16:00.018Z",
       "type": "feat",
       "summary": "add hreflang support for pl/en/de locales"
+    },
+    {
+      "ts": "2025-08-07T15:26:41.029Z",
+      "type": "feat",
+      "summary": "implement related listings recommendation block"
     }
   ]
 }
