@@ -6846,6 +6846,11 @@
       "ts": "2025-08-07T15:26:41.029Z",
       "type": "feat",
       "summary": "implement related listings recommendation block"
+    },
+    {
+      "ts": "2025-08-08T11:34:59.121Z",
+      "type": "fix",
+      "summary": "fix memory leak in WebSocket auction connection"
     }
   ]
 }
