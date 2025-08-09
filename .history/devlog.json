@@ -6851,6 +6851,11 @@
       "ts": "2025-08-08T11:34:59.121Z",
       "type": "fix",
       "summary": "fix memory leak in WebSocket auction connection"
+    },
+    {
+      "ts": "2025-08-09T09:34:21.318Z",
+      "type": "docs",
+      "summary": "add deployment checklist to project wiki"
     }
   ]
 }
