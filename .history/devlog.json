@@ -6871,6 +6871,11 @@
       "ts": "2025-08-09T12:23:50.252Z",
       "type": "feat",
       "summary": "implement dynamic robots.txt generation"
+    },
+    {
+      "ts": "2025-08-09T14:40:30.936Z",
+      "type": "refactor",
+      "summary": "migrate config to zod-validated schema"
     }
   ]
 }
