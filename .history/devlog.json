@@ -6861,6 +6861,11 @@
       "ts": "2025-08-09T10:21:26.240Z",
       "type": "feat",
       "summary": "add Open Graph image generation for listings"
+    },
+    {
+      "ts": "2025-08-09T11:08:13.813Z",
+      "type": "content",
+      "summary": "refresh footer links and contact information"
     }
   ]
 }
