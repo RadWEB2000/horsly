@@ -6886,6 +6886,11 @@
       "ts": "2025-08-11T11:24:59.906Z",
       "type": "fix",
       "summary": "resolve hreflang alternate link self-referencing loop"
+    },
+    {
+      "ts": "2025-08-11T13:12:19.498Z",
+      "type": "feat",
+      "summary": "add hreflang support for pl/en/de locales"
     }
   ]
 }
