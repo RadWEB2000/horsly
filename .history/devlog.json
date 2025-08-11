@@ -6881,6 +6881,11 @@
       "ts": "2025-08-10T10:38:32.776Z",
       "type": "config",
       "summary": "update TypeScript path aliases in tsconfig"
+    },
+    {
+      "ts": "2025-08-11T11:24:59.906Z",
+      "type": "fix",
+      "summary": "resolve hreflang alternate link self-referencing loop"
     }
   ]
 }
