@@ -6911,6 +6911,11 @@
       "ts": "2025-08-13T09:56:20.053Z",
       "type": "feat",
       "summary": "implement product listing with category filters"
+    },
+    {
+      "ts": "2025-08-13T12:00:20.880Z",
+      "type": "fix",
+      "summary": "correct currency formatting for non-PLN locales"
     }
   ]
 }
