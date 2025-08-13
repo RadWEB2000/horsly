@@ -6901,6 +6901,11 @@
       "ts": "2025-08-12T16:17:30.580Z",
       "type": "feat",
       "summary": "add video gallery for competition replays"
+    },
+    {
+      "ts": "2025-08-13T06:11:36.437Z",
+      "type": "perf",
+      "summary": "reduce JS bundle by removing unused lodash methods"
     }
   ]
 }
