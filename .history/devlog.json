@@ -6916,6 +6916,11 @@
       "ts": "2025-08-13T12:00:20.880Z",
       "type": "fix",
       "summary": "correct currency formatting for non-PLN locales"
+    },
+    {
+      "ts": "2025-08-14T08:36:55.081Z",
+      "type": "fix",
+      "summary": "correct filter state reset on route change"
     }
   ]
 }
