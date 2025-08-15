@@ -6926,6 +6926,11 @@
       "ts": "2025-08-14T09:21:14.026Z",
       "type": "feat",
       "summary": "implement related listings recommendation block"
+    },
+    {
+      "ts": "2025-08-15T11:49:23.205Z",
+      "type": "perf",
+      "summary": "implement service worker for offline map tiles"
     }
   ]
 }
