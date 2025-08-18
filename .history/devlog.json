@@ -6931,6 +6931,11 @@
       "ts": "2025-08-15T11:49:23.205Z",
       "type": "perf",
       "summary": "implement service worker for offline map tiles"
+    },
+    {
+      "ts": "2025-08-18T10:33:10.778Z",
+      "type": "config",
+      "summary": "configure Vercel edge network caching rules"
     }
   ]
 }
