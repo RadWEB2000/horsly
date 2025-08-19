@@ -6946,6 +6946,11 @@
       "ts": "2025-08-18T14:59:08.370Z",
       "type": "refactor",
       "summary": "consolidate structured data generators into factory"
+    },
+    {
+      "ts": "2025-08-19T09:09:36.147Z",
+      "type": "refactor",
+      "summary": "migrate fetch calls to typed api client wrapper"
     }
   ]
 }
