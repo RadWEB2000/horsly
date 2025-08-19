@@ -6951,6 +6951,11 @@
       "ts": "2025-08-19T09:09:36.147Z",
       "type": "refactor",
       "summary": "migrate fetch calls to typed api client wrapper"
+    },
+    {
+      "ts": "2025-08-19T13:16:08.069Z",
+      "type": "config",
+      "summary": "update next.config.ts for pl/en/de i18n routing"
     }
   ]
 }
