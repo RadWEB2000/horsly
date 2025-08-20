@@ -6986,6 +6986,11 @@
       "ts": "2025-08-20T12:03:11.866Z",
       "type": "feat",
       "summary": "add Core Web Vitals dashboard integration"
+    },
+    {
+      "ts": "2025-08-20T12:15:18.525Z",
+      "type": "fix",
+      "summary": "fix memory leak in WebSocket auction connection"
     }
   ]
 }
