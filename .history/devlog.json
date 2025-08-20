@@ -6981,6 +6981,11 @@
       "ts": "2025-08-20T11:51:21.544Z",
       "type": "config",
       "summary": "configure next/image allowed remote domains"
+    },
+    {
+      "ts": "2025-08-20T12:03:11.866Z",
+      "type": "feat",
+      "summary": "add Core Web Vitals dashboard integration"
     }
   ]
 }
