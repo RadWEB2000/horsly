@@ -6971,6 +6971,11 @@
       "ts": "2025-08-20T08:40:03.636Z",
       "type": "fix",
       "summary": "correct currency formatting for non-PLN locales"
+    },
+    {
+      "ts": "2025-08-20T11:24:06.200Z",
+      "type": "feat",
+      "summary": "implement comparison tool for horse breeds"
     }
   ]
 }
