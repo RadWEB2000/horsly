@@ -6976,6 +6976,11 @@
       "ts": "2025-08-20T11:24:06.200Z",
       "type": "feat",
       "summary": "implement comparison tool for horse breeds"
+    },
+    {
+      "ts": "2025-08-20T11:51:21.544Z",
+      "type": "config",
+      "summary": "configure next/image allowed remote domains"
     }
   ]
 }
