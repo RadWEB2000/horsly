@@ -6966,6 +6966,11 @@
       "ts": "2025-08-20T06:41:55.437Z",
       "type": "fix",
       "summary": "fix broken image URLs in social preview cards"
+    },
+    {
+      "ts": "2025-08-20T08:40:03.636Z",
+      "type": "fix",
+      "summary": "correct currency formatting for non-PLN locales"
     }
   ]
 }
