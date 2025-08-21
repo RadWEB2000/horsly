@@ -6991,6 +6991,11 @@
       "ts": "2025-08-20T12:15:18.525Z",
       "type": "fix",
       "summary": "fix memory leak in WebSocket auction connection"
+    },
+    {
+      "ts": "2025-08-21T06:13:45.241Z",
+      "type": "refactor",
+      "summary": "replace class components with function components"
     }
   ]
 }
