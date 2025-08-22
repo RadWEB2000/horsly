@@ -7001,6 +7001,11 @@
       "ts": "2025-08-22T06:46:12.079Z",
       "type": "fix",
       "summary": "resolve CSP violation for third-party map tiles"
+    },
+    {
+      "ts": "2025-08-22T11:29:27.698Z",
+      "type": "feat",
+      "summary": "implement sitemap auto-generation from page tree"
     }
   ]
 }
