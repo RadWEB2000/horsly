@@ -6996,6 +6996,11 @@
       "ts": "2025-08-21T06:13:45.241Z",
       "type": "refactor",
       "summary": "replace class components with function components"
+    },
+    {
+      "ts": "2025-08-22T06:46:12.079Z",
+      "type": "fix",
+      "summary": "resolve CSP violation for third-party map tiles"
     }
   ]
 }
