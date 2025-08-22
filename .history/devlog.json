@@ -7006,6 +7006,11 @@
       "ts": "2025-08-22T11:29:27.698Z",
       "type": "feat",
       "summary": "implement sitemap auto-generation from page tree"
+    },
+    {
+      "ts": "2025-08-22T13:57:29.268Z",
+      "type": "content",
+      "summary": "update product page keyword targeting"
     }
   ]
 }
