@@ -7021,6 +7021,11 @@
       "ts": "2025-08-26T08:25:38.431Z",
       "type": "refactor",
       "summary": "refactor filter logic to use URL search params"
+    },
+    {
+      "ts": "2025-08-29T07:12:33.280Z",
+      "type": "content",
+      "summary": "update author bio metadata for trainers"
     }
   ]
 }
