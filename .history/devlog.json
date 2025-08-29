@@ -7026,6 +7026,11 @@
       "ts": "2025-08-29T07:12:33.280Z",
       "type": "content",
       "summary": "update author bio metadata for trainers"
+    },
+    {
+      "ts": "2025-08-29T11:56:26.071Z",
+      "type": "refactor",
+      "summary": "extract SEO utilities to shared lib/seo module"
     }
   ]
 }
