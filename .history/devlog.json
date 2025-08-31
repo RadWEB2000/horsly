@@ -7031,6 +7031,11 @@
       "ts": "2025-08-29T11:56:26.071Z",
       "type": "refactor",
       "summary": "extract SEO utilities to shared lib/seo module"
+    },
+    {
+      "ts": "2025-08-31T14:22:19.365Z",
+      "type": "fix",
+      "summary": "resolve canonical URL duplication on paginated pages"
     }
   ]
 }
