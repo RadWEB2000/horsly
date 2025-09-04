@@ -7066,6 +7066,11 @@
       "ts": "2025-09-03T09:21:40.768Z",
       "type": "feat",
       "summary": "implement related listings recommendation block"
+    },
+    {
+      "ts": "2025-09-04T06:39:59.897Z",
+      "type": "refactor",
+      "summary": "migrate to TypeScript strict mode across src/"
     }
   ]
 }
