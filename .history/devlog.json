@@ -7071,6 +7071,11 @@
       "ts": "2025-09-04T06:39:59.897Z",
       "type": "refactor",
       "summary": "migrate to TypeScript strict mode across src/"
+    },
+    {
+      "ts": "2025-09-05T10:44:34.957Z",
+      "type": "fix",
+      "summary": "resolve canonical URL duplication on paginated pages"
     }
   ]
 }
