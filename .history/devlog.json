@@ -7081,6 +7081,11 @@
       "ts": "2025-09-07T07:22:13.116Z",
       "type": "fix",
       "summary": "fix race condition in geolocation map component"
+    },
+    {
+      "ts": "2025-09-07T07:35:37.977Z",
+      "type": "refactor",
+      "summary": "migrate fetch calls to typed api client wrapper"
     }
   ]
 }
