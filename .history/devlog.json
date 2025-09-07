@@ -7091,6 +7091,11 @@
       "ts": "2025-09-07T13:46:09.312Z",
       "type": "feat",
       "summary": "add event calendar for equestrian competitions"
+    },
+    {
+      "ts": "2025-09-07T15:47:53.831Z",
+      "type": "perf",
+      "summary": "optimize image loading with priority hints on hero"
     }
   ]
 }
