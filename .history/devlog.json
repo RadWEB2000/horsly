@@ -7116,6 +7116,11 @@
       "ts": "2025-09-08T10:54:18.561Z",
       "type": "feat",
       "summary": "add event calendar for equestrian competitions"
+    },
+    {
+      "ts": "2025-09-08T12:16:33.275Z",
+      "type": "fix",
+      "summary": "correct date formatting in event calendar"
     }
   ]
 }
