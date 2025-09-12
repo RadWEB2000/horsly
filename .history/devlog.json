@@ -7151,6 +7151,11 @@
       "ts": "2025-09-11T10:04:29.701Z",
       "type": "perf",
       "summary": "optimize image loading with priority hints on hero"
+    },
+    {
+      "ts": "2025-09-12T09:31:25.851Z",
+      "type": "feat",
+      "summary": "add horse breed detail pages with structured data"
     }
   ]
 }
