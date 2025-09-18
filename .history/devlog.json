@@ -7196,6 +7196,11 @@
       "ts": "2025-09-18T09:29:04.485Z",
       "type": "docs",
       "summary": "add README section for local development setup"
+    },
+    {
+      "ts": "2025-09-18T12:09:54.762Z",
+      "type": "config",
+      "summary": "configure trailing slash behavior globally"
     }
   ]
 }
