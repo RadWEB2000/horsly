@@ -7186,6 +7186,11 @@
       "ts": "2025-09-18T06:24:35.929Z",
       "type": "refactor",
       "summary": "replace class components with function components"
+    },
+    {
+      "ts": "2025-09-18T08:35:22.499Z",
+      "type": "content",
+      "summary": "add FAQ content for main service pages"
     }
   ]
 }
