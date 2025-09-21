@@ -7231,6 +7231,11 @@
       "ts": "2025-09-21T09:33:28.174Z",
       "type": "fix",
       "summary": "resolve hreflang alternate link self-referencing loop"
+    },
+    {
+      "ts": "2025-09-21T10:24:00.853Z",
+      "type": "feat",
+      "summary": "add social sharing component with OG metadata"
     }
   ]
 }
