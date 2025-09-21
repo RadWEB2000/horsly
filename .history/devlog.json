@@ -7236,6 +7236,11 @@
       "ts": "2025-09-21T10:24:00.853Z",
       "type": "feat",
       "summary": "add social sharing component with OG metadata"
+    },
+    {
+      "ts": "2025-09-21T12:25:59.562Z",
+      "type": "fix",
+      "summary": "fix race condition in geolocation map component"
     }
   ]
 }
