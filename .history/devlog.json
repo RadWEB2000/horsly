@@ -7246,6 +7246,11 @@
       "ts": "2025-09-22T11:11:53.593Z",
       "type": "feat",
       "summary": "implement related listings recommendation block"
+    },
+    {
+      "ts": "2025-09-22T14:31:40.447Z",
+      "type": "fix",
+      "summary": "resolve canonical URL duplication on paginated pages"
     }
   ]
 }
