@@ -7271,6 +7271,11 @@
       "ts": "2025-09-23T14:27:29.382Z",
       "type": "refactor",
       "summary": "extract shared map utilities to lib/geo"
+    },
+    {
+      "ts": "2025-09-23T15:48:22.231Z",
+      "type": "fix",
+      "summary": "correct heading hierarchy on horse detail pages"
     }
   ]
 }
