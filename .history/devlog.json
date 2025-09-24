@@ -7281,6 +7281,11 @@
       "ts": "2025-09-24T10:44:44.825Z",
       "type": "refactor",
       "summary": "consolidate Open Graph defaults into config object"
+    },
+    {
+      "ts": "2025-09-24T13:45:27.994Z",
+      "type": "refactor",
+      "summary": "extract date helpers to lib/date module"
     }
   ]
 }
