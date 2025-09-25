@@ -7306,6 +7306,11 @@
       "ts": "2025-09-25T11:49:36.818Z",
       "type": "fix",
       "summary": "resolve hreflang alternate link self-referencing loop"
+    },
+    {
+      "ts": "2025-09-25T12:39:46.112Z",
+      "type": "feat",
+      "summary": "add print-friendly styles for horse passports"
     }
   ]
 }
