@@ -7331,6 +7331,11 @@
       "ts": "2025-09-28T11:29:39.136Z",
       "type": "feat",
       "summary": "add Core Web Vitals dashboard integration"
+    },
+    {
+      "ts": "2025-09-29T06:47:19.544Z",
+      "type": "config",
+      "summary": "configure trailing slash behavior globally"
     }
   ]
 }
