@@ -7366,6 +7366,11 @@
       "ts": "2025-10-01T07:34:56.366Z",
       "type": "content",
       "summary": "add testimonials section with review schema"
+    },
+    {
+      "ts": "2025-10-01T08:38:03.788Z",
+      "type": "fix",
+      "summary": "resolve canonical URL duplication on paginated pages"
     }
   ]
 }
