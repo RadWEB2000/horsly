@@ -7376,6 +7376,11 @@
       "ts": "2025-10-01T15:28:07.728Z",
       "type": "refactor",
       "summary": "split monolithic ListingCard into composable parts"
+    },
+    {
+      "ts": "2025-10-02T08:22:03.464Z",
+      "type": "feat",
+      "summary": "implement comparison tool for horse breeds"
     }
   ]
 }
