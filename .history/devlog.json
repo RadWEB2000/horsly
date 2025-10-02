@@ -7386,6 +7386,11 @@
       "ts": "2025-10-02T11:01:46.305Z",
       "type": "content",
       "summary": "refresh footer links and contact information"
+    },
+    {
+      "ts": "2025-10-02T12:35:07.365Z",
+      "type": "feat",
+      "summary": "implement horse pedigree viewer component"
     }
   ]
 }
