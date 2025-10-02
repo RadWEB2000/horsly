@@ -7391,6 +7391,11 @@
       "ts": "2025-10-02T12:35:07.365Z",
       "type": "feat",
       "summary": "implement horse pedigree viewer component"
+    },
+    {
+      "ts": "2025-10-02T15:23:13.280Z",
+      "type": "config",
+      "summary": "add security headers to middleware"
     }
   ]
 }
