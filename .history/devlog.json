@@ -7381,6 +7381,11 @@
       "ts": "2025-10-02T08:22:03.464Z",
       "type": "feat",
       "summary": "implement comparison tool for horse breeds"
+    },
+    {
+      "ts": "2025-10-02T11:01:46.305Z",
+      "type": "content",
+      "summary": "refresh footer links and contact information"
     }
   ]
 }
