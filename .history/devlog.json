@@ -7396,6 +7396,11 @@
       "ts": "2025-10-02T15:23:13.280Z",
       "type": "config",
       "summary": "add security headers to middleware"
+    },
+    {
+      "ts": "2025-10-02T16:29:19.275Z",
+      "type": "refactor",
+      "summary": "refactor horse schema to extend base Article type"
     }
   ]
 }
