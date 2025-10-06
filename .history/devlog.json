@@ -7406,6 +7406,11 @@
       "ts": "2025-10-06T06:14:07.697Z",
       "type": "refactor",
       "summary": "refactor sitemap generator to use async generator"
+    },
+    {
+      "ts": "2025-10-06T07:45:24.800Z",
+      "type": "refactor",
+      "summary": "consolidate structured data generators into factory"
     }
   ]
 }
