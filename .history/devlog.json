@@ -7421,6 +7421,11 @@
       "ts": "2025-10-06T12:45:48.400Z",
       "type": "fix",
       "summary": "fix memory leak in WebSocket auction connection"
+    },
+    {
+      "ts": "2025-10-06T14:47:33.183Z",
+      "type": "feat",
+      "summary": "add news feed with article schema"
     }
   ]
 }
