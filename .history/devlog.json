@@ -7426,6 +7426,11 @@
       "ts": "2025-10-06T14:47:33.183Z",
       "type": "feat",
       "summary": "add news feed with article schema"
+    },
+    {
+      "ts": "2025-10-07T06:17:16.185Z",
+      "type": "fix",
+      "summary": "correct structured data JSON-LD syntax error in product schema"
     }
   ]
 }
