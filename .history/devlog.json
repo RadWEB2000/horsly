@@ -7431,6 +7431,11 @@
       "ts": "2025-10-07T06:17:16.185Z",
       "type": "fix",
       "summary": "correct structured data JSON-LD syntax error in product schema"
+    },
+    {
+      "ts": "2025-10-07T08:49:08.578Z",
+      "type": "perf",
+      "summary": "implement static generation for blog archive pages"
     }
   ]
 }
