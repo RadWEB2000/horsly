@@ -7446,6 +7446,11 @@
       "ts": "2025-10-09T10:00:33.417Z",
       "type": "fix",
       "summary": "correct structured data JSON-LD syntax error in product schema"
+    },
+    {
+      "ts": "2025-10-09T10:26:01.559Z",
+      "type": "feat",
+      "summary": "add event calendar for equestrian competitions"
     }
   ]
 }
