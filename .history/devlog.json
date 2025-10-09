@@ -7441,6 +7441,11 @@
       "ts": "2025-10-09T06:03:36.415Z",
       "type": "feat",
       "summary": "implement email subscription with double opt-in"
+    },
+    {
+      "ts": "2025-10-09T10:00:33.417Z",
+      "type": "fix",
+      "summary": "correct structured data JSON-LD syntax error in product schema"
     }
   ]
 }
