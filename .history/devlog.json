@@ -7451,6 +7451,11 @@
       "ts": "2025-10-09T10:26:01.559Z",
       "type": "feat",
       "summary": "add event calendar for equestrian competitions"
+    },
+    {
+      "ts": "2025-10-09T10:46:45.600Z",
+      "type": "fix",
+      "summary": "resolve CSP violation for third-party map tiles"
     }
   ]
 }
