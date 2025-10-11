@@ -7466,6 +7466,11 @@
       "ts": "2025-10-11T10:09:20.726Z",
       "type": "config",
       "summary": "add Sentry source map upload to build pipeline"
+    },
+    {
+      "ts": "2025-10-11T11:13:21.336Z",
+      "type": "feat",
+      "summary": "add print-friendly styles for horse passports"
     }
   ]
 }
