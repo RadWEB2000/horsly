@@ -7486,6 +7486,11 @@
       "ts": "2025-10-13T13:05:36.799Z",
       "type": "config",
       "summary": "update TypeScript path aliases in tsconfig"
+    },
+    {
+      "ts": "2025-10-13T15:04:52.174Z",
+      "type": "docs",
+      "summary": "document canonical URL strategy in AGENTS.md"
     }
   ]
 }
