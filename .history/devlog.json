@@ -7476,6 +7476,11 @@
       "ts": "2025-10-11T11:16:55.638Z",
       "type": "feat",
       "summary": "implement related listings recommendation block"
+    },
+    {
+      "ts": "2025-10-13T10:16:35.101Z",
+      "type": "refactor",
+      "summary": "migrate config to zod-validated schema"
     }
   ]
 }
