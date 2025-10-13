@@ -7481,6 +7481,11 @@
       "ts": "2025-10-13T10:16:35.101Z",
       "type": "refactor",
       "summary": "migrate config to zod-validated schema"
+    },
+    {
+      "ts": "2025-10-13T13:05:36.799Z",
+      "type": "config",
+      "summary": "update TypeScript path aliases in tsconfig"
     }
   ]
 }
