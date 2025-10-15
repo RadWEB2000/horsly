@@ -7491,6 +7491,11 @@
       "ts": "2025-10-13T15:04:52.174Z",
       "type": "docs",
       "summary": "document canonical URL strategy in AGENTS.md"
+    },
+    {
+      "ts": "2025-10-15T07:11:33.437Z",
+      "type": "feat",
+      "summary": "implement horse pedigree viewer component"
     }
   ]
 }
