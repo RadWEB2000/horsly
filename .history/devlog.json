@@ -7526,6 +7526,11 @@
       "ts": "2025-10-17T11:35:22.541Z",
       "type": "config",
       "summary": "configure biome lint rules for project conventions"
+    },
+    {
+      "ts": "2025-10-17T14:10:49.345Z",
+      "type": "feat",
+      "summary": "add news feed with article schema"
     }
   ]
 }
