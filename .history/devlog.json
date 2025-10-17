@@ -7531,6 +7531,11 @@
       "ts": "2025-10-17T14:10:49.345Z",
       "type": "feat",
       "summary": "add news feed with article schema"
+    },
+    {
+      "ts": "2025-10-17T14:45:24.479Z",
+      "type": "feat",
+      "summary": "implement advanced search with faceted filters"
     }
   ]
 }
