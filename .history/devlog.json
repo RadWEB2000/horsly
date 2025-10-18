@@ -7536,6 +7536,11 @@
       "ts": "2025-10-17T14:45:24.479Z",
       "type": "feat",
       "summary": "implement advanced search with faceted filters"
+    },
+    {
+      "ts": "2025-10-18T08:59:58.896Z",
+      "type": "fix",
+      "summary": "resolve hydration mismatch in auction countdown"
     }
   ]
 }
