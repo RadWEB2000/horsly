@@ -7551,6 +7551,11 @@
       "ts": "2025-10-20T06:58:58.193Z",
       "type": "refactor",
       "summary": "consolidate theme tokens into design system config"
+    },
+    {
+      "ts": "2025-10-20T14:41:49.190Z",
+      "type": "content",
+      "summary": "add case study content for homepage hero section"
     }
   ]
 }
