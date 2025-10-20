@@ -7546,6 +7546,11 @@
       "ts": "2025-10-20T06:38:17.340Z",
       "type": "fix",
       "summary": "fix z-index overlap in mobile navigation menu"
+    },
+    {
+      "ts": "2025-10-20T06:58:58.193Z",
+      "type": "refactor",
+      "summary": "consolidate theme tokens into design system config"
     }
   ]
 }
