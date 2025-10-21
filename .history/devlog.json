@@ -7571,6 +7571,11 @@
       "ts": "2025-10-21T07:07:41.868Z",
       "type": "fix",
       "summary": "fix missing alt attributes on gallery images"
+    },
+    {
+      "ts": "2025-10-21T07:13:03.637Z",
+      "type": "feat",
+      "summary": "add Core Web Vitals dashboard integration"
     }
   ]
 }
