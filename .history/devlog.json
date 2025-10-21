@@ -7576,6 +7576,11 @@
       "ts": "2025-10-21T07:13:03.637Z",
       "type": "feat",
       "summary": "add Core Web Vitals dashboard integration"
+    },
+    {
+      "ts": "2025-10-21T10:45:34.054Z",
+      "type": "docs",
+      "summary": "add inline JSDoc for useSeoMeta hook"
     }
   ]
 }
