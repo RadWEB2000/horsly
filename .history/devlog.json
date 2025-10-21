@@ -7581,6 +7581,11 @@
       "ts": "2025-10-21T10:45:34.054Z",
       "type": "docs",
       "summary": "add inline JSDoc for useSeoMeta hook"
+    },
+    {
+      "ts": "2025-10-21T14:20:59.460Z",
+      "type": "refactor",
+      "summary": "extract shared map utilities to lib/geo"
     }
   ]
 }
