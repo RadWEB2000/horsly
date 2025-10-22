@@ -7591,6 +7591,11 @@
       "ts": "2025-10-22T09:34:13.231Z",
       "type": "content",
       "summary": "add testimonials section with review schema"
+    },
+    {
+      "ts": "2025-10-22T14:01:27.721Z",
+      "type": "feat",
+      "summary": "implement advanced search with faceted filters"
     }
   ]
 }
