@@ -7606,6 +7606,11 @@
       "ts": "2025-10-23T09:41:50.675Z",
       "type": "fix",
       "summary": "fix Open Graph image dimensions for Twitter cards"
+    },
+    {
+      "ts": "2025-10-23T14:22:10.048Z",
+      "type": "feat",
+      "summary": "add video gallery for competition replays"
     }
   ]
 }
