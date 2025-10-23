@@ -7616,6 +7616,11 @@
       "ts": "2025-10-23T15:32:26.661Z",
       "type": "fix",
       "summary": "correct sitemap lastmod date format to ISO 8601"
+    },
+    {
+      "ts": "2025-10-23T15:52:20.636Z",
+      "type": "feat",
+      "summary": "implement advanced search with faceted filters"
     }
   ]
 }
