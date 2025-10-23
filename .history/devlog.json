@@ -7601,6 +7601,11 @@
       "ts": "2025-10-23T06:41:09.472Z",
       "type": "content",
       "summary": "refresh footer links and contact information"
+    },
+    {
+      "ts": "2025-10-23T09:41:50.675Z",
+      "type": "fix",
+      "summary": "fix Open Graph image dimensions for Twitter cards"
     }
   ]
 }
