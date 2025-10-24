@@ -7636,6 +7636,11 @@
       "ts": "2025-10-24T12:56:42.601Z",
       "type": "feat",
       "summary": "implement horse pedigree viewer component"
+    },
+    {
+      "ts": "2025-10-24T14:59:12.530Z",
+      "type": "feat",
+      "summary": "add news feed with article schema"
     }
   ]
 }
