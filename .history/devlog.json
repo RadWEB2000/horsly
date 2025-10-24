@@ -7626,6 +7626,11 @@
       "ts": "2025-10-24T06:12:39.900Z",
       "type": "feat",
       "summary": "add dark mode support with system preference detection"
+    },
+    {
+      "ts": "2025-10-24T06:43:32.295Z",
+      "type": "fix",
+      "summary": "correct sitemap lastmod date format to ISO 8601"
     }
   ]
 }
