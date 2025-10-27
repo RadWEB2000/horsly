@@ -7646,6 +7646,11 @@
       "ts": "2025-10-27T08:08:02.200Z",
       "type": "feat",
       "summary": "add horse breed detail pages with structured data"
+    },
+    {
+      "ts": "2025-10-27T10:15:16.355Z",
+      "type": "feat",
+      "summary": "implement related listings recommendation block"
     }
   ]
 }
