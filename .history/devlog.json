@@ -7641,6 +7641,11 @@
       "ts": "2025-10-24T14:59:12.530Z",
       "type": "feat",
       "summary": "add news feed with article schema"
+    },
+    {
+      "ts": "2025-10-27T08:08:02.200Z",
+      "type": "feat",
+      "summary": "add horse breed detail pages with structured data"
     }
   ]
 }
