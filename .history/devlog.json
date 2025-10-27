@@ -7656,6 +7656,11 @@
       "ts": "2025-10-27T12:46:58.545Z",
       "type": "fix",
       "summary": "resolve CSP violation for third-party map tiles"
+    },
+    {
+      "ts": "2025-10-27T14:58:15.936Z",
+      "type": "refactor",
+      "summary": "extract shared map utilities to lib/geo"
     }
   ]
 }
