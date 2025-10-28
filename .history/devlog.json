@@ -7666,6 +7666,11 @@
       "ts": "2025-10-28T12:02:46.494Z",
       "type": "feat",
       "summary": "add breadcrumb schema markup to all pages"
+    },
+    {
+      "ts": "2025-10-28T14:10:01.205Z",
+      "type": "config",
+      "summary": "configure next/image allowed remote domains"
     }
   ]
 }
