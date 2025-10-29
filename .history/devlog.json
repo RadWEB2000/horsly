@@ -7676,6 +7676,11 @@
       "ts": "2025-10-29T10:06:24.214Z",
       "type": "feat",
       "summary": "implement advanced search with faceted filters"
+    },
+    {
+      "ts": "2025-10-29T16:32:23.838Z",
+      "type": "feat",
+      "summary": "implement paginated blog archive with ISR"
     }
   ]
 }
