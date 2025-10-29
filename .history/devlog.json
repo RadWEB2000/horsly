@@ -7671,6 +7671,11 @@
       "ts": "2025-10-28T14:10:01.205Z",
       "type": "config",
       "summary": "configure next/image allowed remote domains"
+    },
+    {
+      "ts": "2025-10-29T10:06:24.214Z",
+      "type": "feat",
+      "summary": "implement advanced search with faceted filters"
     }
   ]
 }
