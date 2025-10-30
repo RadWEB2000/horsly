@@ -7701,6 +7701,11 @@
       "ts": "2025-10-30T12:23:49.076Z",
       "type": "feat",
       "summary": "add dark mode support with system preference detection"
+    },
+    {
+      "ts": "2025-10-30T15:59:00.299Z",
+      "type": "content",
+      "summary": "refresh horse breed category descriptions"
     }
   ]
 }
