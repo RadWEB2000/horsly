@@ -7706,6 +7706,11 @@
       "ts": "2025-10-30T15:59:00.299Z",
       "type": "content",
       "summary": "refresh horse breed category descriptions"
+    },
+    {
+      "ts": "2025-10-30T16:16:49.502Z",
+      "type": "feat",
+      "summary": "add trainer profile pages with schema markup"
     }
   ]
 }
