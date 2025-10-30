@@ -7681,6 +7681,11 @@
       "ts": "2025-10-29T16:32:23.838Z",
       "type": "feat",
       "summary": "implement paginated blog archive with ISR"
+    },
+    {
+      "ts": "2025-10-30T08:20:43.445Z",
+      "type": "refactor",
+      "summary": "migrate to TypeScript strict mode across src/"
     }
   ]
 }
