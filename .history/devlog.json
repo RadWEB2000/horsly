@@ -7686,6 +7686,11 @@
       "ts": "2025-10-30T08:20:43.445Z",
       "type": "refactor",
       "summary": "migrate to TypeScript strict mode across src/"
+    },
+    {
+      "ts": "2025-10-30T09:57:43.684Z",
+      "type": "refactor",
+      "summary": "extract shared map utilities to lib/geo"
     }
   ]
 }
