@@ -7691,6 +7691,11 @@
       "ts": "2025-10-30T09:57:43.684Z",
       "type": "refactor",
       "summary": "extract shared map utilities to lib/geo"
+    },
+    {
+      "ts": "2025-10-30T10:16:50.258Z",
+      "type": "content",
+      "summary": "add FAQ content for main service pages"
     }
   ]
 }
