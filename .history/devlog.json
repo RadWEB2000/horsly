@@ -7716,6 +7716,11 @@
       "ts": "2025-10-31T09:29:02.219Z",
       "type": "fix",
       "summary": "resolve infinite redirect in canonical middleware"
+    },
+    {
+      "ts": "2025-10-31T12:26:09.520Z",
+      "type": "refactor",
+      "summary": "migrate to TypeScript strict mode across src/"
     }
   ]
 }
