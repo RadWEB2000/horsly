@@ -7731,6 +7731,11 @@
       "ts": "2025-10-31T16:26:11.199Z",
       "type": "feat",
       "summary": "implement advanced search with faceted filters"
+    },
+    {
+      "ts": "2025-10-31T16:45:30.996Z",
+      "type": "content",
+      "summary": "update homepage meta description and H1 copy"
     }
   ]
 }
