@@ -7736,6 +7736,11 @@
       "ts": "2025-10-31T16:45:30.996Z",
       "type": "content",
       "summary": "update homepage meta description and H1 copy"
+    },
+    {
+      "ts": "2025-11-03T12:20:54.343Z",
+      "type": "feat",
+      "summary": "add FAQ schema markup generator"
     }
   ]
 }
