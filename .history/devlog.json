@@ -7756,6 +7756,11 @@
       "ts": "2025-11-04T10:42:28.867Z",
       "type": "feat",
       "summary": "implement email subscription with double opt-in"
+    },
+    {
+      "ts": "2025-11-04T11:40:18.690Z",
+      "type": "content",
+      "summary": "update newsletter signup copy and CTA"
     }
   ]
 }
