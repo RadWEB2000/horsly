@@ -7761,6 +7761,11 @@
       "ts": "2025-11-04T11:40:18.690Z",
       "type": "content",
       "summary": "update newsletter signup copy and CTA"
+    },
+    {
+      "ts": "2025-11-04T16:05:52.524Z",
+      "type": "config",
+      "summary": "update sitemap generation configuration"
     }
   ]
 }
