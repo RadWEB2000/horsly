@@ -7766,6 +7766,11 @@
       "ts": "2025-11-04T16:05:52.524Z",
       "type": "config",
       "summary": "update sitemap generation configuration"
+    },
+    {
+      "ts": "2025-11-05T12:11:44.222Z",
+      "type": "content",
+      "summary": "update pricing page SEO copy"
     }
   ]
 }
