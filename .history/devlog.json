@@ -7776,6 +7776,11 @@
       "ts": "2025-11-05T15:05:57.814Z",
       "type": "fix",
       "summary": "fix broken image URLs in social preview cards"
+    },
+    {
+      "ts": "2025-11-06T15:40:07.488Z",
+      "type": "feat",
+      "summary": "add hreflang support for pl/en/de locales"
     }
   ]
 }
