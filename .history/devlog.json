@@ -7781,6 +7781,11 @@
       "ts": "2025-11-06T15:40:07.488Z",
       "type": "feat",
       "summary": "add hreflang support for pl/en/de locales"
+    },
+    {
+      "ts": "2025-11-07T13:17:14.356Z",
+      "type": "refactor",
+      "summary": "extract SEO utilities to shared lib/seo module"
     }
   ]
 }
