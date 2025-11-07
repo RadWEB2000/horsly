@@ -7786,6 +7786,11 @@
       "ts": "2025-11-07T13:17:14.356Z",
       "type": "refactor",
       "summary": "extract SEO utilities to shared lib/seo module"
+    },
+    {
+      "ts": "2025-11-07T17:23:01.570Z",
+      "type": "feat",
+      "summary": "add news feed with article schema"
     }
   ]
 }
