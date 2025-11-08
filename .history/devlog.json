@@ -7791,6 +7791,11 @@
       "ts": "2025-11-07T17:23:01.570Z",
       "type": "feat",
       "summary": "add news feed with article schema"
+    },
+    {
+      "ts": "2025-11-08T14:34:45.956Z",
+      "type": "docs",
+      "summary": "document map component configuration options"
     }
   ]
 }
