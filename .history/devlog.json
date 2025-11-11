@@ -7821,6 +7821,11 @@
       "ts": "2025-11-11T13:27:56.565Z",
       "type": "perf",
       "summary": "optimize font loading with preconnect and display swap"
+    },
+    {
+      "ts": "2025-11-11T13:53:00.105Z",
+      "type": "feat",
+      "summary": "add video gallery for competition replays"
     }
   ]
 }
