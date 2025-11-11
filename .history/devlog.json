@@ -7811,6 +7811,11 @@
       "ts": "2025-11-11T13:16:02.955Z",
       "type": "docs",
       "summary": "document map component configuration options"
+    },
+    {
+      "ts": "2025-11-11T13:27:28.753Z",
+      "type": "fix",
+      "summary": "fix missing meta viewport on mobile templates"
     }
   ]
 }
