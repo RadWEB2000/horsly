@@ -7801,6 +7801,11 @@
       "ts": "2025-11-10T09:49:24.066Z",
       "type": "content",
       "summary": "revise landing page title tags for better CTR"
+    },
+    {
+      "ts": "2025-11-11T07:05:33.624Z",
+      "type": "fix",
+      "summary": "correct filter state reset on route change"
     }
   ]
 }
