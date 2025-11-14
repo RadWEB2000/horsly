@@ -7851,6 +7851,11 @@
       "ts": "2025-11-14T08:41:37.433Z",
       "type": "content",
       "summary": "update product page keyword targeting"
+    },
+    {
+      "ts": "2025-11-14T13:35:49.193Z",
+      "type": "fix",
+      "summary": "resolve infinite redirect in canonical middleware"
     }
   ]
 }
