@@ -7856,6 +7856,11 @@
       "ts": "2025-11-14T13:35:49.193Z",
       "type": "fix",
       "summary": "resolve infinite redirect in canonical middleware"
+    },
+    {
+      "ts": "2025-11-15T12:49:01.342Z",
+      "type": "content",
+      "summary": "update competition category naming conventions"
     }
   ]
 }
