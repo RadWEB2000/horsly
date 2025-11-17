@@ -7861,6 +7861,11 @@
       "ts": "2025-11-15T12:49:01.342Z",
       "type": "content",
       "summary": "update competition category naming conventions"
+    },
+    {
+      "ts": "2025-11-17T09:03:27.963Z",
+      "type": "refactor",
+      "summary": "refactor filter logic to use URL search params"
     }
   ]
 }
