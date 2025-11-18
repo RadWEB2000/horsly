@@ -7866,6 +7866,11 @@
       "ts": "2025-11-17T09:03:27.963Z",
       "type": "refactor",
       "summary": "refactor filter logic to use URL search params"
+    },
+    {
+      "ts": "2025-11-18T09:15:59.701Z",
+      "type": "feat",
+      "summary": "add horse breed detail pages with structured data"
     }
   ]
 }
