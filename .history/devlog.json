@@ -7881,6 +7881,11 @@
       "ts": "2025-11-18T11:49:38.498Z",
       "type": "content",
       "summary": "add FAQ content for main service pages"
+    },
+    {
+      "ts": "2025-11-19T07:57:00.921Z",
+      "type": "fix",
+      "summary": "fix race condition in geolocation map component"
     }
   ]
 }
