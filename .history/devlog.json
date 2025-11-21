@@ -7901,6 +7901,11 @@
       "ts": "2025-11-19T15:39:18.479Z",
       "type": "content",
       "summary": "revise landing page title tags for better CTR"
+    },
+    {
+      "ts": "2025-11-21T14:39:13.395Z",
+      "type": "content",
+      "summary": "add FAQ content for main service pages"
     }
   ]
 }
