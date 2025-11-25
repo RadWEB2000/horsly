@@ -7911,6 +7911,11 @@
       "ts": "2025-11-21T16:02:13.237Z",
       "type": "feat",
       "summary": "add video gallery for competition replays"
+    },
+    {
+      "ts": "2025-11-25T13:49:39.913Z",
+      "type": "perf",
+      "summary": "reduce TTFB with Vercel edge caching on list routes"
     }
   ]
 }
