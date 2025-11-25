@@ -7916,6 +7916,11 @@
       "ts": "2025-11-25T13:49:39.913Z",
       "type": "perf",
       "summary": "reduce TTFB with Vercel edge caching on list routes"
+    },
+    {
+      "ts": "2025-11-25T16:27:59.453Z",
+      "type": "feat",
+      "summary": "implement auction listing with bidding metadata"
     }
   ]
 }
