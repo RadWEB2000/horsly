@@ -7926,6 +7926,11 @@
       "ts": "2025-11-26T13:43:38.878Z",
       "type": "perf",
       "summary": "implement static generation for blog archive pages"
+    },
+    {
+      "ts": "2025-11-27T07:27:34.152Z",
+      "type": "feat",
+      "summary": "implement dynamic robots.txt generation"
     }
   ]
 }
