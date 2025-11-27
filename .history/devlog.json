@@ -7936,6 +7936,11 @@
       "ts": "2025-11-27T09:46:54.156Z",
       "type": "fix",
       "summary": "fix missing meta viewport on mobile templates"
+    },
+    {
+      "ts": "2025-11-27T16:06:11.223Z",
+      "type": "fix",
+      "summary": "correct structured data JSON-LD syntax error in product schema"
     }
   ]
 }
