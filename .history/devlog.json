@@ -7931,6 +7931,11 @@
       "ts": "2025-11-27T07:27:34.152Z",
       "type": "feat",
       "summary": "implement dynamic robots.txt generation"
+    },
+    {
+      "ts": "2025-11-27T09:46:54.156Z",
+      "type": "fix",
+      "summary": "fix missing meta viewport on mobile templates"
     }
   ]
 }
