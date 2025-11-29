@@ -7946,6 +7946,11 @@
       "ts": "2025-11-28T10:18:34.441Z",
       "type": "refactor",
       "summary": "extract canonical URL logic to middleware"
+    },
+    {
+      "ts": "2025-11-29T12:37:26.803Z",
+      "type": "content",
+      "summary": "update newsletter signup copy and CTA"
     }
   ]
 }
