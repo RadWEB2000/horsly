@@ -7956,6 +7956,11 @@
       "ts": "2025-12-02T09:53:53.357Z",
       "type": "fix",
       "summary": "resolve hreflang alternate link self-referencing loop"
+    },
+    {
+      "ts": "2025-12-02T12:29:13.459Z",
+      "type": "feat",
+      "summary": "add FAQ schema markup generator"
     }
   ]
 }
