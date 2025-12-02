@@ -7961,6 +7961,11 @@
       "ts": "2025-12-02T12:29:13.459Z",
       "type": "feat",
       "summary": "add FAQ schema markup generator"
+    },
+    {
+      "ts": "2025-12-02T17:28:34.074Z",
+      "type": "refactor",
+      "summary": "migrate to TypeScript strict mode across src/"
     }
   ]
 }
