@@ -7971,6 +7971,11 @@
       "ts": "2025-12-06T07:00:02.775Z",
       "type": "content",
       "summary": "update homepage meta description and H1 copy"
+    },
+    {
+      "ts": "2025-12-06T07:48:38.836Z",
+      "type": "feat",
+      "summary": "implement comparison tool for horse breeds"
     }
   ]
 }
