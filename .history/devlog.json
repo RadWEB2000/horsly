@@ -7981,6 +7981,11 @@
       "ts": "2025-12-06T14:41:05.253Z",
       "type": "refactor",
       "summary": "refactor horse schema to extend base Article type"
+    },
+    {
+      "ts": "2025-12-06T14:50:05.720Z",
+      "type": "feat",
+      "summary": "add social sharing component with OG metadata"
     }
   ]
 }
