@@ -7991,6 +7991,11 @@
       "ts": "2025-12-07T08:06:20.007Z",
       "type": "refactor",
       "summary": "extract shared map utilities to lib/geo"
+    },
+    {
+      "ts": "2025-12-07T09:36:24.582Z",
+      "type": "feat",
+      "summary": "add breadcrumb schema markup to all pages"
     }
   ]
 }
