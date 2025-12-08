@@ -8001,6 +8001,11 @@
       "ts": "2025-12-07T12:04:43.097Z",
       "type": "refactor",
       "summary": "replace magic strings with typed enum constants"
+    },
+    {
+      "ts": "2025-12-08T14:19:16.315Z",
+      "type": "content",
+      "summary": "update competition category naming conventions"
     }
   ]
 }
