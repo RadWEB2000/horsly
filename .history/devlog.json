@@ -8006,6 +8006,11 @@
       "ts": "2025-12-08T14:19:16.315Z",
       "type": "content",
       "summary": "update competition category naming conventions"
+    },
+    {
+      "ts": "2025-12-09T10:13:07.127Z",
+      "type": "config",
+      "summary": "add security headers to middleware"
     }
   ]
 }
