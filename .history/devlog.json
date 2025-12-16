@@ -8031,6 +8031,11 @@
       "ts": "2025-12-16T07:39:40.988Z",
       "type": "feat",
       "summary": "add FAQ schema markup generator"
+    },
+    {
+      "ts": "2025-12-16T14:50:25.632Z",
+      "type": "fix",
+      "summary": "fix trailing slash inconsistency in dynamic routes"
     }
   ]
 }
