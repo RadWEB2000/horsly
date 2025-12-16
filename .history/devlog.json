@@ -8026,6 +8026,11 @@
       "ts": "2025-12-15T11:32:29.708Z",
       "type": "config",
       "summary": "configure trailing slash behavior globally"
+    },
+    {
+      "ts": "2025-12-16T07:39:40.988Z",
+      "type": "feat",
+      "summary": "add FAQ schema markup generator"
     }
   ]
 }
