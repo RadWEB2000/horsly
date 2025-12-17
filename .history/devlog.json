@@ -8036,6 +8036,11 @@
       "ts": "2025-12-16T14:50:25.632Z",
       "type": "fix",
       "summary": "fix trailing slash inconsistency in dynamic routes"
+    },
+    {
+      "ts": "2025-12-17T13:00:11.092Z",
+      "type": "fix",
+      "summary": "fix Open Graph image dimensions for Twitter cards"
     }
   ]
 }
