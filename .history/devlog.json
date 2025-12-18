@@ -8046,6 +8046,11 @@
       "ts": "2025-12-18T09:33:47.601Z",
       "type": "feat",
       "summary": "add Core Web Vitals dashboard integration"
+    },
+    {
+      "ts": "2025-12-18T14:33:44.027Z",
+      "type": "config",
+      "summary": "update next.config.ts for pl/en/de i18n routing"
     }
   ]
 }
