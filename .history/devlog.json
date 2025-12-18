@@ -8051,6 +8051,11 @@
       "ts": "2025-12-18T14:33:44.027Z",
       "type": "config",
       "summary": "update next.config.ts for pl/en/de i18n routing"
+    },
+    {
+      "ts": "2025-12-18T16:32:18.930Z",
+      "type": "fix",
+      "summary": "fix memory leak in WebSocket auction connection"
     }
   ]
 }
