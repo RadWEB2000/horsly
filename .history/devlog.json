@@ -8061,6 +8061,11 @@
       "ts": "2025-12-18T16:36:35.856Z",
       "type": "feat",
       "summary": "implement paginated blog archive with ISR"
+    },
+    {
+      "ts": "2025-12-19T12:03:34.251Z",
+      "type": "perf",
+      "summary": "optimize critical rendering path for product pages"
     }
   ]
 }
