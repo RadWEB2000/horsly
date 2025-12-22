@@ -8076,6 +8076,11 @@
       "ts": "2025-12-22T12:37:06.676Z",
       "type": "content",
       "summary": "add testimonials section with review schema"
+    },
+    {
+      "ts": "2025-12-22T15:56:31.888Z",
+      "type": "refactor",
+      "summary": "replace class components with function components"
     }
   ]
 }
