@@ -8091,6 +8091,11 @@
       "ts": "2025-12-24T07:46:09.359Z",
       "type": "fix",
       "summary": "resolve infinite redirect in canonical middleware"
+    },
+    {
+      "ts": "2025-12-26T15:58:36.727Z",
+      "type": "fix",
+      "summary": "resolve infinite redirect in canonical middleware"
     }
   ]
 }
