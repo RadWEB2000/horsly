@@ -8096,6 +8096,11 @@
       "ts": "2025-12-26T15:58:36.727Z",
       "type": "fix",
       "summary": "resolve infinite redirect in canonical middleware"
+    },
+    {
+      "ts": "2025-12-29T11:09:30.571Z",
+      "type": "content",
+      "summary": "add FAQ content for main service pages"
     }
   ]
 }
