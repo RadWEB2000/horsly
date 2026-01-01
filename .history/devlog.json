@@ -8131,6 +8131,11 @@
       "ts": "2026-01-01T13:09:34.927Z",
       "type": "fix",
       "summary": "resolve CSP violation for third-party map tiles"
+    },
+    {
+      "ts": "2026-01-01T14:55:26.424Z",
+      "type": "feat",
+      "summary": "add competition results table"
     }
   ]
 }
