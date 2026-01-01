@@ -8121,6 +8121,11 @@
       "ts": "2025-12-31T09:56:14.045Z",
       "type": "perf",
       "summary": "optimize image loading with priority hints on hero"
+    },
+    {
+      "ts": "2026-01-01T07:19:56.437Z",
+      "type": "config",
+      "summary": "update PostCSS config for custom breakpoints"
     }
   ]
 }
