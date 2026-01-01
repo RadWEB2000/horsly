@@ -8126,6 +8126,11 @@
       "ts": "2026-01-01T07:19:56.437Z",
       "type": "config",
       "summary": "update PostCSS config for custom breakpoints"
+    },
+    {
+      "ts": "2026-01-01T13:09:34.927Z",
+      "type": "fix",
+      "summary": "resolve CSP violation for third-party map tiles"
     }
   ]
 }
