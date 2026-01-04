@@ -8141,6 +8141,11 @@
       "ts": "2026-01-01T17:26:59.324Z",
       "type": "feat",
       "summary": "implement related listings recommendation block"
+    },
+    {
+      "ts": "2026-01-04T07:43:22.245Z",
+      "type": "refactor",
+      "summary": "refactor filter logic to use URL search params"
     }
   ]
 }
