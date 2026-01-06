@@ -8171,6 +8171,11 @@
       "ts": "2026-01-06T15:35:15.787Z",
       "type": "fix",
       "summary": "fix race condition in geolocation map component"
+    },
+    {
+      "ts": "2026-01-06T15:40:11.613Z",
+      "type": "feat",
+      "summary": "add dark mode support with system preference detection"
     }
   ]
 }
