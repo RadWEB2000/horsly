@@ -8161,6 +8161,11 @@
       "ts": "2026-01-06T12:11:58.544Z",
       "type": "content",
       "summary": "update newsletter signup copy and CTA"
+    },
+    {
+      "ts": "2026-01-06T13:16:17.915Z",
+      "type": "fix",
+      "summary": "correct date formatting in event calendar"
     }
   ]
 }
