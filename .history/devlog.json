@@ -8176,6 +8176,11 @@
       "ts": "2026-01-06T15:40:11.613Z",
       "type": "feat",
       "summary": "add dark mode support with system preference detection"
+    },
+    {
+      "ts": "2026-01-06T15:41:12.158Z",
+      "type": "fix",
+      "summary": "correct filter state reset on route change"
     }
   ]
 }
