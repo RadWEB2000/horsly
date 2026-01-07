@@ -8181,6 +8181,11 @@
       "ts": "2026-01-06T15:41:12.158Z",
       "type": "fix",
       "summary": "correct filter state reset on route change"
+    },
+    {
+      "ts": "2026-01-07T10:17:00.070Z",
+      "type": "fix",
+      "summary": "fix Open Graph image dimensions for Twitter cards"
     }
   ]
 }
