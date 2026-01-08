@@ -8196,6 +8196,11 @@
       "ts": "2026-01-08T09:36:23.093Z",
       "type": "feat",
       "summary": "implement auction listing with bidding metadata"
+    },
+    {
+      "ts": "2026-01-08T13:26:06.532Z",
+      "type": "feat",
+      "summary": "add Open Graph image generation for listings"
     }
   ]
 }
