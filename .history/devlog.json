@@ -8201,6 +8201,11 @@
       "ts": "2026-01-08T13:26:06.532Z",
       "type": "feat",
       "summary": "add Open Graph image generation for listings"
+    },
+    {
+      "ts": "2026-01-08T13:49:12.110Z",
+      "type": "refactor",
+      "summary": "extract date helpers to lib/date module"
     }
   ]
 }
