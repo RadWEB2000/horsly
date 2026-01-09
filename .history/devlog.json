@@ -8216,6 +8216,11 @@
       "ts": "2026-01-09T11:54:49.499Z",
       "type": "feat",
       "summary": "add video gallery for competition replays"
+    },
+    {
+      "ts": "2026-01-09T16:48:17.492Z",
+      "type": "feat",
+      "summary": "implement comparison tool for horse breeds"
     }
   ]
 }
