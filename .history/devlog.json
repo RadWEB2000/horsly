@@ -8206,6 +8206,11 @@
       "ts": "2026-01-08T13:49:12.110Z",
       "type": "refactor",
       "summary": "extract date helpers to lib/date module"
+    },
+    {
+      "ts": "2026-01-09T08:33:37.495Z",
+      "type": "feat",
+      "summary": "add FAQ schema markup generator"
     }
   ]
 }
