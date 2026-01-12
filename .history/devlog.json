@@ -8221,6 +8221,11 @@
       "ts": "2026-01-09T16:48:17.492Z",
       "type": "feat",
       "summary": "implement comparison tool for horse breeds"
+    },
+    {
+      "ts": "2026-01-12T12:18:55.622Z",
+      "type": "content",
+      "summary": "refresh About page structured content"
     }
   ]
 }
