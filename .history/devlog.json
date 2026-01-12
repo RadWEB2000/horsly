@@ -8226,6 +8226,11 @@
       "ts": "2026-01-12T12:18:55.622Z",
       "type": "content",
       "summary": "refresh About page structured content"
+    },
+    {
+      "ts": "2026-01-12T14:55:15.003Z",
+      "type": "refactor",
+      "summary": "consolidate API error handling into interceptor"
     }
   ]
 }
