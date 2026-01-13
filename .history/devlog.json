@@ -8236,6 +8236,11 @@
       "ts": "2026-01-13T09:39:21.799Z",
       "type": "refactor",
       "summary": "refactor filter logic to use URL search params"
+    },
+    {
+      "ts": "2026-01-13T16:18:54.020Z",
+      "type": "docs",
+      "summary": "add README section for local development setup"
     }
   ]
 }
