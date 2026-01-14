@@ -8246,6 +8246,11 @@
       "ts": "2026-01-14T08:02:33.917Z",
       "type": "feat",
       "summary": "implement auction listing with bidding metadata"
+    },
+    {
+      "ts": "2026-01-14T09:38:50.563Z",
+      "type": "config",
+      "summary": "update sitemap generation configuration"
     }
   ]
 }
