@@ -8271,6 +8271,11 @@
       "ts": "2026-01-16T07:48:04.715Z",
       "type": "config",
       "summary": "configure ISR revalidation intervals per route type"
+    },
+    {
+      "ts": "2026-01-16T08:25:15.038Z",
+      "type": "config",
+      "summary": "add environment variable schema validation"
     }
   ]
 }
