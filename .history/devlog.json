@@ -8286,6 +8286,11 @@
       "ts": "2026-01-17T11:04:35.009Z",
       "type": "content",
       "summary": "update product page keyword targeting"
+    },
+    {
+      "ts": "2026-01-17T12:09:31.236Z",
+      "type": "perf",
+      "summary": "reduce LCP on homepage by inlining critical CSS"
     }
   ]
 }
