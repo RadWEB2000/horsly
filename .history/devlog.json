@@ -8301,6 +8301,11 @@
       "ts": "2026-01-18T10:08:23.368Z",
       "type": "feat",
       "summary": "implement dynamic robots.txt generation"
+    },
+    {
+      "ts": "2026-01-18T10:35:34.245Z",
+      "type": "content",
+      "summary": "add region-specific content for Małopolska stables"
     }
   ]
 }
