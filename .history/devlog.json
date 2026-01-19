@@ -8321,6 +8321,11 @@
       "ts": "2026-01-19T07:03:21.492Z",
       "type": "refactor",
       "summary": "migrate config to zod-validated schema"
+    },
+    {
+      "ts": "2026-01-19T07:20:19.266Z",
+      "type": "content",
+      "summary": "refresh footer links and contact information"
     }
   ]
 }
