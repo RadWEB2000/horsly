@@ -8326,6 +8326,11 @@
       "ts": "2026-01-19T07:20:19.266Z",
       "type": "content",
       "summary": "refresh footer links and contact information"
+    },
+    {
+      "ts": "2026-01-20T12:19:00.298Z",
+      "type": "fix",
+      "summary": "resolve infinite redirect in canonical middleware"
     }
   ]
 }
