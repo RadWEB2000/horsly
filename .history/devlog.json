@@ -8346,6 +8346,11 @@
       "ts": "2026-01-22T07:21:37.855Z",
       "type": "content",
       "summary": "update competition category naming conventions"
+    },
+    {
+      "ts": "2026-01-22T08:43:42.974Z",
+      "type": "feat",
+      "summary": "add video gallery for competition replays"
     }
   ]
 }
