@@ -8351,6 +8351,11 @@
       "ts": "2026-01-22T08:43:42.974Z",
       "type": "feat",
       "summary": "add video gallery for competition replays"
+    },
+    {
+      "ts": "2026-01-23T10:40:22.967Z",
+      "type": "config",
+      "summary": "configure biome lint rules for project conventions"
     }
   ]
 }
