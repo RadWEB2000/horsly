@@ -8366,6 +8366,11 @@
       "ts": "2026-01-26T12:24:17.788Z",
       "type": "fix",
       "summary": "resolve hydration mismatch in auction countdown"
+    },
+    {
+      "ts": "2026-01-26T13:37:21.365Z",
+      "type": "fix",
+      "summary": "fix trailing slash inconsistency in dynamic routes"
     }
   ]
 }
