@@ -8376,6 +8376,11 @@
       "ts": "2026-01-26T13:55:01.948Z",
       "type": "config",
       "summary": "update next.config.ts for pl/en/de i18n routing"
+    },
+    {
+      "ts": "2026-01-27T13:00:44.311Z",
+      "type": "fix",
+      "summary": "fix sitemap URL encoding for Polish characters"
     }
   ]
 }
