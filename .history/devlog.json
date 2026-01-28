@@ -8391,6 +8391,11 @@
       "ts": "2026-01-28T10:56:14.301Z",
       "type": "perf",
       "summary": "implement static generation for blog archive pages"
+    },
+    {
+      "ts": "2026-01-28T14:02:54.996Z",
+      "type": "docs",
+      "summary": "add deployment checklist to project wiki"
     }
   ]
 }
