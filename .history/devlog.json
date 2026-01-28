@@ -8386,6 +8386,11 @@
       "ts": "2026-01-28T10:24:44.078Z",
       "type": "fix",
       "summary": "resolve 404 for dynamically generated sitemaps"
+    },
+    {
+      "ts": "2026-01-28T10:56:14.301Z",
+      "type": "perf",
+      "summary": "implement static generation for blog archive pages"
     }
   ]
 }
