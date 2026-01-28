@@ -8396,6 +8396,11 @@
       "ts": "2026-01-28T14:02:54.996Z",
       "type": "docs",
       "summary": "add deployment checklist to project wiki"
+    },
+    {
+      "ts": "2026-01-28T16:30:53.282Z",
+      "type": "feat",
+      "summary": "add horse breed detail pages with structured data"
     }
   ]
 }
