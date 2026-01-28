@@ -8381,6 +8381,11 @@
       "ts": "2026-01-27T13:00:44.311Z",
       "type": "fix",
       "summary": "fix sitemap URL encoding for Polish characters"
+    },
+    {
+      "ts": "2026-01-28T10:24:44.078Z",
+      "type": "fix",
+      "summary": "resolve 404 for dynamically generated sitemaps"
     }
   ]
 }
