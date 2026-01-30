@@ -8416,6 +8416,11 @@
       "ts": "2026-01-30T11:50:53.006Z",
       "type": "refactor",
       "summary": "extract date helpers to lib/date module"
+    },
+    {
+      "ts": "2026-01-30T14:58:50.002Z",
+      "type": "config",
+      "summary": "configure ISR revalidation intervals per route type"
     }
   ]
 }
