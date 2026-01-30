@@ -8411,6 +8411,11 @@
       "ts": "2026-01-29T16:15:57.046Z",
       "type": "feat",
       "summary": "implement lazy loading for stable gallery images"
+    },
+    {
+      "ts": "2026-01-30T11:50:53.006Z",
+      "type": "refactor",
+      "summary": "extract date helpers to lib/date module"
     }
   ]
 }
