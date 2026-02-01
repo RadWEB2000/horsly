@@ -8431,6 +8431,11 @@
       "ts": "2026-02-01T14:15:53.758Z",
       "type": "feat",
       "summary": "add Open Graph image generation for listings"
+    },
+    {
+      "ts": "2026-02-01T17:26:42.049Z",
+      "type": "perf",
+      "summary": "compress devlog and reduce JSON payload size"
     }
   ]
 }
