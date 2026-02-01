@@ -8426,6 +8426,11 @@
       "ts": "2026-01-30T15:48:08.250Z",
       "type": "feat",
       "summary": "implement comparison tool for horse breeds"
+    },
+    {
+      "ts": "2026-02-01T14:15:53.758Z",
+      "type": "feat",
+      "summary": "add Open Graph image generation for listings"
     }
   ]
 }
