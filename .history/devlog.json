@@ -8446,6 +8446,11 @@
       "ts": "2026-02-02T13:39:22.913Z",
       "type": "fix",
       "summary": "fix missing alt attributes on gallery images"
+    },
+    {
+      "ts": "2026-02-02T14:33:52.115Z",
+      "type": "fix",
+      "summary": "resolve CSP violation for third-party map tiles"
     }
   ]
 }
