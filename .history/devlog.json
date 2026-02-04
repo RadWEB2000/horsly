@@ -8456,6 +8456,11 @@
       "ts": "2026-02-03T13:16:49.344Z",
       "type": "feat",
       "summary": "implement comparison tool for horse breeds"
+    },
+    {
+      "ts": "2026-02-04T07:03:28.648Z",
+      "type": "feat",
+      "summary": "add FAQ schema markup generator"
     }
   ]
 }
