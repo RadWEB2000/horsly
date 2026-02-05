@@ -8491,6 +8491,11 @@
       "ts": "2026-02-05T10:30:20.418Z",
       "type": "feat",
       "summary": "add event calendar for equestrian competitions"
+    },
+    {
+      "ts": "2026-02-05T12:50:16.724Z",
+      "type": "config",
+      "summary": "add Content-Security-Policy to middleware"
     }
   ]
 }
