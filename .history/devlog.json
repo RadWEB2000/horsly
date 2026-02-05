@@ -8501,6 +8501,11 @@
       "ts": "2026-02-05T13:53:28.523Z",
       "type": "config",
       "summary": "add environment variable schema validation"
+    },
+    {
+      "ts": "2026-02-05T14:09:03.520Z",
+      "type": "fix",
+      "summary": "fix trailing slash inconsistency in dynamic routes"
     }
   ]
 }
