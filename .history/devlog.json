@@ -8481,6 +8481,11 @@
       "ts": "2026-02-05T08:06:18.148Z",
       "type": "feat",
       "summary": "implement horse pedigree viewer component"
+    },
+    {
+      "ts": "2026-02-05T09:59:23.203Z",
+      "type": "docs",
+      "summary": "document sitemap generation and regeneration process"
     }
   ]
 }
