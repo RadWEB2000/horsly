@@ -8531,6 +8531,11 @@
       "ts": "2026-02-08T13:08:07.311Z",
       "type": "fix",
       "summary": "fix Open Graph image dimensions for Twitter cards"
+    },
+    {
+      "ts": "2026-02-08T16:36:17.821Z",
+      "type": "config",
+      "summary": "update TypeScript path aliases in tsconfig"
     }
   ]
 }
