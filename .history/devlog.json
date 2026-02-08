@@ -8526,6 +8526,11 @@
       "ts": "2026-02-08T11:44:56.794Z",
       "type": "config",
       "summary": "configure trailing slash behavior globally"
+    },
+    {
+      "ts": "2026-02-08T13:08:07.311Z",
+      "type": "fix",
+      "summary": "fix Open Graph image dimensions for Twitter cards"
     }
   ]
 }
