@@ -8521,6 +8521,11 @@
       "ts": "2026-02-06T16:11:02.945Z",
       "type": "content",
       "summary": "refresh footer links and contact information"
+    },
+    {
+      "ts": "2026-02-08T11:44:56.794Z",
+      "type": "config",
+      "summary": "configure trailing slash behavior globally"
     }
   ]
 }
