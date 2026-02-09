@@ -8541,6 +8541,11 @@
       "ts": "2026-02-09T07:52:22.625Z",
       "type": "content",
       "summary": "refresh footer links and contact information"
+    },
+    {
+      "ts": "2026-02-09T07:53:56.169Z",
+      "type": "fix",
+      "summary": "correct sitemap lastmod date format to ISO 8601"
     }
   ]
 }
