@@ -8536,6 +8536,11 @@
       "ts": "2026-02-08T16:36:17.821Z",
       "type": "config",
       "summary": "update TypeScript path aliases in tsconfig"
+    },
+    {
+      "ts": "2026-02-09T07:52:22.625Z",
+      "type": "content",
+      "summary": "refresh footer links and contact information"
     }
   ]
 }
