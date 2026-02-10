@@ -8556,6 +8556,11 @@
       "ts": "2026-02-10T08:32:10.549Z",
       "type": "docs",
       "summary": "document structured data schema conventions"
+    },
+    {
+      "ts": "2026-02-10T09:42:51.499Z",
+      "type": "refactor",
+      "summary": "consolidate structured data generators into factory"
     }
   ]
 }
