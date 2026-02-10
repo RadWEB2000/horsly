@@ -8551,6 +8551,11 @@
       "ts": "2026-02-10T08:27:03.827Z",
       "type": "fix",
       "summary": "correct currency formatting for non-PLN locales"
+    },
+    {
+      "ts": "2026-02-10T08:32:10.549Z",
+      "type": "docs",
+      "summary": "document structured data schema conventions"
     }
   ]
 }
