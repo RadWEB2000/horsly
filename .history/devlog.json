@@ -8561,6 +8561,11 @@
       "ts": "2026-02-10T09:42:51.499Z",
       "type": "refactor",
       "summary": "consolidate structured data generators into factory"
+    },
+    {
+      "ts": "2026-02-10T09:56:16.676Z",
+      "type": "feat",
+      "summary": "implement lazy loading for stable gallery images"
     }
   ]
 }
