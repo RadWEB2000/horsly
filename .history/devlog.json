@@ -8566,6 +8566,11 @@
       "ts": "2026-02-10T09:56:16.676Z",
       "type": "feat",
       "summary": "implement lazy loading for stable gallery images"
+    },
+    {
+      "ts": "2026-02-12T13:29:49.973Z",
+      "type": "feat",
+      "summary": "add print-friendly styles for horse passports"
     }
   ]
 }
