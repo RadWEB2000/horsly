@@ -8571,6 +8571,11 @@
       "ts": "2026-02-12T13:29:49.973Z",
       "type": "feat",
       "summary": "add print-friendly styles for horse passports"
+    },
+    {
+      "ts": "2026-02-12T14:43:27.416Z",
+      "type": "fix",
+      "summary": "fix memory leak in WebSocket auction connection"
     }
   ]
 }
