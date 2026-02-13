@@ -8576,6 +8576,11 @@
       "ts": "2026-02-12T14:43:27.416Z",
       "type": "fix",
       "summary": "fix memory leak in WebSocket auction connection"
+    },
+    {
+      "ts": "2026-02-13T09:13:45.179Z",
+      "type": "content",
+      "summary": "update newsletter signup copy and CTA"
     }
   ]
 }
