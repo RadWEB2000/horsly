@@ -8586,6 +8586,11 @@
       "ts": "2026-02-13T15:04:57.908Z",
       "type": "perf",
       "summary": "implement service worker for offline map tiles"
+    },
+    {
+      "ts": "2026-02-16T09:29:23.910Z",
+      "type": "fix",
+      "summary": "fix race condition in geolocation map component"
     }
   ]
 }
