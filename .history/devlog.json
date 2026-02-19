@@ -8611,6 +8611,11 @@
       "ts": "2026-02-18T16:38:06.252Z",
       "type": "refactor",
       "summary": "refactor horse schema to extend base Article type"
+    },
+    {
+      "ts": "2026-02-19T12:46:00.655Z",
+      "type": "content",
+      "summary": "update author bio metadata for trainers"
     }
   ]
 }
