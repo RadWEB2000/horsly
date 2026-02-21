@@ -8621,6 +8621,11 @@
       "ts": "2026-02-21T10:16:10.361Z",
       "type": "perf",
       "summary": "implement service worker for offline map tiles"
+    },
+    {
+      "ts": "2026-02-21T13:57:39.507Z",
+      "type": "content",
+      "summary": "update newsletter signup copy and CTA"
     }
   ]
 }
