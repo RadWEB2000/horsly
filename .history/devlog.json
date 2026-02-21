@@ -8616,6 +8616,11 @@
       "ts": "2026-02-19T12:46:00.655Z",
       "type": "content",
       "summary": "update author bio metadata for trainers"
+    },
+    {
+      "ts": "2026-02-21T10:16:10.361Z",
+      "type": "perf",
+      "summary": "implement service worker for offline map tiles"
     }
   ]
 }
