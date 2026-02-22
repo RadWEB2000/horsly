@@ -8631,6 +8631,11 @@
       "ts": "2026-02-21T16:36:16.995Z",
       "type": "content",
       "summary": "refresh About page structured content"
+    },
+    {
+      "ts": "2026-02-22T07:18:44.117Z",
+      "type": "docs",
+      "summary": "add API documentation for SEO utility functions"
     }
   ]
 }
