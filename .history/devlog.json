@@ -8656,6 +8656,11 @@
       "ts": "2026-02-23T13:56:24.139Z",
       "type": "content",
       "summary": "update pricing page SEO copy"
+    },
+    {
+      "ts": "2026-02-23T14:49:14.995Z",
+      "type": "refactor",
+      "summary": "migrate fetch calls to typed api client wrapper"
     }
   ]
 }
