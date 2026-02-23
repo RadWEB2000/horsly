@@ -8661,6 +8661,11 @@
       "ts": "2026-02-23T14:49:14.995Z",
       "type": "refactor",
       "summary": "migrate fetch calls to typed api client wrapper"
+    },
+    {
+      "ts": "2026-02-23T16:18:25.753Z",
+      "type": "content",
+      "summary": "update newsletter signup copy and CTA"
     }
   ]
 }
