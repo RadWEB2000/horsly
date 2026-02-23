@@ -8636,6 +8636,11 @@
       "ts": "2026-02-22T07:18:44.117Z",
       "type": "docs",
       "summary": "add API documentation for SEO utility functions"
+    },
+    {
+      "ts": "2026-02-23T07:49:04.127Z",
+      "type": "refactor",
+      "summary": "extract date helpers to lib/date module"
     }
   ]
 }
