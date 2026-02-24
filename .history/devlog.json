@@ -8666,6 +8666,11 @@
       "ts": "2026-02-23T16:18:25.753Z",
       "type": "content",
       "summary": "update newsletter signup copy and CTA"
+    },
+    {
+      "ts": "2026-02-24T08:01:07.445Z",
+      "type": "perf",
+      "summary": "compress devlog and reduce JSON payload size"
     }
   ]
 }
