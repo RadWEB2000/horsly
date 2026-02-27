@@ -8696,6 +8696,11 @@
       "ts": "2026-02-27T12:26:59.784Z",
       "type": "feat",
       "summary": "add news feed with article schema"
+    },
+    {
+      "ts": "2026-02-27T13:45:01.349Z",
+      "type": "fix",
+      "summary": "fix race condition in geolocation map component"
     }
   ]
 }
