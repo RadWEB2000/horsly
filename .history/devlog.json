@@ -8691,6 +8691,11 @@
       "ts": "2026-02-27T11:15:23.776Z",
       "type": "docs",
       "summary": "add contributing guide for content editors"
+    },
+    {
+      "ts": "2026-02-27T12:26:59.784Z",
+      "type": "feat",
+      "summary": "add news feed with article schema"
     }
   ]
 }
