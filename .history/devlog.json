@@ -8681,6 +8681,11 @@
       "ts": "2026-02-25T13:40:37.294Z",
       "type": "content",
       "summary": "update homepage meta description and H1 copy"
+    },
+    {
+      "ts": "2026-02-27T09:43:18.364Z",
+      "type": "docs",
+      "summary": "add contributing guide for content editors"
     }
   ]
 }
