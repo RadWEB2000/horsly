@@ -8701,6 +8701,11 @@
       "ts": "2026-02-27T13:45:01.349Z",
       "type": "fix",
       "summary": "fix race condition in geolocation map component"
+    },
+    {
+      "ts": "2026-02-28T10:06:19.595Z",
+      "type": "content",
+      "summary": "update homepage meta description and H1 copy"
     }
   ]
 }
