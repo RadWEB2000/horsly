@@ -8706,6 +8706,11 @@
       "ts": "2026-02-28T10:06:19.595Z",
       "type": "content",
       "summary": "update homepage meta description and H1 copy"
+    },
+    {
+      "ts": "2026-02-28T14:08:24.072Z",
+      "type": "feat",
+      "summary": "add FAQ schema markup generator"
     }
   ]
 }
