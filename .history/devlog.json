@@ -8726,6 +8726,11 @@
       "ts": "2026-03-03T09:58:27.888Z",
       "type": "feat",
       "summary": "add hreflang support for pl/en/de locales"
+    },
+    {
+      "ts": "2026-03-03T13:59:26.143Z",
+      "type": "perf",
+      "summary": "optimize image loading with priority hints on hero"
     }
   ]
 }
