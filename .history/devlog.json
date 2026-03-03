@@ -8716,6 +8716,11 @@
       "ts": "2026-03-02T16:53:55.038Z",
       "type": "feat",
       "summary": "add social sharing component with OG metadata"
+    },
+    {
+      "ts": "2026-03-03T09:36:35.904Z",
+      "type": "config",
+      "summary": "configure Vercel edge network caching rules"
     }
   ]
 }
