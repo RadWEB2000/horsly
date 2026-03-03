@@ -8721,6 +8721,11 @@
       "ts": "2026-03-03T09:36:35.904Z",
       "type": "config",
       "summary": "configure Vercel edge network caching rules"
+    },
+    {
+      "ts": "2026-03-03T09:58:27.888Z",
+      "type": "feat",
+      "summary": "add hreflang support for pl/en/de locales"
     }
   ]
 }
