@@ -8731,6 +8731,11 @@
       "ts": "2026-03-03T13:59:26.143Z",
       "type": "perf",
       "summary": "optimize image loading with priority hints on hero"
+    },
+    {
+      "ts": "2026-03-03T15:37:13.970Z",
+      "type": "perf",
+      "summary": "reduce LCP on homepage by inlining critical CSS"
     }
   ]
 }
