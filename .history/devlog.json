@@ -8746,6 +8746,11 @@
       "ts": "2026-03-04T09:41:57.394Z",
       "type": "refactor",
       "summary": "extract shared map utilities to lib/geo"
+    },
+    {
+      "ts": "2026-03-05T13:36:50.371Z",
+      "type": "config",
+      "summary": "add Content-Security-Policy to middleware"
     }
   ]
 }
