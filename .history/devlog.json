@@ -8766,6 +8766,11 @@
       "ts": "2026-03-07T17:01:06.838Z",
       "type": "fix",
       "summary": "correct filter state reset on route change"
+    },
+    {
+      "ts": "2026-03-09T09:25:44.085Z",
+      "type": "fix",
+      "summary": "fix race condition in geolocation map component"
     }
   ]
 }
