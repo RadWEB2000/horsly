@@ -8781,6 +8781,11 @@
       "ts": "2026-03-10T11:14:20.437Z",
       "type": "refactor",
       "summary": "refactor sitemap generator to use async generator"
+    },
+    {
+      "ts": "2026-03-10T11:17:59.580Z",
+      "type": "feat",
+      "summary": "add event calendar for equestrian competitions"
     }
   ]
 }
