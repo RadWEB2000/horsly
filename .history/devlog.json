@@ -8791,6 +8791,11 @@
       "ts": "2026-03-10T13:17:59.546Z",
       "type": "feat",
       "summary": "add hreflang support for pl/en/de locales"
+    },
+    {
+      "ts": "2026-03-10T15:10:48.531Z",
+      "type": "fix",
+      "summary": "fix missing meta viewport on mobile templates"
     }
   ]
 }
