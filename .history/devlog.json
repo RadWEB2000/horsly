@@ -8776,6 +8776,11 @@
       "ts": "2026-03-10T10:51:03.927Z",
       "type": "feat",
       "summary": "implement JSON-LD product schema for shop items"
+    },
+    {
+      "ts": "2026-03-10T11:14:20.437Z",
+      "type": "refactor",
+      "summary": "refactor sitemap generator to use async generator"
     }
   ]
 }
