@@ -8786,6 +8786,11 @@
       "ts": "2026-03-10T11:17:59.580Z",
       "type": "feat",
       "summary": "add event calendar for equestrian competitions"
+    },
+    {
+      "ts": "2026-03-10T13:17:59.546Z",
+      "type": "feat",
+      "summary": "add hreflang support for pl/en/de locales"
     }
   ]
 }
