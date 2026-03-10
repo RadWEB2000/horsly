@@ -8771,6 +8771,11 @@
       "ts": "2026-03-09T09:25:44.085Z",
       "type": "fix",
       "summary": "fix race condition in geolocation map component"
+    },
+    {
+      "ts": "2026-03-10T10:51:03.927Z",
+      "type": "feat",
+      "summary": "implement JSON-LD product schema for shop items"
     }
   ]
 }
