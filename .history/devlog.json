@@ -8796,6 +8796,11 @@
       "ts": "2026-03-10T15:10:48.531Z",
       "type": "fix",
       "summary": "fix missing meta viewport on mobile templates"
+    },
+    {
+      "ts": "2026-03-11T11:08:53.763Z",
+      "type": "fix",
+      "summary": "correct filter state reset on route change"
     }
   ]
 }
