@@ -8801,6 +8801,11 @@
       "ts": "2026-03-11T11:08:53.763Z",
       "type": "fix",
       "summary": "correct filter state reset on route change"
+    },
+    {
+      "ts": "2026-03-11T14:05:49.143Z",
+      "type": "content",
+      "summary": "update competition category naming conventions"
     }
   ]
 }
