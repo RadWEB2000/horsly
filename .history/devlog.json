@@ -8806,6 +8806,11 @@
       "ts": "2026-03-11T14:05:49.143Z",
       "type": "content",
       "summary": "update competition category naming conventions"
+    },
+    {
+      "ts": "2026-03-12T10:58:31.106Z",
+      "type": "perf",
+      "summary": "reduce LCP on homepage by inlining critical CSS"
     }
   ]
 }
