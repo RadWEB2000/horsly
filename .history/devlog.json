@@ -8811,6 +8811,11 @@
       "ts": "2026-03-12T10:58:31.106Z",
       "type": "perf",
       "summary": "reduce LCP on homepage by inlining critical CSS"
+    },
+    {
+      "ts": "2026-03-12T11:18:36.909Z",
+      "type": "feat",
+      "summary": "implement advanced search with faceted filters"
     }
   ]
 }
