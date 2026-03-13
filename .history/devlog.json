@@ -8831,6 +8831,11 @@
       "ts": "2026-03-13T10:06:09.340Z",
       "type": "perf",
       "summary": "implement ISR with 24h revalidation for breed pages"
+    },
+    {
+      "ts": "2026-03-13T15:45:56.284Z",
+      "type": "refactor",
+      "summary": "consolidate structured data generators into factory"
     }
   ]
 }
