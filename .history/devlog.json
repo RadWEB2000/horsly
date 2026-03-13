@@ -8836,6 +8836,11 @@
       "ts": "2026-03-13T15:45:56.284Z",
       "type": "refactor",
       "summary": "consolidate structured data generators into factory"
+    },
+    {
+      "ts": "2026-03-13T16:28:48.375Z",
+      "type": "content",
+      "summary": "update newsletter signup copy and CTA"
     }
   ]
 }
