@@ -8841,6 +8841,11 @@
       "ts": "2026-03-13T16:28:48.375Z",
       "type": "content",
       "summary": "update newsletter signup copy and CTA"
+    },
+    {
+      "ts": "2026-03-14T15:49:41.894Z",
+      "type": "feat",
+      "summary": "implement stable locator map with geolocation"
     }
   ]
 }
