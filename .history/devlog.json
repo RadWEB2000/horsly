@@ -8876,6 +8876,11 @@
       "ts": "2026-03-19T14:26:50.270Z",
       "type": "refactor",
       "summary": "extract SEO utilities to shared lib/seo module"
+    },
+    {
+      "ts": "2026-03-19T14:28:10.280Z",
+      "type": "refactor",
+      "summary": "refactor sitemap generator to use async generator"
     }
   ]
 }
