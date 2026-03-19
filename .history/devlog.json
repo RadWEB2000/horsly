@@ -8871,6 +8871,11 @@
       "ts": "2026-03-19T13:43:43.581Z",
       "type": "feat",
       "summary": "add print-friendly styles for horse passports"
+    },
+    {
+      "ts": "2026-03-19T14:26:50.270Z",
+      "type": "refactor",
+      "summary": "extract SEO utilities to shared lib/seo module"
     }
   ]
 }
