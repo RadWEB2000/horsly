@@ -8856,6 +8856,11 @@
       "ts": "2026-03-16T14:49:09.904Z",
       "type": "feat",
       "summary": "add Core Web Vitals dashboard integration"
+    },
+    {
+      "ts": "2026-03-19T09:30:44.320Z",
+      "type": "content",
+      "summary": "add testimonials section with review schema"
     }
   ]
 }
