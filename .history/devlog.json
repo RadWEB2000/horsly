@@ -8901,6 +8901,11 @@
       "ts": "2026-03-21T13:38:13.382Z",
       "type": "refactor",
       "summary": "split monolithic ListingCard into composable parts"
+    },
+    {
+      "ts": "2026-03-21T16:55:19.429Z",
+      "type": "config",
+      "summary": "configure biome lint rules for project conventions"
     }
   ]
 }
