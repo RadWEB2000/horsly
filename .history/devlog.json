@@ -8881,6 +8881,11 @@
       "ts": "2026-03-19T14:28:10.280Z",
       "type": "refactor",
       "summary": "refactor sitemap generator to use async generator"
+    },
+    {
+      "ts": "2026-03-21T09:32:56.988Z",
+      "type": "feat",
+      "summary": "implement sitemap auto-generation from page tree"
     }
   ]
 }
