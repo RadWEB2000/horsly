@@ -8886,6 +8886,11 @@
       "ts": "2026-03-21T09:32:56.988Z",
       "type": "feat",
       "summary": "implement sitemap auto-generation from page tree"
+    },
+    {
+      "ts": "2026-03-21T11:16:40.706Z",
+      "type": "feat",
+      "summary": "implement dynamic robots.txt generation"
     }
   ]
 }
