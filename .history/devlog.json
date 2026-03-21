@@ -8891,6 +8891,11 @@
       "ts": "2026-03-21T11:16:40.706Z",
       "type": "feat",
       "summary": "implement dynamic robots.txt generation"
+    },
+    {
+      "ts": "2026-03-21T13:01:28.925Z",
+      "type": "perf",
+      "summary": "reduce JS bundle by removing unused lodash methods"
     }
   ]
 }
