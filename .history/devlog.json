@@ -8921,6 +8921,11 @@
       "ts": "2026-03-24T14:59:03.367Z",
       "type": "refactor",
       "summary": "replace class components with function components"
+    },
+    {
+      "ts": "2026-03-24T17:03:38.152Z",
+      "type": "feat",
+      "summary": "add FAQ schema markup generator"
     }
   ]
 }
