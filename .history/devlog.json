@@ -8926,6 +8926,11 @@
       "ts": "2026-03-24T17:03:38.152Z",
       "type": "feat",
       "summary": "add FAQ schema markup generator"
+    },
+    {
+      "ts": "2026-03-25T10:50:45.523Z",
+      "type": "refactor",
+      "summary": "refactor filter logic to use URL search params"
     }
   ]
 }
