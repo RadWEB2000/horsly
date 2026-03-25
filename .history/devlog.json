@@ -8931,6 +8931,11 @@
       "ts": "2026-03-25T10:50:45.523Z",
       "type": "refactor",
       "summary": "refactor filter logic to use URL search params"
+    },
+    {
+      "ts": "2026-03-25T12:44:06.399Z",
+      "type": "config",
+      "summary": "configure bundle analyzer for production builds"
     }
   ]
 }
