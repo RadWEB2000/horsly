@@ -8946,6 +8946,11 @@
       "ts": "2026-03-26T08:23:40.109Z",
       "type": "refactor",
       "summary": "migrate meta tag logic to useSeoMeta hook"
+    },
+    {
+      "ts": "2026-03-26T10:07:28.011Z",
+      "type": "docs",
+      "summary": "add API documentation for SEO utility functions"
     }
   ]
 }
