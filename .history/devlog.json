@@ -8971,6 +8971,11 @@
       "ts": "2026-03-27T09:43:03.953Z",
       "type": "perf",
       "summary": "optimize font loading with preconnect and display swap"
+    },
+    {
+      "ts": "2026-03-27T10:37:39.066Z",
+      "type": "fix",
+      "summary": "fix Open Graph image dimensions for Twitter cards"
     }
   ]
 }
