@@ -8976,6 +8976,11 @@
       "ts": "2026-03-27T10:37:39.066Z",
       "type": "fix",
       "summary": "fix Open Graph image dimensions for Twitter cards"
+    },
+    {
+      "ts": "2026-03-27T14:27:34.040Z",
+      "type": "feat",
+      "summary": "add interactive arena diagram component"
     }
   ]
 }
