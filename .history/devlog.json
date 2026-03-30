@@ -8986,6 +8986,11 @@
       "ts": "2026-03-30T06:32:57.459Z",
       "type": "config",
       "summary": "update PostCSS config for custom breakpoints"
+    },
+    {
+      "ts": "2026-03-30T06:47:59.900Z",
+      "type": "fix",
+      "summary": "fix race condition in geolocation map component"
     }
   ]
 }
