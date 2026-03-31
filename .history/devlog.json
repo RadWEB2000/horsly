@@ -9001,6 +9001,11 @@
       "ts": "2026-03-30T15:25:31.392Z",
       "type": "feat",
       "summary": "add breadcrumb schema markup to all pages"
+    },
+    {
+      "ts": "2026-03-31T06:43:36.980Z",
+      "type": "config",
+      "summary": "update next.config.ts for pl/en/de i18n routing"
     }
   ]
 }
