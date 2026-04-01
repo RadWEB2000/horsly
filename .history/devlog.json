@@ -9006,6 +9006,11 @@
       "ts": "2026-03-31T06:43:36.980Z",
       "type": "config",
       "summary": "update next.config.ts for pl/en/de i18n routing"
+    },
+    {
+      "ts": "2026-04-01T09:31:14.950Z",
+      "type": "docs",
+      "summary": "document map component configuration options"
     }
   ]
 }
