@@ -9016,6 +9016,11 @@
       "ts": "2026-04-02T09:41:30.745Z",
       "type": "feat",
       "summary": "add social sharing component with OG metadata"
+    },
+    {
+      "ts": "2026-04-03T09:51:38.351Z",
+      "type": "fix",
+      "summary": "resolve 404 for dynamically generated sitemaps"
     }
   ]
 }
