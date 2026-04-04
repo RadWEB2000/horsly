@@ -9021,6 +9021,11 @@
       "ts": "2026-04-03T09:51:38.351Z",
       "type": "fix",
       "summary": "resolve 404 for dynamically generated sitemaps"
+    },
+    {
+      "ts": "2026-04-04T08:04:12.754Z",
+      "type": "feat",
+      "summary": "implement advanced search with faceted filters"
     }
   ]
 }
