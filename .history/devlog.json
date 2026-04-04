@@ -9036,6 +9036,11 @@
       "ts": "2026-04-04T15:55:45.948Z",
       "type": "feat",
       "summary": "implement stable locator map with geolocation"
+    },
+    {
+      "ts": "2026-04-04T16:20:45.057Z",
+      "type": "fix",
+      "summary": "resolve hreflang alternate link self-referencing loop"
     }
   ]
 }
