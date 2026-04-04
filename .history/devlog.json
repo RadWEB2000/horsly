@@ -9026,6 +9026,11 @@
       "ts": "2026-04-04T08:04:12.754Z",
       "type": "feat",
       "summary": "implement advanced search with faceted filters"
+    },
+    {
+      "ts": "2026-04-04T10:21:35.142Z",
+      "type": "feat",
+      "summary": "add FAQ schema markup generator"
     }
   ]
 }
