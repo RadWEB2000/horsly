@@ -9031,6 +9031,11 @@
       "ts": "2026-04-04T10:21:35.142Z",
       "type": "feat",
       "summary": "add FAQ schema markup generator"
+    },
+    {
+      "ts": "2026-04-04T15:55:45.948Z",
+      "type": "feat",
+      "summary": "implement stable locator map with geolocation"
     }
   ]
 }
