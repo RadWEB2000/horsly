@@ -9041,6 +9041,11 @@
       "ts": "2026-04-04T16:20:45.057Z",
       "type": "fix",
       "summary": "resolve hreflang alternate link self-referencing loop"
+    },
+    {
+      "ts": "2026-04-06T08:17:05.060Z",
+      "type": "feat",
+      "summary": "add dark mode support with system preference detection"
     }
   ]
 }
