@@ -9056,6 +9056,11 @@
       "ts": "2026-04-06T10:10:31.988Z",
       "type": "config",
       "summary": "update sitemap generation configuration"
+    },
+    {
+      "ts": "2026-04-06T11:00:55.611Z",
+      "type": "fix",
+      "summary": "correct sitemap lastmod date format to ISO 8601"
     }
   ]
 }
