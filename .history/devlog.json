@@ -9046,6 +9046,11 @@
       "ts": "2026-04-06T08:17:05.060Z",
       "type": "feat",
       "summary": "add dark mode support with system preference detection"
+    },
+    {
+      "ts": "2026-04-06T10:04:52.309Z",
+      "type": "fix",
+      "summary": "correct date formatting in event calendar"
     }
   ]
 }
