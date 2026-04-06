@@ -9061,6 +9061,11 @@
       "ts": "2026-04-06T11:00:55.611Z",
       "type": "fix",
       "summary": "correct sitemap lastmod date format to ISO 8601"
+    },
+    {
+      "ts": "2026-04-06T12:01:01.258Z",
+      "type": "feat",
+      "summary": "implement search engine preview component"
     }
   ]
 }
