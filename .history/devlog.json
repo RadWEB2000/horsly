@@ -9071,6 +9071,11 @@
       "ts": "2026-04-07T09:40:00.961Z",
       "type": "feat",
       "summary": "implement search engine preview component"
+    },
+    {
+      "ts": "2026-04-07T09:46:48.873Z",
+      "type": "refactor",
+      "summary": "consolidate API error handling into interceptor"
     }
   ]
 }
