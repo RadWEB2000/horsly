@@ -9076,6 +9076,11 @@
       "ts": "2026-04-07T09:46:48.873Z",
       "type": "refactor",
       "summary": "consolidate API error handling into interceptor"
+    },
+    {
+      "ts": "2026-04-07T12:42:35.202Z",
+      "type": "feat",
+      "summary": "add hreflang support for pl/en/de locales"
     }
   ]
 }
