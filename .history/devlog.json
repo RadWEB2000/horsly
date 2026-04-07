@@ -9081,6 +9081,11 @@
       "ts": "2026-04-07T12:42:35.202Z",
       "type": "feat",
       "summary": "add hreflang support for pl/en/de locales"
+    },
+    {
+      "ts": "2026-04-07T15:52:37.481Z",
+      "type": "content",
+      "summary": "revise landing page title tags for better CTR"
     }
   ]
 }
