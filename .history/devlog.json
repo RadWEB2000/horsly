@@ -9091,6 +9091,11 @@
       "ts": "2026-04-09T08:30:21.923Z",
       "type": "config",
       "summary": "configure bundle analyzer for production builds"
+    },
+    {
+      "ts": "2026-04-09T11:49:17.944Z",
+      "type": "feat",
+      "summary": "add Core Web Vitals dashboard integration"
     }
   ]
 }
