@@ -9096,6 +9096,11 @@
       "ts": "2026-04-09T11:49:17.944Z",
       "type": "feat",
       "summary": "add Core Web Vitals dashboard integration"
+    },
+    {
+      "ts": "2026-04-10T07:13:01.247Z",
+      "type": "content",
+      "summary": "add region-specific content for Małopolska stables"
     }
   ]
 }
