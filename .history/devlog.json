@@ -9106,6 +9106,11 @@
       "ts": "2026-04-10T14:58:03.121Z",
       "type": "feat",
       "summary": "add hreflang support for pl/en/de locales"
+    },
+    {
+      "ts": "2026-04-13T10:27:40.505Z",
+      "type": "feat",
+      "summary": "implement auction listing with bidding metadata"
     }
   ]
 }
