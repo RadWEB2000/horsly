@@ -9116,6 +9116,11 @@
       "ts": "2026-04-13T16:13:56.805Z",
       "type": "refactor",
       "summary": "consolidate theme tokens into design system config"
+    },
+    {
+      "ts": "2026-04-15T10:47:25.213Z",
+      "type": "config",
+      "summary": "add Content-Security-Policy to middleware"
     }
   ]
 }
