@@ -9121,6 +9121,11 @@
       "ts": "2026-04-15T10:47:25.213Z",
       "type": "config",
       "summary": "add Content-Security-Policy to middleware"
+    },
+    {
+      "ts": "2026-04-15T15:35:12.581Z",
+      "type": "docs",
+      "summary": "add contributing guide for content editors"
     }
   ]
 }
