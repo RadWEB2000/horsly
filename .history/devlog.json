@@ -9136,6 +9136,11 @@
       "ts": "2026-04-20T09:14:59.300Z",
       "type": "fix",
       "summary": "fix memory leak in WebSocket auction connection"
+    },
+    {
+      "ts": "2026-04-20T10:01:53.504Z",
+      "type": "feat",
+      "summary": "implement related listings recommendation block"
     }
   ]
 }
