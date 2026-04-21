@@ -9141,6 +9141,11 @@
       "ts": "2026-04-20T10:01:53.504Z",
       "type": "feat",
       "summary": "implement related listings recommendation block"
+    },
+    {
+      "ts": "2026-04-21T08:38:29.500Z",
+      "type": "feat",
+      "summary": "implement horse pedigree viewer component"
     }
   ]
 }
