@@ -9151,6 +9151,11 @@
       "ts": "2026-04-21T09:10:23.396Z",
       "type": "fix",
       "summary": "resolve infinite redirect in canonical middleware"
+    },
+    {
+      "ts": "2026-04-21T13:14:38.846Z",
+      "type": "feat",
+      "summary": "add print-friendly styles for horse passports"
     }
   ]
 }
