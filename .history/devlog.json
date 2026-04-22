@@ -9176,6 +9176,11 @@
       "ts": "2026-04-22T11:29:36.234Z",
       "type": "perf",
       "summary": "reduce JS bundle by removing unused lodash methods"
+    },
+    {
+      "ts": "2026-04-22T11:51:16.646Z",
+      "type": "content",
+      "summary": "refresh About page structured content"
     }
   ]
 }
