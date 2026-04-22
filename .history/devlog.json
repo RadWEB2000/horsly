@@ -9166,6 +9166,11 @@
       "ts": "2026-04-22T10:56:10.207Z",
       "type": "content",
       "summary": "update product page keyword targeting"
+    },
+    {
+      "ts": "2026-04-22T11:25:32.344Z",
+      "type": "fix",
+      "summary": "fix duplicate meta description on category pages"
     }
   ]
 }
