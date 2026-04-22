@@ -9171,6 +9171,11 @@
       "ts": "2026-04-22T11:25:32.344Z",
       "type": "fix",
       "summary": "fix duplicate meta description on category pages"
+    },
+    {
+      "ts": "2026-04-22T11:29:36.234Z",
+      "type": "perf",
+      "summary": "reduce JS bundle by removing unused lodash methods"
     }
   ]
 }
