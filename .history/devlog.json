@@ -9181,6 +9181,11 @@
       "ts": "2026-04-22T11:51:16.646Z",
       "type": "content",
       "summary": "refresh About page structured content"
+    },
+    {
+      "ts": "2026-04-22T11:58:52.308Z",
+      "type": "fix",
+      "summary": "correct heading hierarchy on horse detail pages"
     }
   ]
 }
