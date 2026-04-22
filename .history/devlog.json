@@ -9161,6 +9161,11 @@
       "ts": "2026-04-22T08:33:40.901Z",
       "type": "config",
       "summary": "add Sentry source map upload to build pipeline"
+    },
+    {
+      "ts": "2026-04-22T10:56:10.207Z",
+      "type": "content",
+      "summary": "update product page keyword targeting"
     }
   ]
 }
