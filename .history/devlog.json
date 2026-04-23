@@ -9196,6 +9196,11 @@
       "ts": "2026-04-23T11:35:20.174Z",
       "type": "fix",
       "summary": "correct sitemap lastmod date format to ISO 8601"
+    },
+    {
+      "ts": "2026-04-23T14:45:56.865Z",
+      "type": "refactor",
+      "summary": "migrate config to zod-validated schema"
     }
   ]
 }
