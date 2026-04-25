@@ -9201,6 +9201,11 @@
       "ts": "2026-04-23T14:45:56.865Z",
       "type": "refactor",
       "summary": "migrate config to zod-validated schema"
+    },
+    {
+      "ts": "2026-04-25T06:04:07.617Z",
+      "type": "perf",
+      "summary": "reduce LCP on homepage by inlining critical CSS"
     }
   ]
 }
