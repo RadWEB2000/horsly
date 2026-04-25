@@ -9206,6 +9206,11 @@
       "ts": "2026-04-25T06:04:07.617Z",
       "type": "perf",
       "summary": "reduce LCP on homepage by inlining critical CSS"
+    },
+    {
+      "ts": "2026-04-25T09:22:35.027Z",
+      "type": "perf",
+      "summary": "optimize font loading with preconnect and display swap"
     }
   ]
 }
