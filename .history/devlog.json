@@ -9221,6 +9221,11 @@
       "ts": "2026-04-27T10:09:48.523Z",
       "type": "fix",
       "summary": "correct structured data JSON-LD syntax error in product schema"
+    },
+    {
+      "ts": "2026-04-27T10:59:58.297Z",
+      "type": "feat",
+      "summary": "implement search engine preview component"
     }
   ]
 }
