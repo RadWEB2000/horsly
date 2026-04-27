@@ -9216,6 +9216,11 @@
       "ts": "2026-04-27T06:32:12.099Z",
       "type": "fix",
       "summary": "correct date formatting in event calendar"
+    },
+    {
+      "ts": "2026-04-27T10:09:48.523Z",
+      "type": "fix",
+      "summary": "correct structured data JSON-LD syntax error in product schema"
     }
   ]
 }
