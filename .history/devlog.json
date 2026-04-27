@@ -9211,6 +9211,11 @@
       "ts": "2026-04-25T09:22:35.027Z",
       "type": "perf",
       "summary": "optimize font loading with preconnect and display swap"
+    },
+    {
+      "ts": "2026-04-27T06:32:12.099Z",
+      "type": "fix",
+      "summary": "correct date formatting in event calendar"
     }
   ]
 }
