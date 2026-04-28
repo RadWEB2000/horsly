@@ -9226,6 +9226,11 @@
       "ts": "2026-04-27T10:59:58.297Z",
       "type": "feat",
       "summary": "implement search engine preview component"
+    },
+    {
+      "ts": "2026-04-28T14:58:20.548Z",
+      "type": "feat",
+      "summary": "implement lazy loading for stable gallery images"
     }
   ]
 }
