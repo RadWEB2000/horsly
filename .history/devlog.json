@@ -9241,6 +9241,11 @@
       "ts": "2026-04-29T07:09:22.681Z",
       "type": "feat",
       "summary": "implement search engine preview component"
+    },
+    {
+      "ts": "2026-04-29T07:15:01.793Z",
+      "type": "perf",
+      "summary": "implement route prefetching for navigation links"
     }
   ]
 }
