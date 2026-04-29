@@ -9246,6 +9246,11 @@
       "ts": "2026-04-29T07:15:01.793Z",
       "type": "perf",
       "summary": "implement route prefetching for navigation links"
+    },
+    {
+      "ts": "2026-04-29T07:30:05.809Z",
+      "type": "feat",
+      "summary": "implement paginated blog archive with ISR"
     }
   ]
 }
