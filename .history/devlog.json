@@ -9251,6 +9251,11 @@
       "ts": "2026-04-29T07:30:05.809Z",
       "type": "feat",
       "summary": "implement paginated blog archive with ISR"
+    },
+    {
+      "ts": "2026-04-29T14:53:51.024Z",
+      "type": "fix",
+      "summary": "resolve CSP violation for third-party map tiles"
     }
   ]
 }
