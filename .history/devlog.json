@@ -9231,6 +9231,11 @@
       "ts": "2026-04-28T14:58:20.548Z",
       "type": "feat",
       "summary": "implement lazy loading for stable gallery images"
+    },
+    {
+      "ts": "2026-04-29T06:17:56.532Z",
+      "type": "fix",
+      "summary": "fix sitemap URL encoding for Polish characters"
     }
   ]
 }
