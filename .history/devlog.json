@@ -9256,6 +9256,11 @@
       "ts": "2026-04-29T14:53:51.024Z",
       "type": "fix",
       "summary": "resolve CSP violation for third-party map tiles"
+    },
+    {
+      "ts": "2026-04-30T06:30:38.473Z",
+      "type": "refactor",
+      "summary": "refactor sitemap generator to use async generator"
     }
   ]
 }
