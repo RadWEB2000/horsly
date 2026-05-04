@@ -9286,6 +9286,11 @@
       "ts": "2026-05-01T12:12:46.153Z",
       "type": "feat",
       "summary": "implement lazy loading for stable gallery images"
+    },
+    {
+      "ts": "2026-05-04T15:13:32.899Z",
+      "type": "feat",
+      "summary": "add Core Web Vitals dashboard integration"
     }
   ]
 }
