@@ -9301,6 +9301,11 @@
       "ts": "2026-05-06T06:47:16.421Z",
       "type": "refactor",
       "summary": "migrate config to zod-validated schema"
+    },
+    {
+      "ts": "2026-05-06T09:25:11.000Z",
+      "type": "feat",
+      "summary": "add competition results table"
     }
   ]
 }
