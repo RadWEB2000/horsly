@@ -9306,6 +9306,11 @@
       "ts": "2026-05-06T09:25:11.000Z",
       "type": "feat",
       "summary": "add competition results table"
+    },
+    {
+      "ts": "2026-05-06T13:36:38.444Z",
+      "type": "fix",
+      "summary": "resolve 404 for dynamically generated sitemaps"
     }
   ]
 }
