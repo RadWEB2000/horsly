@@ -9296,6 +9296,11 @@
       "ts": "2026-05-06T06:39:53.097Z",
       "type": "perf",
       "summary": "implement ISR with 24h revalidation for breed pages"
+    },
+    {
+      "ts": "2026-05-06T06:47:16.421Z",
+      "type": "refactor",
+      "summary": "migrate config to zod-validated schema"
     }
   ]
 }
