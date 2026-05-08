@@ -9316,6 +9316,11 @@
       "ts": "2026-05-08T09:02:33.974Z",
       "type": "fix",
       "summary": "correct currency formatting for non-PLN locales"
+    },
+    {
+      "ts": "2026-05-08T12:14:11.263Z",
+      "type": "fix",
+      "summary": "resolve hreflang alternate link self-referencing loop"
     }
   ]
 }
