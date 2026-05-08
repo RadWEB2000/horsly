@@ -9321,6 +9321,11 @@
       "ts": "2026-05-08T12:14:11.263Z",
       "type": "fix",
       "summary": "resolve hreflang alternate link self-referencing loop"
+    },
+    {
+      "ts": "2026-05-08T14:55:25.783Z",
+      "type": "docs",
+      "summary": "document structured data schema conventions"
     }
   ]
 }
