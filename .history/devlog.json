@@ -9326,6 +9326,11 @@
       "ts": "2026-05-08T14:55:25.783Z",
       "type": "docs",
       "summary": "document structured data schema conventions"
+    },
+    {
+      "ts": "2026-05-11T07:19:52.777Z",
+      "type": "config",
+      "summary": "add security headers to middleware"
     }
   ]
 }
