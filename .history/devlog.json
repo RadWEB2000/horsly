@@ -9331,6 +9331,11 @@
       "ts": "2026-05-11T07:19:52.777Z",
       "type": "config",
       "summary": "add security headers to middleware"
+    },
+    {
+      "ts": "2026-05-11T12:03:53.288Z",
+      "type": "refactor",
+      "summary": "migrate meta tag logic to useSeoMeta hook"
     }
   ]
 }
