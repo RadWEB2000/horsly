@@ -9341,6 +9341,11 @@
       "ts": "2026-05-11T16:07:43.548Z",
       "type": "feat",
       "summary": "implement sitemap auto-generation from page tree"
+    },
+    {
+      "ts": "2026-05-12T08:17:01.065Z",
+      "type": "refactor",
+      "summary": "refactor horse schema to extend base Article type"
     }
   ]
 }
