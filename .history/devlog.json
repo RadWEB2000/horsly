@@ -9366,6 +9366,11 @@
       "ts": "2026-05-13T08:59:34.958Z",
       "type": "fix",
       "summary": "correct structured data JSON-LD syntax error in product schema"
+    },
+    {
+      "ts": "2026-05-13T10:23:13.264Z",
+      "type": "config",
+      "summary": "update sitemap generation configuration"
     }
   ]
 }
