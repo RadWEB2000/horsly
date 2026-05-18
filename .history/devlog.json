@@ -9381,6 +9381,11 @@
       "ts": "2026-05-16T14:36:29.211Z",
       "type": "config",
       "summary": "update PostCSS config for custom breakpoints"
+    },
+    {
+      "ts": "2026-05-18T09:24:11.854Z",
+      "type": "fix",
+      "summary": "correct currency formatting for non-PLN locales"
     }
   ]
 }
