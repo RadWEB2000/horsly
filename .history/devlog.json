@@ -9391,6 +9391,11 @@
       "ts": "2026-05-18T09:27:56.701Z",
       "type": "feat",
       "summary": "add news feed with article schema"
+    },
+    {
+      "ts": "2026-05-18T10:49:50.698Z",
+      "type": "fix",
+      "summary": "correct filter state reset on route change"
     }
   ]
 }
