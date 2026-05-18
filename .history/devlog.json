@@ -9386,6 +9386,11 @@
       "ts": "2026-05-18T09:24:11.854Z",
       "type": "fix",
       "summary": "correct currency formatting for non-PLN locales"
+    },
+    {
+      "ts": "2026-05-18T09:27:56.701Z",
+      "type": "feat",
+      "summary": "add news feed with article schema"
     }
   ]
 }
