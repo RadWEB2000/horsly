@@ -9416,6 +9416,11 @@
       "ts": "2026-05-19T12:30:32.508Z",
       "type": "docs",
       "summary": "document canonical URL strategy in AGENTS.md"
+    },
+    {
+      "ts": "2026-05-20T16:25:19.313Z",
+      "type": "config",
+      "summary": "update next.config.ts for pl/en/de i18n routing"
     }
   ]
 }
