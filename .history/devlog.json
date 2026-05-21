@@ -9431,6 +9431,11 @@
       "ts": "2026-05-21T06:54:18.285Z",
       "type": "feat",
       "summary": "implement auction listing with bidding metadata"
+    },
+    {
+      "ts": "2026-05-21T07:31:30.145Z",
+      "type": "feat",
+      "summary": "implement product listing with category filters"
     }
   ]
 }
