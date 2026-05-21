@@ -9421,6 +9421,11 @@
       "ts": "2026-05-20T16:25:19.313Z",
       "type": "config",
       "summary": "update next.config.ts for pl/en/de i18n routing"
+    },
+    {
+      "ts": "2026-05-21T06:14:23.709Z",
+      "type": "content",
+      "summary": "revise landing page title tags for better CTR"
     }
   ]
 }
