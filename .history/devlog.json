@@ -9451,6 +9451,11 @@
       "ts": "2026-05-22T10:00:06.459Z",
       "type": "feat",
       "summary": "implement lazy loading for stable gallery images"
+    },
+    {
+      "ts": "2026-05-22T11:32:49.552Z",
+      "type": "content",
+      "summary": "update newsletter signup copy and CTA"
     }
   ]
 }
