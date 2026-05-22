@@ -9441,6 +9441,11 @@
       "ts": "2026-05-21T08:49:46.547Z",
       "type": "fix",
       "summary": "resolve 404 for dynamically generated sitemaps"
+    },
+    {
+      "ts": "2026-05-22T06:08:01.909Z",
+      "type": "content",
+      "summary": "update homepage meta description and H1 copy"
     }
   ]
 }
