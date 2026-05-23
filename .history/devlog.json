@@ -9456,6 +9456,11 @@
       "ts": "2026-05-22T11:32:49.552Z",
       "type": "content",
       "summary": "update newsletter signup copy and CTA"
+    },
+    {
+      "ts": "2026-05-23T07:56:46.620Z",
+      "type": "refactor",
+      "summary": "extract shared map utilities to lib/geo"
     }
   ]
 }
