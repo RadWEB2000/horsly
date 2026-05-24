@@ -9461,6 +9461,11 @@
       "ts": "2026-05-23T07:56:46.620Z",
       "type": "refactor",
       "summary": "extract shared map utilities to lib/geo"
+    },
+    {
+      "ts": "2026-05-24T08:57:20.588Z",
+      "type": "content",
+      "summary": "add case study content for homepage hero section"
     }
   ]
 }
