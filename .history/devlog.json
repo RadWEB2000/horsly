@@ -9471,6 +9471,11 @@
       "ts": "2026-05-25T10:49:11.504Z",
       "type": "fix",
       "summary": "fix z-index overlap in mobile navigation menu"
+    },
+    {
+      "ts": "2026-05-25T12:27:04.389Z",
+      "type": "fix",
+      "summary": "correct structured data JSON-LD syntax error in product schema"
     }
   ]
 }
