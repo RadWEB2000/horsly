@@ -9466,6 +9466,11 @@
       "ts": "2026-05-24T08:57:20.588Z",
       "type": "content",
       "summary": "add case study content for homepage hero section"
+    },
+    {
+      "ts": "2026-05-25T10:49:11.504Z",
+      "type": "fix",
+      "summary": "fix z-index overlap in mobile navigation menu"
     }
   ]
 }
