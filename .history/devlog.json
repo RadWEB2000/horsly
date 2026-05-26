@@ -9486,6 +9486,11 @@
       "ts": "2026-05-26T13:02:37.956Z",
       "type": "perf",
       "summary": "implement ISR with 24h revalidation for breed pages"
+    },
+    {
+      "ts": "2026-05-26T13:58:36.293Z",
+      "type": "fix",
+      "summary": "correct structured data JSON-LD syntax error in product schema"
     }
   ]
 }
