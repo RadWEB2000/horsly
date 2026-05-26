@@ -9481,6 +9481,11 @@
       "ts": "2026-05-25T15:17:40.502Z",
       "type": "feat",
       "summary": "add news feed with article schema"
+    },
+    {
+      "ts": "2026-05-26T13:02:37.956Z",
+      "type": "perf",
+      "summary": "implement ISR with 24h revalidation for breed pages"
     }
   ]
 }
