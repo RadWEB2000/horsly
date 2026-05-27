@@ -9491,6 +9491,11 @@
       "ts": "2026-05-26T13:58:36.293Z",
       "type": "fix",
       "summary": "correct structured data JSON-LD syntax error in product schema"
+    },
+    {
+      "ts": "2026-05-27T07:36:53.814Z",
+      "type": "refactor",
+      "summary": "extract canonical URL logic to middleware"
     }
   ]
 }
