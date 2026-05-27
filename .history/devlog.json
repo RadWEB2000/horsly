@@ -9501,6 +9501,11 @@
       "ts": "2026-05-27T08:08:49.574Z",
       "type": "feat",
       "summary": "implement search engine preview component"
+    },
+    {
+      "ts": "2026-05-27T09:34:02.670Z",
+      "type": "perf",
+      "summary": "reduce JS bundle by removing unused lodash methods"
     }
   ]
 }
