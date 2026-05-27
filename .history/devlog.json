@@ -9496,6 +9496,11 @@
       "ts": "2026-05-27T07:36:53.814Z",
       "type": "refactor",
       "summary": "extract canonical URL logic to middleware"
+    },
+    {
+      "ts": "2026-05-27T08:08:49.574Z",
+      "type": "feat",
+      "summary": "implement search engine preview component"
     }
   ]
 }
