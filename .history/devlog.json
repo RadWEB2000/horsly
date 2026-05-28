@@ -9516,6 +9516,11 @@
       "ts": "2026-05-28T09:16:18.837Z",
       "type": "feat",
       "summary": "add video gallery for competition replays"
+    },
+    {
+      "ts": "2026-05-28T13:14:38.973Z",
+      "type": "refactor",
+      "summary": "consolidate Open Graph defaults into config object"
     }
   ]
 }
