@@ -9521,6 +9521,11 @@
       "ts": "2026-05-28T13:14:38.973Z",
       "type": "refactor",
       "summary": "consolidate Open Graph defaults into config object"
+    },
+    {
+      "ts": "2026-05-29T09:02:11.255Z",
+      "type": "docs",
+      "summary": "add contributing guide for content editors"
     }
   ]
 }
