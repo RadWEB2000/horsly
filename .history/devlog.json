@@ -9526,6 +9526,11 @@
       "ts": "2026-05-29T09:02:11.255Z",
       "type": "docs",
       "summary": "add contributing guide for content editors"
+    },
+    {
+      "ts": "2026-05-29T10:47:05.115Z",
+      "type": "feat",
+      "summary": "implement advanced search with faceted filters"
     }
   ]
 }
