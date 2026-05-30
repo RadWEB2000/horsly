@@ -6,7 +6,7 @@ export const menu = [
 
         {
             label: "Odkrywaj",
-            href: "/map"
+            href: "/discover"
         },
         {
             label: "Produkty",

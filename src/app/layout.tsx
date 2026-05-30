@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import "@/css/global.css";
 import { inter, playfair } from "@/assets/fonts";
 import { Navigation } from "@/layout/navigation";
+import { Footer } from "@/layout/footer";
 
 
 
@@ -23,6 +24,7 @@ export default function RootLayout({
       <body className="min-h-full flex flex-col">
         <Navigation/>
         {children}
+        <Footer/>
       </body>
     </html>
   );
