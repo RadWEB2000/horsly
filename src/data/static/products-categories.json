@@ -1,0 +1,476 @@
+[
+  {
+    "label": "Konie",
+    "uri": "konie",
+    "items": [
+      {
+        "label": "Sprzedaż",
+        "uri": "sprzedaz",
+        "items": [
+          {
+            "label": "Konie sportowe",
+            "uri": "konie-sportowe",
+            "items": [
+              {
+                "label": "Skoki",
+                "uri": "skoki"
+              },
+              {
+                "label": "Ujeżdżenie",
+                "uri": "ujezdzenie"
+              },
+              {
+                "label": "WKKW",
+                "uri": "wkkw"
+              },
+              {
+                "label": "Western",
+                "uri": "western"
+              }
+            ]
+          },
+          {
+            "label": "Konie rekreacyjne",
+            "uri": "konie-rekreacyjne"
+          },
+          {
+            "label": "Kuce",
+            "uri": "kuce"
+          },
+          {
+            "label": "Źrebięta",
+            "uri": "zrebieta"
+          }
+        ]
+      },
+      {
+        "label": "Dzierżawa",
+        "uri": "dzierzawa"
+      },
+      {
+        "label": "Stanówka",
+        "uri": "stanowka"
+      },
+      {
+        "label": "Embriotransfer",
+        "uri": "embriotransfer"
+      }
+    ]
+  },
+  {
+    "label": "Jeździec",
+    "uri": "jezdziec",
+    "items": [
+      {
+        "label": "Odzież",
+        "uri": "odziez",
+        "items": [
+          {
+            "label": "Bryczesy",
+            "uri": "bryczesy",
+            "items": [
+              {
+                "label": "Damskie",
+                "uri": "damskie"
+              },
+              {
+                "label": "Męskie",
+                "uri": "meskie"
+              },
+              {
+                "label": "Dziecięce",
+                "uri": "dzieciece"
+              }
+            ]
+          },
+          {
+            "label": "Koszulki konkursowe",
+            "uri": "koszulki-konkursowe"
+          },
+          {
+            "label": "Fraki",
+            "uri": "fraki"
+          },
+          {
+            "label": "Kurtki",
+            "uri": "kurtki"
+          }
+        ]
+      },
+      {
+        "label": "Obuwie",
+        "uri": "obuwie",
+        "items": [
+          {
+            "label": "Sztyblety",
+            "uri": "sztyblety"
+          },
+          {
+            "label": "Oficerki",
+            "uri": "oficerki"
+          },
+          {
+            "label": "Kalosze",
+            "uri": "kalosze"
+          }
+        ]
+      },
+      {
+        "label": "Ochrona",
+        "uri": "ochrona",
+        "items": [
+          {
+            "label": "Kaski",
+            "uri": "kaski"
+          },
+          {
+            "label": "Kamizelki",
+            "uri": "kamizelki"
+          },
+          {
+            "label": "Airbag",
+            "uri": "airbag"
+          }
+        ]
+      },
+      {
+        "label": "Akcesoria",
+        "uri": "akcesoria",
+        "items": [
+          {
+            "label": "Rękawiczki",
+            "uri": "rekawiczki"
+          },
+          {
+            "label": "Ostrogi",
+            "uri": "ostrogi"
+          },
+          {
+            "label": "Palcaty",
+            "uri": "palcaty"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Siodlarnia",
+    "uri": "siodlarnia",
+    "items": [
+      {
+        "label": "Siodła",
+        "uri": "siodla",
+        "items": [
+          {
+            "label": "Skokowe",
+            "uri": "skokowe",
+            "items": [
+              {
+                "label": "Nowe",
+                "uri": "nowe"
+              },
+              {
+                "label": "Używane",
+                "uri": "uzywane"
+              }
+            ]
+          },
+          {
+            "label": "Ujeżdżeniowe",
+            "uri": "ujezdzeniowe"
+          },
+          {
+            "label": "Wszechstronne",
+            "uri": "wszechstronne"
+          },
+          {
+            "label": "Westernowe",
+            "uri": "westernowe"
+          }
+        ]
+      },
+      {
+        "label": "Ogłowia",
+        "uri": "oglowia",
+        "items": [
+          {
+            "label": "Anatomiczne",
+            "uri": "anatomiczne"
+          },
+          {
+            "label": "Micklem",
+            "uri": "micklem"
+          },
+          {
+            "label": "Klasyczne",
+            "uri": "klasyczne"
+          }
+        ]
+      },
+      {
+        "label": "Wędzidła",
+        "uri": "wedzidla",
+        "items": [
+          {
+            "label": "Oliwkowe",
+            "uri": "oliwkowe"
+          },
+          {
+            "label": "Pessoa",
+            "uri": "pessoa"
+          },
+          {
+            "label": "Pelham",
+            "uri": "pelham"
+          },
+          {
+            "label": "Bezwędzidłowe",
+            "uri": "bezwedzidlowe"
+          }
+        ]
+      },
+      {
+        "label": "Akcesoria",
+        "uri": "akcesoria"
+      }
+    ]
+  },
+  {
+    "label": "Dla konia",
+    "uri": "dla-konia",
+    "items": [
+      {
+        "label": "Derki",
+        "uri": "derki",
+        "items": [
+          {
+            "label": "Zimowe",
+            "uri": "zimowe",
+            "items": [
+              {
+                "label": "100g",
+                "uri": "100g"
+              },
+              {
+                "label": "200g",
+                "uri": "200g"
+              },
+              {
+                "label": "300g+",
+                "uri": "300g-plus"
+              }
+            ]
+          },
+          {
+            "label": "Przeciwdeszczowe",
+            "uri": "przeciwdeszczowe"
+          },
+          {
+            "label": "Polarowe",
+            "uri": "polarowe"
+          },
+          {
+            "label": "Siatkowe",
+            "uri": "siatkowe"
+          }
+        ]
+      },
+      {
+        "label": "Czapraki",
+        "uri": "czapraki",
+        "items": [
+          {
+            "label": "Skokowe",
+            "uri": "skokowe"
+          },
+          {
+            "label": "Ujeżdżeniowe",
+            "uri": "ujezdzeniowe"
+          },
+          {
+            "label": "Western",
+            "uri": "western"
+          }
+        ]
+      },
+      {
+        "label": "Ochraniacze",
+        "uri": "ochraniacze",
+        "items": [
+          {
+            "label": "Przednie",
+            "uri": "przednie"
+          },
+          {
+            "label": "Tylne",
+            "uri": "tylne"
+          },
+          {
+            "label": "Transportowe",
+            "uri": "transportowe"
+          },
+          {
+            "label": "Crossowe",
+            "uri": "crossowe"
+          }
+        ]
+      },
+      {
+        "label": "Kantary",
+        "uri": "kantary"
+      }
+    ]
+  },
+  {
+    "label": "Żywienie",
+    "uri": "zywienie",
+    "items": [
+      {
+        "label": "Pasze",
+        "uri": "pasze",
+        "items": [
+          {
+            "label": "Sportowe",
+            "uri": "sportowe"
+          },
+          {
+            "label": "Rekreacyjne",
+            "uri": "rekreacyjne"
+          },
+          {
+            "label": "Senior",
+            "uri": "senior"
+          },
+          {
+            "label": "Źrebięta",
+            "uri": "zrebieta"
+          }
+        ]
+      },
+      {
+        "label": "Suplementy",
+        "uri": "suplementy",
+        "items": [
+          {
+            "label": "Stawy",
+            "uri": "stawy"
+          },
+          {
+            "label": "Kopyta",
+            "uri": "kopyta"
+          },
+          {
+            "label": "Układ oddechowy",
+            "uri": "uklad-oddechowy"
+          },
+          {
+            "label": "Nerwowe konie",
+            "uri": "nerwowe-konie"
+          }
+        ]
+      },
+      {
+        "label": "Siano",
+        "uri": "siano"
+      }
+    ]
+  },
+  {
+    "label": "Transport",
+    "uri": "transport",
+    "items": [
+      {
+        "label": "Przyczepy",
+        "uri": "przyczepy",
+        "items": [
+          {
+            "label": "1 koń",
+            "uri": "1-kon"
+          },
+          {
+            "label": "2 konie",
+            "uri": "2-konie"
+          },
+          {
+            "label": "3+ konie",
+            "uri": "3-plus-konie"
+          }
+        ]
+      },
+      {
+        "label": "Koniowozy",
+        "uri": "koniowozy"
+      },
+      {
+        "label": "Akcesoria transportowe",
+        "uri": "akcesoria-transportowe"
+      }
+    ]
+  },
+  {
+    "label": "Stajnia",
+    "uri": "stajnia",
+    "items": [
+      {
+        "label": "Boksy",
+        "uri": "boksy"
+      },
+      {
+        "label": "Maty",
+        "uri": "maty"
+      },
+      {
+        "label": "Ogrodzenia",
+        "uri": "ogrodzenia",
+        "items": [
+          {
+            "label": "Taśmy",
+            "uri": "tasmy"
+          },
+          {
+            "label": "Paliki",
+            "uri": "paliki"
+          },
+          {
+            "label": "Izolatory",
+            "uri": "izolatory"
+          }
+        ]
+      },
+      {
+        "label": "Poidła",
+        "uri": "poidla"
+      },
+      {
+        "label": "Żłoby",
+        "uri": "zloby"
+      }
+    ]
+  },
+  {
+    "label": "Zdrowie",
+    "uri": "zdrowie",
+    "items": [
+      {
+        "label": "Weterynaria",
+        "uri": "weterynaria"
+      },
+      {
+        "label": "Fizjoterapia",
+        "uri": "fizjoterapia"
+      },
+      {
+        "label": "Podologia",
+        "uri": "podologia"
+      },
+      {
+        "label": "Kowalstwo",
+        "uri": "kowalstwo"
+      },
+      {
+        "label": "Kosmetyki",
+        "uri": "kosmetyki"
+      }
+    ]
+  }
+]

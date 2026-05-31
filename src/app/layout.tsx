@@ -3,7 +3,7 @@ import "@/css/global.css";
 import { inter, playfair } from "@/assets/fonts";
 import { Navigation } from "@/layout/navigation";
 import { Footer } from "@/layout/footer";
-import { GoogleTagManager, GoogleAnalytics } from '@next/third-parties/google'
+import { GoogleTagManager } from '@next/third-parties/google'
 
 
 export const metadata: Metadata = {
@@ -28,7 +28,6 @@ export default function RootLayout({
         {children}
         <Footer/>
       </body>
-      <GoogleAnalytics gaId="G-N35096LVNC" />
     </html>
   );
 }

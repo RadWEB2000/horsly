@@ -1,0 +1,182 @@
+[
+  {
+    "label": "Eskadron",
+    "uri": "/produkty/eskadron",
+    "popularity": 9.8,
+    "promo": true
+  },
+  {
+    "label": "LeMieux",
+    "uri": "/produkty/lemieux",
+    "popularity": 9.7,
+    "promo": true
+  },
+  {
+    "label": "Kentucky Horsewear",
+    "uri": "/produkty/kentucky-horsewear",
+    "popularity": 9.6,
+    "promo": false
+  },
+  {
+    "label": "Samshield",
+    "uri": "/produkty/samshield",
+    "popularity": 9.5,
+    "promo": true
+  },
+  {
+    "label": "Kingsland",
+    "uri": "/produkty/kingsland",
+    "popularity": 9.4,
+    "promo": false
+  },
+  {
+    "label": "PS of Sweden",
+    "uri": "/produkty/ps-of-sweden",
+    "popularity": 9.3,
+    "promo": true
+  },
+  {
+    "label": "Prestige",
+    "uri": "/produkty/prestige",
+    "popularity": 9.2,
+    "promo": false
+  },
+  {
+    "label": "Equiline",
+    "uri": "/produkty/equiline",
+    "popularity": 9.1,
+    "promo": false
+  },
+  {
+    "label": "Ariat",
+    "uri": "/produkty/ariat",
+    "popularity": 9.0,
+    "promo": true
+  },
+  {
+    "label": "Fair Play",
+    "uri": "/produkty/fair-play",
+    "popularity": 8.9,
+    "promo": true
+  },
+  {
+    "label": "Horze",
+    "uri": "/produkty/horze",
+    "popularity": 8.8,
+    "promo": false
+  },
+  {
+    "label": "Waldhausen",
+    "uri": "/produkty/waldhausen",
+    "popularity": 8.7,
+    "promo": false
+  },
+  {
+    "label": "HKM",
+    "uri": "/produkty/hkm",
+    "popularity": 8.6,
+    "promo": false
+  },
+  {
+    "label": "Covalliero",
+    "uri": "/produkty/covalliero",
+    "popularity": 8.5,
+    "promo": false
+  },
+  {
+    "label": "QHP",
+    "uri": "/produkty/qhp",
+    "popularity": 8.4,
+    "promo": false
+  },
+  {
+    "label": "Pikeur",
+    "uri": "/produkty/pikeur",
+    "popularity": 8.3,
+    "promo": true
+  },
+  {
+    "label": "Cavallo",
+    "uri": "/produkty/cavallo",
+    "popularity": 8.2,
+    "promo": false
+  },
+  {
+    "label": "Busse",
+    "uri": "/produkty/busse",
+    "popularity": 8.1,
+    "promo": false
+  },
+  {
+    "label": "Back on Track",
+    "uri": "/produkty/back-on-track",
+    "popularity": 8.0,
+    "promo": true
+  },
+  {
+    "label": "Veredus",
+    "uri": "/produkty/veredus",
+    "popularity": 7.9,
+    "promo": false
+  },
+  {
+    "label": "Acavallo",
+    "uri": "/produkty/acavallo",
+    "popularity": 7.8,
+    "promo": false
+  },
+  {
+    "label": "Sprenger",
+    "uri": "/produkty/sprenger",
+    "popularity": 7.7,
+    "promo": false
+  },
+  {
+    "label": "Charles Owen",
+    "uri": "/produkty/charles-owen",
+    "popularity": 7.6,
+    "promo": true
+  },
+  {
+    "label": "Uvex",
+    "uri": "/produkty/uvex",
+    "popularity": 7.5,
+    "promo": false
+  },
+  {
+    "label": "Kask",
+    "uri": "/produkty/kask",
+    "popularity": 7.4,
+    "promo": false
+  },
+  {
+    "label": "Cavalor",
+    "uri": "/produkty/cavalor",
+    "popularity": 7.3,
+    "promo": true
+  },
+  {
+    "label": "Pavo",
+    "uri": "/produkty/pavo",
+    "popularity": 7.2,
+    "promo": false
+  },
+  {
+    "label": "St. Hippolyt",
+    "uri": "/produkty/st-hippolyt",
+    "popularity": 7.1,
+    "promo": false
+  },
+  {
+    "label": "NAF",
+    "uri": "/produkty/naf",
+    "popularity": 7.0,
+    "promo": true
+  },
+  {
+    "label": "Kerbl",
+    "uri": "/produkty/kerbl",
+    "popularity": 6.9,
+    "promo": false
+  }
+]

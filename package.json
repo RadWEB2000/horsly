@@ -15,6 +15,7 @@
     "@toolwind/anchors": "^1.0.10",
     "@toolwind/corner-shape": "^0.0.8-3",
     "@vis.gl/react-maplibre": "^8.1.1",
+    "framer-motion": "^12.40.0",
     "leaflet": "^1.9.4",
     "lucide-react": "^1.17.0",
     "maplibre-gl": "^5.24.0",

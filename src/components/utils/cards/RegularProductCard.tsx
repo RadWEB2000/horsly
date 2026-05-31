@@ -25,7 +25,12 @@ export default function RegularProductCard(){
                 />
             </div>
             <span
-                className="bg-brand-stone/25 text-xs rounded px-2 py-1"
+                className="bg-yellow-400 text-xs rounded px-2 py-1"
+            >
+                nowe
+            </span>
+            <span
+                className="ml-2 bg-brand-stone/25 text-xs rounded px-2 py-1"
             >
                 obuwie
             </span>
