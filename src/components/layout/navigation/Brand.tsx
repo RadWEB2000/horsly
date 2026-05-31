@@ -12,7 +12,7 @@ export default function Brand(){
             />
             <span
                 className="font-heading text-4xl font-bold"
-            >Horsly</span>
+            >Horsia</span>
         </Link>
     )
 }

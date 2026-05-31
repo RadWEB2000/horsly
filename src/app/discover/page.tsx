@@ -10,7 +10,7 @@ export default function MapPage(){
                 className="@container/sidebar p-7 space-y-5"
             >
                 <div
-                    className="inline-flex items-center justify-start gap-3"
+                    className="@md/sidebar:inline-flex items-center justify-start gap-3"
                 >
                     <ControlPanel/>
                     <h2
@@ -18,7 +18,7 @@ export default function MapPage(){
                     >Wyniki dla: Mińska Mazowieckiego</h2>
                 </div>
                 <div
-                    className="@container/records grid grid-cols-3 gap-3"
+                    className="@container/records grid grid-cols-1 gap-3 @xs4/sidebar:grid-cols-2 @md3/sidebar:grid-cols-3"
                 >
                     <Company/>
                     <Company/>

@@ -6,7 +6,7 @@ export default function RegularCompanyCard(){
     return (
         <Link
             className="space-y-2"
-            href="#"
+            href="/discover/stadnina-koni-krajkowo"
         >
             <Image
                 alt=""
