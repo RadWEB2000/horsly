@@ -10,6 +10,7 @@
     "format": "biome format --write"
   },
   "dependencies": {
+    "@next/third-parties": "^16.2.6",
     "@toolwind/anchors": "^1.0.10",
     "@toolwind/corner-shape": "^0.0.8-3",
     "@vis.gl/react-maplibre": "^8.1.1",
