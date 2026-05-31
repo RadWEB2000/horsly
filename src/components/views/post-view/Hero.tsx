@@ -1,5 +1,6 @@
 import Image from "next/image";
 import img from "@/img/post-image.webp"
+import { Breadcrumbs } from "@/utils/ui";
 export default function Hero(){
     return (
         <header
@@ -8,6 +9,18 @@ export default function Hero(){
             <div
                 className="w-[1150px] max-w-8/10 mx-auto mt-14 @container"
             >
+                <Breadcrumbs
+                    breadcrumbs={[
+                        {
+                            href:'/blog',
+                            label:'Blog'
+                        },
+                        {
+                            href:'/blog/#',
+                            label:'Jak wybrać pierwszą stajnię do nauki jazdy konnej?'
+                        }
+                    ]}
+                />
                 <h1
                     className="text-5xl-plus leading-none text-balance font-extrabold text-black @sm4:text-7xl @md1:text-8xl-plus @md6:text-9xl-plus"
                 >Jak wybrać pierwszą stajnię do nauki jazdy konnej?</h1>

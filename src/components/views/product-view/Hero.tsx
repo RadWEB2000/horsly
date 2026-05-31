@@ -2,12 +2,25 @@ import saddle from "@/img/product-saddle.webp"
 import Image from "next/image"
 import {AvaibleSizes as Sizes, AvaibleColors as Colors} from "@/views/product-view"
 import { BuyButton as Button } from "@/utils/buttons"
+import { Breadcrumbs } from "@/utils/ui"
 
 export default function Hero(){
     return (
         <header
             className="flex flex-col md4:grid grid-cols-2 w-[1450px] mt-20 mb-10 gap-10 max-w-8/10 mx-auto @container md4:items-center"
         >
+            <Breadcrumbs
+                breadcrumbs={[
+                    {
+                        href:'/rynek',
+                        label:'Rynek'
+                    },
+                    {
+                        href:'/rynek/124',
+                        label:'Premier Equine ochraniacze crossowe Carbon tył czarne'
+                    }
+                ]}
+            />
             <div>
                 <Image
                     alt=''
