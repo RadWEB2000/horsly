@@ -1,181 +1,181 @@
 [
   {
     "label": "Eskadron",
-    "uri": "/produkty/eskadron",
+    "uri": "/rynek/eskadron",
     "popularity": 9.8,
     "promo": true
   },
   {
     "label": "LeMieux",
-    "uri": "/produkty/lemieux",
+    "uri": "/rynek/lemieux",
     "popularity": 9.7,
     "promo": true
   },
   {
     "label": "Kentucky Horsewear",
-    "uri": "/produkty/kentucky-horsewear",
+    "uri": "/rynek/kentucky-horsewear",
     "popularity": 9.6,
     "promo": false
   },
   {
     "label": "Samshield",
-    "uri": "/produkty/samshield",
+    "uri": "/rynek/samshield",
     "popularity": 9.5,
     "promo": true
   },
   {
     "label": "Kingsland",
-    "uri": "/produkty/kingsland",
+    "uri": "/rynek/kingsland",
     "popularity": 9.4,
     "promo": false
   },
   {
     "label": "PS of Sweden",
-    "uri": "/produkty/ps-of-sweden",
+    "uri": "/rynek/ps-of-sweden",
     "popularity": 9.3,
     "promo": true
   },
   {
     "label": "Prestige",
-    "uri": "/produkty/prestige",
+    "uri": "/rynek/prestige",
     "popularity": 9.2,
     "promo": false
   },
   {
     "label": "Equiline",
-    "uri": "/produkty/equiline",
+    "uri": "/rynek/equiline",
     "popularity": 9.1,
     "promo": false
   },
   {
     "label": "Ariat",
-    "uri": "/produkty/ariat",
+    "uri": "/rynek/ariat",
     "popularity": 9.0,
     "promo": true
   },
   {
     "label": "Fair Play",
-    "uri": "/produkty/fair-play",
+    "uri": "/rynek/fair-play",
     "popularity": 8.9,
     "promo": true
   },
   {
     "label": "Horze",
-    "uri": "/produkty/horze",
+    "uri": "/rynek/horze",
     "popularity": 8.8,
     "promo": false
   },
   {
     "label": "Waldhausen",
-    "uri": "/produkty/waldhausen",
+    "uri": "/rynek/waldhausen",
     "popularity": 8.7,
     "promo": false
   },
   {
     "label": "HKM",
-    "uri": "/produkty/hkm",
+    "uri": "/rynek/hkm",
     "popularity": 8.6,
     "promo": false
   },
   {
     "label": "Covalliero",
-    "uri": "/produkty/covalliero",
+    "uri": "/rynek/covalliero",
     "popularity": 8.5,
     "promo": false
   },
   {
     "label": "QHP",
-    "uri": "/produkty/qhp",
+    "uri": "/rynek/qhp",
     "popularity": 8.4,
     "promo": false
   },
   {
     "label": "Pikeur",
-    "uri": "/produkty/pikeur",
+    "uri": "/rynek/pikeur",
     "popularity": 8.3,
     "promo": true
   },
   {
     "label": "Cavallo",
-    "uri": "/produkty/cavallo",
+    "uri": "/rynek/cavallo",
     "popularity": 8.2,
     "promo": false
   },
   {
     "label": "Busse",
-    "uri": "/produkty/busse",
+    "uri": "/rynekusse",
     "popularity": 8.1,
     "promo": false
   },
   {
     "label": "Back on Track",
-    "uri": "/produkty/back-on-track",
+    "uri": "/rynekack-on-track",
     "popularity": 8.0,
     "promo": true
   },
   {
     "label": "Veredus",
-    "uri": "/produkty/veredus",
+    "uri": "/rynek/veredus",
     "popularity": 7.9,
     "promo": false
   },
   {
     "label": "Acavallo",
-    "uri": "/produkty/acavallo",
+    "uri": "/rynek/acavallo",
     "popularity": 7.8,
     "promo": false
   },
   {
     "label": "Sprenger",
-    "uri": "/produkty/sprenger",
+    "uri": "/rynek/sprenger",
     "popularity": 7.7,
     "promo": false
   },
   {
     "label": "Charles Owen",
-    "uri": "/produkty/charles-owen",
+    "uri": "/rynek/charles-owen",
     "popularity": 7.6,
     "promo": true
   },
   {
     "label": "Uvex",
-    "uri": "/produkty/uvex",
+    "uri": "/rynek/uvex",
     "popularity": 7.5,
     "promo": false
   },
   {
     "label": "Kask",
-    "uri": "/produkty/kask",
+    "uri": "/rynek/kask",
     "popularity": 7.4,
     "promo": false
   },
   {
     "label": "Cavalor",
-    "uri": "/produkty/cavalor",
+    "uri": "/rynek/cavalor",
     "popularity": 7.3,
     "promo": true
   },
   {
     "label": "Pavo",
-    "uri": "/produkty/pavo",
+    "uri": "/rynek/pavo",
     "popularity": 7.2,
     "promo": false
   },
   {
     "label": "St. Hippolyt",
-    "uri": "/produkty/st-hippolyt",
+    "uri": "/rynek/st-hippolyt",
     "popularity": 7.1,
     "promo": false
   },
   {
     "label": "NAF",
-    "uri": "/produkty/naf",
+    "uri": "/rynek/naf",
     "popularity": 7.0,
     "promo": true
   },
   {
     "label": "Kerbl",
-    "uri": "/produkty/kerbl",
+    "uri": "/rynek/kerbl",
     "popularity": 6.9,
     "promo": false
   }

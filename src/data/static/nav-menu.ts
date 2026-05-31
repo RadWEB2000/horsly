@@ -9,8 +9,8 @@ export const menu = [
             href: "/odkrywaj"
         },
         {
-            label: "Produkty",
-            href: "/produkty"
+            label: "Rynek",
+            href: "/rynek"
         },
         {
             label: "Blog",

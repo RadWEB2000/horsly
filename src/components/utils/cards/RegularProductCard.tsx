@@ -6,7 +6,7 @@ export default function RegularProductCard(){
     return (
         <Link
             className="group"
-            href="/produkty/124"
+            href="/rynek/p/124"
         >
             <div
                 className="relative mb-2 aspect-4/5 overflow-hidden rounded-lg"

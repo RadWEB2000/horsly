@@ -2,7 +2,9 @@ import { Brands, Categories, ControlPanel } from "@/views/products-view";
 import { RegularProductCard  as Product} from "@/utils/cards";
 
 
-export default function ProductsPage(){
+export default async function ProductsPage({params}: {params: Promise<{products?: Array<string>}>}){
+    const { products = [] } = await params
+    console.log(products)
     return (
         <>
             <div

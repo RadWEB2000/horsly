@@ -33,7 +33,7 @@ export default function CategoryList({categories}: {categories: Array<T_Category
                                 <span className="size-5" />
                             )}
 
-                            <Link className="hover:underline" href={`/produkty/${category.uri}`}>
+                            <Link className="hover:underline" href={`/rynek/${category.uri}`}>
                                 {category.label}
                             </Link>
                         </div>
@@ -58,7 +58,7 @@ export default function CategoryList({categories}: {categories: Array<T_Category
                                     }}
                                     className="overflow-hidden"
                                 >
-                                    <div className="ml-6 mt-2">
+                                    <div className="ml-3 mt-2">
                                         <CategoryList
                                             categories={category.items}
                                         />
