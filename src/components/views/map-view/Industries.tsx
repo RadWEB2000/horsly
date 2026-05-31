@@ -21,7 +21,7 @@ export default function Industries(){
             className="space-y-2"
         >
             <h2
-                className="text-3xl-plus font-semibold"
+                className="text-2xl-plus font-semibold"
             >Wybierz branżę</h2>
             <ul
                 className="flex items-center justify-start gap-2 flex-wrap "
