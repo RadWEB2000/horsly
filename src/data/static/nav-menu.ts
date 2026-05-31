@@ -6,11 +6,11 @@ export const menu = [
 
         {
             label: "Odkrywaj",
-            href: "/discover"
+            href: "/odkrywaj"
         },
         {
             label: "Produkty",
-            href: "/products"
+            href: "/produkty"
         },
         {
             label: "Blog",

@@ -10,7 +10,7 @@ export default function Hero(){
         >
             <Image
                 alt=""
-                className="aspect-16/6 object-cover brightness-90 rounded-xl col-span-full"
+                className="aspect-16/6 object-cover brightness-90 rounded-xl"
                 {...barn}
             />
             <section>
@@ -19,7 +19,7 @@ export default function Hero(){
                 >Stajnia Idmar Krajkowo</h1>
                 <strong
                     className="block text-balance font-medium text-sm-plus"
-                >Konie zagościły w naszym życiu dzięki pasji powożenia. Wiele nagród uzyskanych w tej dziedzinie na przestrzeni lat zarówno na konkursach w Polsce jak i po za jej granicami dało nam olbrzymią satysfakcję. Dziś hodujemy, trenujemy i prezentujemy głównie konie skokowe. Wierzymy że wszechstronne przygotowanie zarówno od strony technicznej jak i psychicznej konia daje najlepsze efekty.</strong>
+                >Konie zagościły w naszym życiu dzięki pasji powożenia. Wiele nagród uzyskanych w tej dziedzinie na przestrzeni lat zarówno na konkursach w Polsce jak i po za jej granicami dało nam olbrzymią satysfakcję.</strong>
                 <div
                     className="flex flex-row flex-wrap items-center justify-start gap-6 mt-6"
                 >
@@ -54,7 +54,7 @@ export default function Hero(){
                     </Link>
                 </div>
             </section>
-            <iframe className="w-full min-h-82" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2445.2695196172726!2d16.956729726661813!3d52.202149471979524!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47045525deb78069%3A0xdbf4e444cf307db5!2sRiding%20Center%20IDMAR%20Krajkowo!5e0!3m2!1spl!2spl!4v1780213299914!5m2!1spl!2spl" loading="lazy" referrerPolicy="no-referrer-when-downgrade"/>
+            <iframe className="w-full min-h-82 rounded-xl h-full row-start-1 row-end-3 col-start-2" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2445.2695196172726!2d16.956729726661813!3d52.202149471979524!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47045525deb78069%3A0xdbf4e444cf307db5!2sRiding%20Center%20IDMAR%20Krajkowo!5e0!3m2!1spl!2spl!4v1780213299914!5m2!1spl!2spl" loading="lazy" referrerPolicy="no-referrer-when-downgrade"/>
         </header>
     )
 }

@@ -103,7 +103,7 @@ export default function Map(){
   );
     return (
                 <div
-                    className="w-9/10 h-[780px] max-h-screen rounded-2xl overflow-hidden!"
+                    className="w-9/10 h-[680px] max-h-screen rounded-2xl overflow-hidden!"
                     >
                     <MapContainer
                           initialViewState={{

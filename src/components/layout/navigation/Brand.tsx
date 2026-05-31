@@ -7,11 +7,11 @@ export default function Brand(){
         <Link className="inline-flex items-center" href='/'>
             <Image
                 alt="logo"
-                className="size-16"
+                className="size-12"
                 {...logo}
             />
             <span
-                className="font-heading text-4xl font-bold"
+                className="font-heading ml-2 text-4xl font-bold"
             >Horsia</span>
         </Link>
     )
