@@ -3,7 +3,7 @@ import "@/css/global.css";
 import { inter, playfair } from "@/assets/fonts";
 import { Navigation } from "@/layout/navigation";
 import { Footer } from "@/layout/footer";
-import { GoogleTagManager } from '@next/third-parties/google'
+import { GoogleTagManager, GoogleAnalytics } from '@next/third-parties/google'
 
 
 export const metadata: Metadata = {
@@ -21,12 +21,14 @@ export default function RootLayout({
       lang="pl-PL"
       className={`${inter.variable} ${playfair.variable} h-full antialiased`}
     >
+      <meta name="google-site-verification" content="W1P8OrXlNQRLIWTiCFiWAyfMVbrZ9cIdENkxY5ZP5dA" />
       <GoogleTagManager gtmId="GTM-M455RKXT" />
       <body className="min-h-full flex flex-col">
         <Navigation/>
         {children}
         <Footer/>
       </body>
+      <GoogleAnalytics gaId="G-N35096LVNC" />
     </html>
   );
 }
