@@ -6,7 +6,7 @@ export default function Hero(){
             className="bg-[color-mix(in_srgb,var(--color-brand-parchment)_97%,var(--color-brand-caramel))] min-h-[45vh] mb-40"
         >
             <div
-                className="w-[1150px] max-w-8/10 mx-auto mt-4 @container"
+                className="w-[1150px] max-w-8/10 mx-auto mt-14 @container"
             >
                 <h1
                     className="text-5xl-plus leading-none text-balance font-extrabold text-black @sm4:text-7xl @md1:text-8xl-plus @md6:text-9xl-plus"
